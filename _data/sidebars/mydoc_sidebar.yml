@@ -116,8 +116,8 @@ entries:
       url: /ccpa_statute.html
       output: web, pdf
 
-    - title: CCPA Regs
-      url: /mydoc_pages.html
+    - title: CCPA Regulations
+      url: /ccpa_regulations.html
       output: web, pdf
 
     - title: CCPA Draft Legislation
