@@ -108,6 +108,35 @@ entries:
       url: /mydoc_atom_text_editor.html
       output: web, pdf
 
+  - title: California
+    output: web, pdf
+
+    folderitems:
+    - title: CCPA Statute
+      url: /mydoc_pages.html
+      output: web, pdf
+
+    folderitems:
+    - title: CCPA Regs
+      url: /mydoc_pages.html
+      output: web, pdf
+
+    folderitems:
+    - title: CCPA Draft Legislation
+      url: /mydoc_pages.html
+      output: web, pdf
+
+    folderitems:
+    - title: Legislative History
+      url: /mydoc_pages.html
+      output: web, pdf
+
+    folderitems:
+    - title: Notes
+      url: /mydoc_pages.html
+      output: web, pdf
+
+
   - title: Navigation
     output: web, pdf
 
