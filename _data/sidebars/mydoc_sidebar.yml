@@ -113,7 +113,7 @@ entries:
 
     folderitems:
     - title: CCPA Statute
-      url: /mydoc_pages.html
+      url: /ccpa_statute.html
       output: web, pdf
 
     - title: CCPA Regs
