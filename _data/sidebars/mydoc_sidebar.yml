@@ -121,17 +121,40 @@ entries:
       output: web, pdf
 
     - title: CCPA Draft Legislation
-      url: /mydoc_pages.html
+      url: /ccpa_draft.html
       output: web, pdf
 
     - title: Legislative History
-      url: /mydoc_pages.html
+      url: /ccpa_history.html
       output: web, pdf
 
     - title: Notes
-      url: /mydoc_pages.html
+      url: /ccpa_notes.html
       output: web, pdf
 
+  - title: Colorado
+    output: web, pdf
+
+    folderitems:
+    - title: CPA Statute
+      url: /cpa_statute.html
+      output: web, pdf
+
+    - title: CPA Regulations
+      url: /cpa_regulations.html
+      output: web, pdf
+
+    - title: CPA Draft Legislation
+      url: /cpa_draft.html
+      output: web, pdf
+
+    - title: Legislative History
+      url: /cpa_history.html
+      output: web, pdf
+
+    - title: Notes
+      url: /cpa_notes.html
+      output: web, pdf
 
   - title: Navigation
     output: web, pdf
