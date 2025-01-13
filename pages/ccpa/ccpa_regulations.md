@@ -3,7 +3,7 @@ title: CCPA Regulations Text
 tags: 
 keywords: ccpa, cpra, california
 last_updated: January 11, 2025
-summary: "Below is the full text of the California Consumer Privacy Act Regulations. 11 CCR § 7000 et seq."
+summary: "Below is the full text of the California Consumer Privacy Act Regulations. 11 CCR §§ 7000 et seq."
 sidebar: mydoc_sidebar
 permalink: ccpa_regulations.html
 folder: ccpa
@@ -994,3 +994,204 @@ Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.10
 requests, verification, or fraud prevention.
 
 Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.100, 1798.105, 1798.106, 1798.110, 1798.115, 1798.130 and 1798.185, Civil Code.
+
+## § 7070. Consumers Less Than 13 Years of Age.
+(a) Process for Opting-In to Sale or Sharing of Personal Information
+
+(1) A business that has actual knowledge that it sells or shares the personal information of a consumer less than the age of 13 shall establish, document, and comply with a reasonable method for determining that the person consenting to the sale or sharing of the personal information about the child is the parent or guardian of that child. This consent to the sale or sharing of personal information is in addition to any verifiable parental consent required under COPPA.
+
+(2) Methods that are reasonably calculated to ensure that the person providing consent is the child’s parent or guardian include, but are not limited to:
+
+(A) Providing a consent form to be signed by the parent or guardian under penalty of perjury and returned to the business by postal mail, facsimile, or electronic scan;
+
+(B) Requiring a parent or guardian, in connection with a monetary transaction, to use a credit card, debit card, or other online payment system that provides notification of each discrete transaction to the primary account holder; 
+
+(C) Having a parent or guardian call a toll-free telephone number staffed by trained personnel;
+
+(D) Having a parent or guardian connect to trained personnel via video-conference;
+
+(E) Having a parent or guardian communicate in person with trained personnel; and
+
+(F) Verifying a parent or guardian’s identity by checking a form of government-issued identification against databases of such information, as long as the parent or guardian’s identification is deleted by the business from its records promptly after such verification is complete.
+
+(b) When a business receives consent to the sale or sharing of personal information pursuant to subsection (a), the business shall inform the parent or guardian of the right to opt-out of sale/sharing and of the process for doing so on behalf of their child pursuant to section 7026, subsections (a)-(f).
+
+(c) A business shall establish, document, and comply with a reasonable method, in accordance with the methods set forth in subsection (a)(2), for determining that a person submitting a request to delete, request to correct, or request to know the personal information of a child under the age of 13 is the parent or guardian of that child.
+
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.120, 1798.135 and 1798.185, Civil Code.
+
+## § 7071. Consumers at Least 13 Years of Age and Less Than 16 Years of Age.
+(a) A business that has actual knowledge that it sells or shares the personal information of consumers at least 13 years of age and less than 16 years of age shall establish, document, and comply with a reasonable process for allowing such consumers to opt-in to the sale or sharing of their personal information, pursuant to section 7028.
+
+(b) When a business receives a request to opt-in to the sale or sharing of personal information from a consumer at least 13 years of age and less than 16 years of age, the business shall inform the consumer of their ongoing right to opt-out of sale/sharing at any point in the future and of the process for doing so pursuant to section 7026.
+
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.120, 1798.135 and 1798.185, Civil Code.
+
+## § 7072. Notices to Consumers Less Than 16 Years of Age.
+(a) A business subject to sections 7070 and/or 7071 shall include a description of the processes set forth in those sections in its privacy policy.
+
+(b) A business that exclusively targets offers of goods or services directly to consumers under 16 years of age and does not sell or share the personal information without the consent of consumers at least 13 years of age and less than 16 years of age, or the consent of their parent or guardian for consumers under 13 years of age, is not required to provide the Notice of Right to Opt-out of Sale/Sharing.
+
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.120, 1798.135 and 1798.185, Civil Code.
+
+## ARTICLE 7. NON-DISCRIMINATION
+
+## § 7080. Discriminatory Practices.
+(a) A price or service difference is discriminatory, and therefore prohibited by Civil Code section 1798.125, if the business treats a consumer differently because the consumer exercised a right conferred by the CCPA or these regulations.
+
+(b) A business may offer a price or service difference that is non-discriminatory. A price or service difference is non-discriminatory if it is reasonably related to the value of the consumer’s data. If a business is unable to calculate a good-faith estimate of the value of the consumer’s data or cannot show that the price or service difference is reasonably related to the value of the consumer’s data, that business shall not offer the price or service difference.
+
+(c) A business’s denial of a consumer’s request to delete, request to correct, request to know, or request to opt-out of sale/sharing for reasons permitted by the CCPA or these regulations shall not be considered discriminatory.
+
+(d) Illustrative examples follow:
+
+(1) Example 1: A music streaming business offers a free service as well as a premium service that costs $5 per month. If only the consumers who pay for the music streaming service are allowed to opt-out of the sale or sharing of their personal information, then the practice is discriminatory, unless the $5-per-month payment is reasonably related to the value of the consumer’s data to the business.
+
+(2) Example 2: A clothing business offers a loyalty program whereby customers receive a $5-off coupon by email after spending $100 with the business. A consumer submits a request to delete all personal information the business has collected about them but also informs the business that they want to continue to participate in the loyalty program. The business may deny their request to delete with regard to their email address and the amount the consumer has spent with the business because that information is necessary for the business to provide the loyalty program requested by the consumer and is reasonably anticipated within the context of the business’s ongoing relationship with them pursuant to Civil Code section 1798.105, subdivision (d)(1).
+
+(3) Example 3: A grocery store offers a loyalty program whereby consumers receive coupons and special discounts when they provide their phone numbers. A consumer submits a request to opt-out of the sale/sharing of their personal information. The retailer complies with their request but no longer allows the consumer to participate in the loyalty program. This practice is discriminatory unless the grocery store can demonstrate that the value of the coupons and special discounts are reasonably related to the value of the consumer’s data to the business.
+
+(4) Example 4: An online bookseller collects information about consumers, including their email addresses. It offers coupons to consumers through browser pop-up windows while the consumer uses the bookseller’s website. A consumer submits a request to delete all personal information that the bookseller has collected about them, including their email address and their browsing and purchasing history. The bookseller complies with the request but stops providing the periodic coupons to the consumer. The bookseller’s failure to provide coupons is discriminatory unless the value of the coupons is reasonably related to the value provided to the business by the consumer’s data. The bookseller may not deny the consumer’s request to delete with regard to the email address because the email address is not necessary to provide the coupons or reasonably aligned with the expectations of the consumer based on the consumer’s relationship with the business.
+
+(e) A business shall notify consumers of any financial incentive or price or service difference subject to Civil Code section 1798.125 that it offers in accordance with section 7016.
+
+(f) A business’s charging of a reasonable fee pursuant to Civil Code section 1798.145, subdivision (h)(3), shall not be considered a financial incentive subject to these regulations.
+
+(g) A price or service difference that is the direct result of compliance with a state or federal law shall not be considered discriminatory.
+
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.125, 1798.130 and 1798.185, Civil Code.
+
+## § 7081. Calculating the Value of Consumer Data.
+(a) A business offering a price or service difference subject to Civil Code section 1798.125 shall use and document a reasonable and good-faith method for calculating the value of the consumer’s data. The business shall consider one or more of the following:
+
+(1) The marginal value to the business of the sale, collection, or deletion of a consumer’s data.
+
+(2) The average value to the business of the sale, collection, or deletion of a consumer’s data.
+
+(3) The aggregate value to the business of the sale, collection, or deletion of consumers’ data divided by the total number of consumers.
+
+(4) Revenue generated by the business from sale, collection, or retention of consumers’ personal information.
+
+(5) Expenses related to the sale, collection, or retention of consumers’ personal information.
+
+(6) Expenses related to the offer, provision, or imposition of any financial incentive or price or service difference.
+
+(7) Profit generated by the business from sale, collection, or retention of consumers’ personal information.
+
+(8) Any other practical and reasonably reliable method of calculation used in good faith. 
+
+(b) For the purpose of calculating the value of consumer data, a business may consider the value to the business of the data of all natural persons in the United States and not just consumers.
+
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.125, 1798.130 and 1798.185, Civil Code.
+
+## ARTICLE 8. TRAINING AND RECORD-KEEPING
+
+## § 7100. Training.
+(a) All individuals responsible for handling consumer inquiries about the business’s information practices or the business’s compliance with the CCPA shall be informed of all of the requirements in the CCPA and these regulations and how to direct consumers to exercise their rights under the CCPA and these regulations.
+
+(b) A business that knows or reasonably should know that it, alone or in combination, buys, receives for the business’s commercial purposes, sells, or shares for commercial purposes the personal information of 10,000,000 or more consumers in a calendar year shall establish, document, and comply with a training policy to ensure that all individuals responsible for handling consumer requests made under the CCPA or the business’s compliance with the CCPA are informed of all the requirements in these regulations and the CCPA.
+
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.100, 1798.105, 1798.106, 1798.110, 1798.115, 1798.120, 1798.121, 1798.125, 1798.130, 1798.135 and 1798.185, Civil Code.
+
+## § 7101. Record-Keeping.
+(a) A business shall maintain records of consumer requests made pursuant to the CCPA and how it responded to the requests for at least 24 months. The business shall implement and maintain reasonable security procedures and practices in maintaining these records.
+
+(b) The records may be maintained in a ticket or log format provided that the ticket or log includes the date of request, nature of request, manner in which the request was made, the date of the business’s response, the nature of the response, and the basis for the denial of the request if the request is denied in whole or in part. 
+
+(c) A business’s maintenance of the information required by this section, where that information is not used for any other purpose, does not taken alone violate the CCPA or these regulations.
+
+(d) Information maintained for record-keeping purposes shall not be used for any other purpose except as reasonably necessary for the business to review and modify its processes for compliance with the CCPA and these regulations. Information maintained for record-keeping purposes shall not be shared with any third party except as necessary to comply with a legal obligation.
+
+(e) Other than as required by subsection (b), a business is not required to retain personal information solely for the purpose of fulfilling a consumer request made under the CCPA. 
+
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.105, 1798.106, 1798.110, 1798.115, 1798.120, 1798.121, 1798.130, 1798.135 and 1798.185, Civil Code.
+
+## § 7102. Requirements for Businesses Collecting Large Amounts of Personal Information.
+(a) A business that knows or reasonably should know that it, alone or in combination, buys, receives for the business’s commercial purposes, sells, shares, or otherwise makes available for commercial purposes the personal information of 10,000,000 or more consumers in a calendar year shall:
+
+(1) Compile the following metrics for the previous calendar year:
+
+(A) The number of requests to delete that the business received, complied with in whole or in part, and denied;
+
+(B) The number of requests to correct that the business received, complied with in whole or in part, and denied;
+
+(C) The number of requests to know that the business received, complied with in whole or in part, and denied;
+
+(D) The number of requests to opt-out of sale/sharing that the business received, complied with in whole or in part, and denied;
+
+(E) The number of requests to limit that the business received, complied with in whole or in part, and denied; and
+
+(F) The median or mean number of days within which the business substantively responded to requests to delete, requests to correct, requests to know, requests to opt-out of sale/sharing, and requests to limit.
+
+(2) Disclose, by July 1 of every calendar year, the information compiled in subsection (a)(1) within their privacy policy or posted on their website and accessible from a link included in their privacy policy. In its disclosure, a business may choose to disclose the number of requests that it denied in whole or in part because the request was not verifiable, was not made by a consumer, called for information exempt from disclosure, or was denied on other grounds.
+
+(b) A business may choose to compile and disclose the information required by subsection (a)(1) for requests received from all individuals, rather than requests received from consumers. The business shall state whether it has done so in its disclosure and shall, upon request, compile and provide to the Attorney General the information required by subsection (a)(1) for requests received from consumers.
+
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.105, 1798.106, 1798.110, 1798.115, 1798.120, 1798.121, 1798.130, 1798.135 and 1798.185, Civil Code.
+
+## ARTICLE 9. INVESTIGATIONS AND ENFORCEMENT
+
+## § 7300. Sworn Complaints Filed with the Agency.
+(a) Requirements for filing a sworn complaint. Sworn complaints may be filed with the Enforcement Division via the electronic complaint system available on the Agency’s website at https://cppa.ca.gov/ or submitted in person or by mail to the headquarters office of the Agency. A complaint must:
+
+(1) Identify the business, service provider, contractor, or person who allegedly violated the CCPA;
+
+(2) State the facts that support each alleged violation and include any documents or other evidence supporting this conclusion;
+
+(3) Authorize the alleged violator and the Agency to communicate regarding the complaint, including disclosing the complaint and any information relating to the complaint;
+
+(4) Include the name and current contact information of the complainant; and
+
+(5) Be signed and submitted under penalty of perjury.
+
+(b) The Enforcement Division will notify the complainant in writing of the action, if any, the Agency has taken or plans to take on the complaint, together with the reasons for that action or nonaction. Duplicate complaints submitted by the same complainant may be rejected without notice. 
+
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Section 1798.199.45, Civil Code.
+
+## § 7301. Investigations.
+(a) The Agency may open investigations upon the sworn complaint of any person or on its own initiative. For example, the Agency may initiate investigations based upon referrals from government agencies or private organizations, and nonsworn or anonymous complaints.
+
+(b) As part of the Agency’s decision to pursue investigations of possible or alleged violations of the CCPA, the Agency may consider all facts it determines to be relevant, including the amount of time between the effective date of the statutory or regulatory requirement(s) and the possible or alleged violation(s) of those requirements, and good-faith efforts to comply with those requirements.
+
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Section 1798.199.45, Civil Code.
+
+## § 7302. Probable Cause Proceedings.
+(a) Probable Cause. Under Civil Code section 1798.199.50, probable cause exists when the evidence supports a reasonable belief that the CCPA has been violated.
+
+(b) Probable Cause Notice. The Enforcement Division will provide the alleged violator with notice of the probable cause proceeding as required by Civil Code section 1798.199.50.
+
+(c) Probable Cause Proceeding.
+
+(1) The proceeding shall be closed to the public unless the alleged violator files, at least 10 business days before the proceeding, a written request for a public proceeding. If the proceeding is not open to the public, then the proceeding may be conducted in whole or in part by telephone or videoconference.
+
+(2) The Agency shall conduct the proceeding informally. Only the alleged violator(s), their legal counsel, and the Enforcement Division shall have the right to participate at the proceeding. The Agency shall determine whether there is probable cause based on the probable cause notice and any information or arguments presented at the probable cause proceeding by the parties.
+
+(3) If the alleged violator(s) fails to participate or appear at the probable cause proceeding, the alleged violator(s) waives the right to further probable cause proceedings under Civil Code section 1798.199.50, and the Agency shall determine whether there is probable cause based on the notice and any information or arguments provided by the Enforcement Division.
+
+(d) Probable Cause Determination. The Agency shall issue a written decision with its probable cause determination and serve it on the alleged violator electronically or by mail. The Agency’s probable cause determination is final and not subject to appeal.
+
+(e) Notices of probable cause and probable cause determinations shall not be open to the public nor admissible in evidence in any action or special proceeding other than one enforcing the CCPA.
+
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Section 1798.199.50, Civil Code.
+
+## § 7303. Stipulated Orders.
+(a) At any time before or during an administrative hearing and in lieu of such a hearing, the Head of Enforcement and the alleged violator may stipulate to the entry of a final order. If a stipulation has been agreed upon and the scheduled date of the hearing is set to occur before the next Board meeting, the Enforcement Division will apply for a continuance of the hearing.
+
+(b) The final order must be approved by the Board, which may consider the matter in closed session.
+
+(c) The stipulated final order shall be public and have the force of an order of the Board. 
+
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.199.35 and 1798.199.55, Civil Code.
+
+## § 7304. Agency Audits.
+(a) Scope. The Agency may audit a business, service provider, contractor, or person to ensure compliance with any provision of the CCPA.
+
+(b) Criteria for Selection. The Agency may conduct an audit to investigate possible violations of the CCPA. Alternatively, the Agency may conduct an audit if the subject’s collection or processing of personal information presents significant risk to consumer privacy or security, or if the subject has a history of noncompliance with the CCPA or any other privacy protection law.
+
+(c) Audits may be announced or unannounced as determined by the Agency.
+
+(d) Failure to Cooperate. A subject’s failure to cooperate during the Agency’s audit may result in the Agency issuing a subpoena, seeking a warrant, or otherwise exercising its powers to ensure compliance with the CCPA.
+
+(e) Protection of Personal Information. Consumer personal information disclosed to the Agency during an audit shall be maintained in compliance with the Information Practices Act of 1977, Civil Code section 1798, et seq.
+
+Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.185, 1798.199.40 and 1798.199.65, Civil Code; Section 11180, Government Code.
