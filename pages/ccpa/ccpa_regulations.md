@@ -13,87 +13,121 @@ folder: ccpa
 
 ## § 7000. Title and Scope.
 (a) This Chapter shall be known as the California Consumer Privacy Act Regulations. It may be cited as such and will be referred to in this Chapter as “these regulations.” These regulations govern compliance with the California Consumer Privacy Act and do not limit any other rights that consumers may have.
+
 (b) A violation of these regulations shall constitute a violation of the CCPA and be subject to the remedies provided for therein.
-Note: Authority cited: Sections 1798.175 and 1798.185, Civil Code. Reference: Sections
-1798.100, 1798.105, 1798.106, 1798.110, 1798.115, 1798.120, 1798.121, 1798.125, 1798.130,
-1798.135, 1798.140, 1798.145, 1798.150, 1798.155, 1798.175, 1798.185, 1798.199.40,
-1798.199.45, 1798.199.50, 1798.199.55 and 1798.199.65, Civil Code.
+
+Note: Authority cited: Sections 1798.175 and 1798.185, Civil Code. Reference: Sections 1798.100, 1798.105, 1798.106, 1798.110, 1798.115, 1798.120, 1798.121, 1798.125, 1798.130, 1798.135, 798.140, 1798.145, 1798.150, 1798.155, 1798.175, 1798.185, 1798.199.40, 1798.199.45, 1798.199.50, 1798.199.55 and 1798.199.65, Civil Code.
 
 ## § 7001. Definitions.
 In addition to the definitions set forth in Civil Code section 1798.140, for purposes of these regulations:
+
 (a) “Agency” means the California Privacy Protection Agency established by Civil Code section 1798.199.10 et seq.
-(b) “Alternative Opt-out Link” means the alternative opt-out link that a business may provide instead of posting the two separate “Do Not Sell or Share My Personal Information” and
-“Limit the Use of My Sensitive Personal Information” links as set forth in Civil Code section 1798.135, subdivision (a)(3), and specified in section 7015.
-(c) “Attorney General” means the California Attorney General or any officer or employee of the California Department of Justice acting under the authority of the California Attorney
-General.
+
+(b) “Alternative Opt-out Link” means the alternative opt-out link that a business may provide instead of posting the two separate “Do Not Sell or Share My Personal Information” and “Limit the Use of My Sensitive Personal Information” links as set forth in Civil Code section 1798.135, subdivision (a)(3), and specified in section 7015.
+
+(c) “Attorney General” means the California Attorney General or any officer or employee of the California Department of Justice acting under the authority of the California Attorney General.
+
 (d) “Authorized agent” means a natural person or a business entity that a consumer has authorized to act on their behalf subject to the requirements set forth in section 7063.
-(e) “Categories of sources” means types or groupings of persons or entities from which a business collects personal information about consumers, described with enough
-particularity to provide consumers with a meaningful understanding of the type of person or entity. They may include the consumer directly, advertising networks, internet service
-providers, data analytics providers, government entities, operating systems and platforms, social networks, and data brokers.
+
+(e) “Categories of sources” means types or groupings of persons or entities from which a business collects personal information about consumers, described with enough particularity to  provide consumers with a meaningful understanding of the type of person or entity. They may include the consumer directly, advertising networks, internet service providers, data analytics providers, government entities, operating systems and platforms, social networks, and data brokers.
+
 (f) “Categories of third parties” means types or groupings of third parties with whom the business shares personal information, described with enough particularity to provide consumers with a meaningful understanding of the type of third party. They may include advertising networks, internet service providers, data analytics providers, government entities, operating systems and platforms, social networks, and data brokers.
+
 (g) “CCPA” means the California Consumer Privacy Act of 2018, Civil Code section 1798.100 et seq.
+
 (h) “COPPA” means the Children’s Online Privacy Protection Act, 15 U.S.C. sections 6501 to 6506 and 16 Code of Federal Regulations part 312.
-(i) “Disproportionate effort” within the context of a business, service provider, contractor, or third party responding to a consumer request means the time and/or resources expended
-by the business, service provider, contractor, or third party to respond to the individualized request significantly outweighs the reasonably foreseeable impact to the consumer by not
-responding, taking into account applicable circumstances, such as the size of the business, service provider, contractor, or third party, the nature of the request, and the technical
-limitations impacting their ability to respond. For example, responding to a consumer request to know may require disproportionate effort when the personal information that is the subject of the request is not in a searchable or readily-accessible format, is maintained only for legal or compliance purposes, is not sold or used for any commercial purpose, and there is no reasonably foreseeable material impact to the consumer by not responding. By contrast, the impact to the consumer of denying a request to correct inaccurate information that the business uses and/or sells may outweigh the burden on the business, service provider, contractor, or third party in honoring the request when the reasonably foreseeable consequence of denying the request would be the denial of services or opportunities to the consumer. A business, service provider, contractor, or third party that has failed to put in place adequate processes and procedures to receive and process consumer requests in accordance with the CCPA and these regulations cannot claim that responding to a consumer’s request requires disproportionate effort.
+
+(i) “Disproportionate effort” within the context of a business, service provider, contractor, or third party responding to a consumer request means the time and/or resources expended by the business, service provider, contractor, or third party to respond to the individualized request significantly outweighs the reasonably foreseeable impact to the consumer by not responding, taking into account applicable circumstances, such as the size of the business, service provider, contractor, or third party, the nature of the request, and the technical limitations impacting their ability to respond. For example, responding to a consumer request to know may require disproportionate effort when the personal information that is the subject of the request is not in a searchable or readily-accessible format, is maintained only for legal or compliance purposes, is not sold or used for any commercial purpose, and there is no reasonably foreseeable material impact to the consumer by not responding. By contrast, the impact to the consumer of denying a request to correct inaccurate information that the business uses and/or sells may outweigh the burden on the business, service provider, contractor, or third party in honoring the request when the reasonably foreseeable consequence of denying the request would be the denial of services or opportunities to the consumer. A business, service provider, contractor, or third party that has failed to put in place adequate processes and procedures to receive and process consumer requests in accordance with the CCPA and these regulations cannot claim that responding to a consumer’s request requires disproportionate effort.
+
 (j) “Employment benefits” means retirement, health, and other benefit programs, services, or products to which consumers and their dependents or their beneficiaries receive access through the consumer’s employer.
+
 (k) “Employment-related information” means personal information that is collected by the business about a natural person for the reasons identified in Civil Code section 1798.145, subdivision (m)(1). The collection of employment-related information, including for the purpose of administering employment benefits, shall be considered a business purpose.
+
 (l) “Financial incentive” means a program, benefit, or other offering, including payments to consumers, for the collection, retention, sale, or sharing of personal information. Price or service differences are types of financial incentives.
+
 (m) “First party” means a consumer-facing business with which the consumer intends and expects to interact.
+
 (n) “Frictionless manner” means a business’s processing of an opt-out preference signal that complies with the requirements set forth in section 7025, subsection (f).
+
 (o) “Information practices” means practices regarding the collection, use, disclosure, sale, sharing, and retention of personal information.
-(p) “Nonbusiness” means a person or entity that does not meet the definition of a “business” as defined in Civil Code section 1798.140, subdivision (d). For example, non-profits and
-government entities are nonbusinesses because “business” is defined, among other things, to include only entities “organized or operated for the profit or financial benefit of its
-shareholders or other owners.”
-(q) “Notice at Collection” means the notice given by a business to a consumer at or before the point at which a business collects personal information from the consumer as required by
-Civil Code section 1798.100, subdivisions (a) and (b), and specified in these regulations. 
-(r) “Notice of Right to Limit” means the notice given by a business informing consumers of their right to limit the use or disclosure of the consumer’s sensitive personal information as
-required by Civil Code sections 1798.121 and 1798.135 and specified in these regulations.
+
+(p) “Nonbusiness” means a person or entity that does not meet the definition of a “business” as defined in Civil Code section 1798.140, subdivision (d). For example, non-profits and government entities are nonbusinesses because “business” is defined, among other things, to include only entities “organized or operated for the profit or financial benefit of its shareholders or other owners.”
+
+(q) “Notice at Collection” means the notice given by a business to a consumer at or before the point at which a business collects personal information from the consumer as required by Civil Code section 1798.100, subdivisions (a) and (b), and specified in these regulations. 
+
+(r) “Notice of Right to Limit” means the notice given by a business informing consumers of their right to limit the use or disclosure of the consumer’s sensitive personal information as required by Civil Code sections 1798.121 and 1798.135 and specified in these regulations.
+
 (s) “Notice of Right to Opt-out of Sale/Sharing” means the notice given by a business informing consumers of their right to opt-out of the sale or sharing of their personal information as required by Civil Code sections 1798.120 and 1798.135 and specified in these regulations.
-(t) “Notice of Financial Incentive” means the notice given by a business explaining each financial incentive or price or service difference as required by Civil Code section 1798.125,
-subdivision (b), and specified in these regulations.
+
+(t) “Notice of Financial Incentive” means the notice given by a business explaining each financial incentive or price or service difference as required by Civil Code section 1798.125, subdivision (b), and specified in these regulations.
+
 (u) “Opt-out preference signal” means a signal that is sent by a platform, technology, or mechanism, on behalf of the consumer, that communicates the consumer choice to opt-out of the sale and sharing of personal information and that complies with the requirements set forth in section 7025, subsection (b).
-(v) “Price or service difference” means (1) any difference in the price or rate charged for any goods or services to any consumer related to the collection, retention, sale, or sharing of
-personal information, or (2) any difference in the level or quality of any goods or services offered to any consumer related to the collection, retention, sale, or sharing of personal
-information, including the denial of goods or services to the consumer.
-(w) “Privacy policy,” as referred to in Civil Code sections 1798.130, subdivision (a)(5), and 1798.135, subdivision (c)(2), means the statement that a business shall make available to
-consumers describing the business’s online and offline information practices, and the rights of consumers regarding their own personal information.
+
+(v) “Price or service difference” means (1) any difference in the price or rate charged for any goods or services to any consumer related to the collection, retention, sale, or sharing of personal information, or (2) any difference in the level or quality of any goods or services offered to any consumer related to the collection, retention, sale, or sharing of personal information, including the denial of goods or services to the consumer.
+
+(w) “Privacy policy,” as referred to in Civil Code sections 1798.130, subdivision (a)(5), and 1798.135, subdivision (c)(2), means the statement that a business shall make available to consumers describing the business’s online and offline information practices, and the rights of consumers regarding their own personal information.
+
 (x) “Request to correct” means a consumer request that a business correct inaccurate personal information that it maintains about the consumer, pursuant to Civil Code section 1798.106.
-(y) “Request to delete” means a consumer request that a business delete personal information about the consumer that the business has collected from the consumer, pursuant to Civil
-Code section 1798.105.
-(z) “Request to know” means a consumer request that a business disclose personal information that it has collected about the consumer pursuant to Civil Code sections
-1798.110 or 1798.115. It includes a request for any or all of the following:
+
+(y) “Request to delete” means a consumer request that a business delete personal information about the consumer that the business has collected from the consumer, pursuant to Civil Code section 1798.105.
+
+(z) “Request to know” means a consumer request that a business disclose personal information that it has collected about the consumer pursuant to Civil Code sections 1798.110 or 1798.115. It includes a request for any or all of the following:
+
 (1) Specific pieces of personal information that a business has collected about the consumer;
+
 (2) Categories of personal information it has collected about the consumer;
+
 (3) Categories of sources from which the personal information is collected;
+
 (4) Categories of personal information that the business sold or disclosed for a business purpose about the consumer;
+
 (5) Categories of third parties to whom the personal information was sold or disclosed for a business purpose; and
+
 (6) The business or commercial purpose for collecting or selling personal information.
+
 (aa) “Request to limit” means a consumer request that a business limit the use and disclosure of the consumer’s sensitive personal information, pursuant to Civil Code section 1798.121, subdivision (a).
+
 (bb) “Request to opt-in to sale/sharing” means an action demonstrating that the consumer has consented to the business’s sale or sharing of personal information about the consumer by a parent or guardian of a consumer less than 13 years of age or by a consumer at least 13 years of age.
+
 (cc) “Request to opt-out of sale/sharing” means a consumer request that a business neither sell nor share the consumer’s personal information to third parties, pursuant to Civil Code section 1798.120, subdivision (a).
+
 (dd) “Right to correct” means the consumer’s right to request that a business correct inaccurate personal information that it maintains about the consumer as set forth in Civil Code section 1798.106.
+
 (ee) “Right to delete” means the consumer’s right to request that a business delete any personal information about the consumer that the business has collected from the consumer as set forth in Civil Code section 1798.105.
+
 (ff) “Right to know” means the consumer’s right to request that a business disclose personal information that it has collected, sold, or shared about the consumer as set forth in Civil Code sections 1798.110 and 1798.115.
+
 (gg) “Right to limit” means the consumer’s right to request that a business limit the use and disclosure of a consumer’s sensitive personal information as set forth in Civil Code section 1798.121.
+
 (hh) “Right to opt-out of sale/sharing” means the consumer’s right to direct a business that sells or shares personal information about the consumer to third parties to stop doing so as set forth in Civil Code section 1798.120.
+
 (ii) “Signed” means that the written attestation, declaration, or permission has either been physically signed or provided electronically in accordance with the Uniform Electronic Transactions Act, Civil Code section 1633.1 et seq.
+
 (jj) “Third-party identity verification service” means a security process offered by an independent third party that verifies the identity of the consumer making a request to the business. Third-party identity verification services are subject to the requirements set forth in Article 5 regarding requests to delete, requests to correct, or requests to know.
+
 (kk) “Unstructured” as it relates to personal information means personal information that is not organized in a pre-defined manner and could not be retrieved or organized in a pre-defined manner without disproportionate effort on behalf of the business, service provider, contractor, or third party.
+
 (ll) “Value of the consumer’s data” means the value provided to the business by the consumer’s data as calculated under section 7081.
+
 (mm) “Verify” means to determine that the consumer making a request to delete, request to correct, or request to know is the consumer about whom the business has collected information, or if that consumer is less than 13 years of age, theconsumer’s parent or legal guardian.
+
 Note: Authority cited: Sections 1798.175 and 1798.185, Civil Code. Reference: Sections 1798.100, 1798.105, 1798.106, 1798.110, 1798.115, 1798.120, 1798.121, 1798.125, 1798.130, 1798.135, 1798.140, 1798.145, 1798.150, 1798.155, 1798.175, 1798.185, 1798.199.40, 1798.199.45, 1798.199.50, 1798.199.55 and 1798.199.65, Civil Code.
 
 ## § 7002. Restrictions on the Collection and Use of Personal Information.
-(a) In accordance with Civil Code section 1798.100, subdivision (c), a business’s collection, use, retention, and/or sharing of a consumer’s personal information shall be reasonably
-necessary and proportionate to achieve:
+(a) In accordance with Civil Code section 1798.100, subdivision (c), a business’s collection, use, retention, and/or sharing of a consumer’s personal information shall be reasonably necessary and proportionate to achieve:
+
 (1) The purpose(s) for which the personal information was collected or processed, which shall comply with the requirements set forth in subsection (b); or
+
 (2) Another disclosed purpose that is compatible with the context in which the personal information was collected, which shall comply with the requirements set forth in subsection (c).
+
 (b) The purpose(s) for which the personal information was collected or processed shall be consistent with the reasonable expectations of the consumer(s) whose personal information is collected or processed. The consumer’s (or consumers’) reasonable expectations concerning the purpose for which their personal information will be collected or processed shall be based on the following:
+
 (1) The relationship between the consumer(s) and the business. For example, if the consumer is intentionally interacting with the business on its website to purchase a good or service, the consumer likely expects that the purpose for collecting or processing the personal information is to provide that good or service. By contrast, for example, the consumer of a business’s mobile flashlight application would not expect the business to collect the consumer’s geolocation information to provide the flashlight service.
+
 (2) The type, nature, and amount of personal information that the business seeks to collect or process. For example, if a business’s mobile communication application requests access to the consumer’s contact list in order to call a specific individual, the consumer who is providing their contact list likely expects that the purpose of the business’s use of that contact list will be to connect the consumer with the specific contact they selected. Similarly, if a business collects the consumer’s fingerprint in connection with setting up the security feature of unlocking the device using the fingerprint, the consumer likely expects that the business’s use of the consumer’s fingerprint is only for the purpose of unlocking their mobile device.
+
 (3) The source of the personal information and the business’s method for collecting or processing it. For example, if the consumer is providing their personal information directly to the business while using the business’s product or service, the consumer likely expects that the business will use the personal information to provide that product or service. However, the consumer may not expect that the business will use that same personal information for a different product or service offered by the business or the business’s subsidiary.
+
 (4) The specificity, explicitness, prominence, and clarity of disclosures to the consumer(s) about the purpose for collecting or processing their personal information, such as in the Notice at Collection and in the marketing materials to the consumer(s) about the business’s good or service. For example, the consumer who receives a pop-up notice that the business wants to collect the consumer’s phone number to verify their identity when they log in likely expects that the business will use their phone number for the purpose of verifying the consumer’s identity and not for marketing purposes. Similarly, the consumer may expect that a mobile application that markets itself as a service that finds gas prices near the consumer’s location will collect and use the consumer’s geolocation information for that specific purpose when they are using the service.
 (5) The degree to which the involvement of service providers, contractors, third parties, or other entities in the collecting or processing of personal information is apparent to the consumer(s). For example, the consumer likely expects an online retailer’s disclosure of the consumer’s name and address to a delivery service provider in order for that service provider to deliver a purchased product, because that service provider’s involvement is apparent to the consumer. By contrast, the consumer may not expect the disclosure of personal information to a service provider if the consumer is not directly interacting with the service provider or the service provider’s role in the processing is not apparent to the consumer.
 (c) Whether another disclosed purpose is compatible with the context in which the personal information was collected shall be based on the following:
