@@ -11,6 +11,7 @@ folder: ccpa
 
 ## 1798.100.  General Duties of Businesses that Collect Personal Information
 (a) A business that controls the collection of a consumer’s personal information shall, at or before the point of collection, inform consumers of the following:
+
 (1) The categories of personal information to be collected and the purposes for which the categories of personal information are collected or used and whether that information is sold or shared. A business shall not collect additional categories of personal information or use personal information collected for additional purposes that are incompatible with the disclosed purpose for which the personal information was collected without providing the consumer with notice consistent with this section.
 
 (2) If the business collects sensitive personal information, the categories of sensitive personal information to be collected and the purposes for which the categories of sensitive personal information are collected or used, and whether that information is sold or shared. A business shall not collect additional categories of sensitive personal information or use sensitive personal information collected for additional purposes that are incompatible with the disclosed purpose for which the sensitive personal information was collected without providing the consumer with notice consistent with this section.
@@ -18,8 +19,11 @@ folder: ccpa
 (3) The length of time the business intends to retain each category of personal information, including sensitive personal information, or if that is not possible, the criteria used to determine that period provided that a business shall not retain a consumer’s personal information or sensitive personal information for each disclosed purpose for which the personal information was collected for longer than is reasonably necessary for that disclosed purpose.
 
 (b) A business that, acting as a third party, controls the collection of personal information about a consumer may satisfy its obligation under subdivision (a) by providing the required information prominently and conspicuously on the homepage of its internet website. In addition, if a business acting as a third party controls the collection of personal information about a consumer on its premises, including in a vehicle, then the business shall, at or before the point of collection, inform consumers as to the categories of personal information to be collected and the purposes for which the categories of personal information are used, and whether that personal information is sold, in a clear and conspicuous manner at the location.
+
 (c) A business’ collection, use, retention, and sharing of a consumer’s personal information shall be reasonably necessary and proportionate to achieve the purposes for which the personal information was collected or processed, or for another disclosed purpose that is compatible with the context in which the personal information was collected, and not further processed in a manner that is incompatible with those purposes.
+
 (d) A business that collects a consumer’s personal information and that sells that personal information to, or shares it with, a third party or that discloses it to a service provider or contractor for a business purpose shall enter into an agreement with the third party, service provider, or contractor, that:
+
 (1) Specifies that the personal information is sold or disclosed by the business only for limited and specified purposes.
 
 (2) Obligates the third party, service provider, or contractor to comply with applicable obligations under this title and obligate those persons to provide the same level of privacy protection as is required by this title.
@@ -31,18 +35,25 @@ folder: ccpa
 (5) Grants the business the right, upon notice, including under paragraph (4), to take reasonable and appropriate steps to stop and remediate unauthorized use of personal information.
 
 (e) A business that collects a consumer’s personal information shall implement reasonable security procedures and practices appropriate to the nature of the personal information to protect the personal information from unauthorized or illegal access, destruction, use, modification, or disclosure in accordance with Section 1798.81.5.
+
 (f) Nothing in this section shall require a business to disclose trade secrets, as specified in regulations adopted pursuant to paragraph (3) of subdivision (a) of Section 1798.185.
+
 (Amended November 3, 2020, by initiative Proposition 24, Sec. 4. Effective December 16, 2020. Operative January 1, 2023, pursuant to Sec. 31 of Proposition 24.)
 
 ## 1798.105.  Consumers’ Right to Delete Personal Information
 (a) A consumer shall have the right to request that a business delete any personal information about the consumer which the business has collected from the consumer.
+
 (b) A business that collects personal information about consumers shall disclose, pursuant to Section 1798.130, the consumer’s rights to request the deletion of the consumer’s personal information.
-(c) (1) A business that receives a verifiable consumer request from a consumer to delete the consumer’s personal information pursuant to subdivision (a) of this section shall delete the consumer’s personal information from its records, notify any service providers or contractors to delete the consumer’s personal information from their records, and notify all third parties to whom the business has sold or shared the personal information to delete the consumer’s personal information unless this proves impossible or involves disproportionate effort.
+
+(c) 
+(1) A business that receives a verifiable consumer request from a consumer to delete the consumer’s personal information pursuant to subdivision (a) of this section shall delete the consumer’s personal information from its records, notify any service providers or contractors to delete the consumer’s personal information from their records, and notify all third parties to whom the business has sold or shared the personal information to delete the consumer’s personal information unless this proves impossible or involves disproportionate effort.
+
 (2) The business may maintain a confidential record of deletion requests solely for the purpose of preventing the personal information of a consumer who has submitted a deletion request from being sold, for compliance with laws or for other purposes, solely to the extent permissible under this title.
 
 (3) A service provider or contractor shall cooperate with the business in responding to a verifiable consumer request, and at the direction of the business, shall delete, or enable the business to delete and shall notify any of its own service providers or contractors to delete personal information about the consumer collected, used, processed, or retained by the service provider or the contractor. The service provider or contractor shall notify any service providers, contractors, or third parties who may have accessed personal information from or through the service provider or contractor, unless the information was accessed at the direction of the business, to delete the consumer’s personal information unless this proves impossible or involves disproportionate effort. A service provider or contractor shall not be required to comply with a deletion request submitted by the consumer directly to the service provider or contractor to the extent that the service provider or contractor has collected, used, processed, or retained the consumer’s personal information in its role as a service provider or contractor to the business.
 
 (d) A business, or a service provider or contractor acting pursuant to its contract with the business, another service provider, or another contractor, shall not be required to comply with a consumer’s request to delete the consumer’s personal information if it is reasonably necessary for the business, service provider, or contractor to maintain the consumer’s personal information in order to:
+
 (1) Complete the transaction for which the personal information was collected, fulfill the terms of a written warranty or product recall conducted in accordance with federal law, provide a good or service requested by the consumer, or reasonably anticipated by the consumer within the context of a business’ ongoing business relationship with the consumer, or otherwise perform a contract between the business and the consumer.
 
 (2) Help to ensure security and integrity to the extent the use of the consumer’s personal information is reasonably necessary and proportionate for those purposes.
@@ -63,12 +74,16 @@ folder: ccpa
 
 ## 1798.106.  Consumers’ Right to Correct Inaccurate Personal Information
 (a) A consumer shall have the right to request a business that maintains inaccurate personal information about the consumer to correct that inaccurate personal information, taking into account the nature of the personal information and the purposes of the processing of the personal information.
+
 (b) A business that collects personal information about consumers shall disclose, pursuant to Section 1798.130, the consumer’s right to request correction of inaccurate personal information.
+
 (c) A business that receives a verifiable consumer request to correct inaccurate personal information shall use commercially reasonable efforts to correct the inaccurate personal information as directed by the consumer, pursuant to Section 1798.130 and regulations adopted pursuant to paragraph (7) of subdivision (a) of Section 1798.185.
+
 (Amended by Stats. 2024, Ch. 121, Sec. 1. (AB 3286) Effective January 1, 2025.)
 
 ## 1798.110.  Consumers’ Right to Know What Personal Information is Being Collected. Right to Access Personal Information
 (a) A consumer shall have the right to request that a business that collects personal information about the consumer disclose to the consumer the following:
+
 (1) The categories of personal information it has collected about that consumer.
 
 (2) The categories of sources from which the personal information is collected.
@@ -80,7 +95,9 @@ folder: ccpa
 (5) The specific pieces of personal information it has collected about that consumer.
 
 (b) A business that collects personal information about a consumer shall disclose to the consumer, pursuant to subparagraph (B) of paragraph (3) of subdivision (a) of Section 1798.130, the information specified in subdivision (a) upon receipt of a verifiable consumer request from the consumer, provided that a business shall be deemed to be in compliance with paragraphs (1) to (4), inclusive, of subdivision (a) to the extent that the categories of information and the business or commercial purpose for collecting, selling, or sharing personal information it would be required to disclose to the consumer pursuant to paragraphs (1) to (4), inclusive, of subdivision (a) is the same as the information it has disclosed pursuant to paragraphs (1) to (4), inclusive, of subdivision (c).
+
 (c) A business that collects personal information about consumers shall disclose, pursuant to subparagraph (B) of paragraph (5) of subdivision (a) of Section 1798.130:
+
 (1) The categories of personal information it has collected about consumers.
 
 (2) The categories of sources from which the personal information is collected.
@@ -95,6 +112,7 @@ folder: ccpa
 
 ## 1798.115.  Consumers’ Right to Know What Personal Information is Sold or Shared and to Whom
 (a) A consumer shall have the right to request that a business that sells or shares the consumer’s personal information, or that discloses it for a business purpose, disclose to that consumer:
+
 (1) The categories of personal information that the business collected about the consumer.
 
 (2) The categories of personal information that the business sold or shared about the consumer and the categories of third parties to whom the personal information was sold or shared, by category or categories of personal information for each category of third parties to whom the personal information was sold or shared.
@@ -102,12 +120,15 @@ folder: ccpa
 (3) The categories of personal information that the business disclosed about the consumer for a business purpose and the categories of persons to whom it was disclosed for a business purpose.
 
 (b) A business that sells or shares personal information about a consumer, or that discloses a consumer’s personal information for a business purpose, shall disclose, pursuant to paragraph (4) of subdivision (a) of Section 1798.130, the information specified in subdivision (a) to the consumer upon receipt of a verifiable consumer request from the consumer.
+
 (c) A business that sells or shares consumers’ personal information, or that discloses consumers’ personal information for a business purpose, shall disclose, pursuant to subparagraph (C) of paragraph (5) of subdivision (a) of Section 1798.130:
+
 (1) The category or categories of consumers’ personal information it has sold or shared, or if the business has not sold or shared consumers’ personal information, it shall disclose that fact.
 
 (2) The category or categories of consumers’ personal information it has disclosed for a business purpose, or if the business has not disclosed consumers’ personal information for a business purpose, it shall disclose that fact.
 
 (d) A third party shall not sell or share personal information about a consumer that has been sold to, or shared with, the third party by a business unless the consumer has received explicit notice and is provided an opportunity to exercise the right to opt-out pursuant to Section 1798.120.
+
 (Amended November 3, 2020, by initiative Proposition 24, Sec. 8. Effective December 16, 2020. Operative January 1, 2023, pursuant to Sec. 31 of Proposition 24.)
 
 ## 1798.120.  Consumers’ Right to Opt Out of Sale or Sharing of Personal Information
