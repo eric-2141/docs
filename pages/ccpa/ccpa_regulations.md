@@ -214,7 +214,7 @@ interface is not determinative in whether the user interface is a dark pattern, 
 
 Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.100, 1798.105, 1798.106, 1798.110, 1798.115, 1798.120, 1798.121, 1798.125, 1798.130, 1798.135, 1798.140 and 1798.185, Civil Code.
 
-### ARTICLE 2. REQUIRED DISCLOSURES TO CONSUMERS
+## ARTICLE 2. REQUIRED DISCLOSURES TO CONSUMERS
 
 ## § 7010. Overview of Required Disclosures.
 (a) Every business that must comply with the CCPA and these regulations shall provide a privacy policy in accordance with the CCPA and section 7011.
