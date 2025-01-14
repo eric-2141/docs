@@ -227,6 +227,7 @@ Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.10
 to Limit or the Alternative Opt-out Link in accordance with the CCPA and sections 7014 and 7015.
 
 (e) A business that offers a financial incentive or price or service difference shall provide a Notice of Financial Incentive in accordance with the CCPA and section 7016.
+
 Note: Authority cited: Section 1798.185, Civil Code. Reference: Sections 1798.100, 1798.105, 1798.106, 1798.110, 1798.115, 1798.120, 1798.121, 1798.125, 1798.130 and 1798.135, Civil Code.
 
 ## § 7011. Privacy Policy.
