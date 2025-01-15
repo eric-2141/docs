@@ -167,7 +167,9 @@ to administer medical treatment in this state.
 
 (26) "third party" means a person, public authority, agency,or body other than a consumer, controller, processor, or affiliate of the processor or the controller.
 
-## 6-1-1304. applicability of part. (1) except as specified in subsection (2) of this section, this part 13 applies to a controller that:
+## 6-1-1304. applicability of part. 
+
+(1) except as specified in subsection (2) of this section, this part 13 applies to a controller that:
 
 (a) conducts business in colorado or produces or delivers commercial products or services that are intentionally targeted to residents of colorado; and
 
