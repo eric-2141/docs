@@ -9,45 +9,43 @@ permalink: cpa_statute.html
 folder: cpa
 ---
 
-## 6-1-1301. short title. 
+## 6-1-1301. Short title. 
 
-the short title of this part 13 is the "colorado privacy act".
+The short title of this part 13 is the "Colorado Privacy Act".
 
-capital letters or bold & italic numbers indicate new material added to existing law; dashes through words or numbers indicate deletions from existing law and such material is not part of the act.
+## 6-1-1302. Legislative declaration. 
 
-## 6-1-1302. legislative declaration. 
+(1) The general assembly hereby:
 
-(1) the general assembly hereby:
+(a) Tinds that:
 
-(a) finds that:
+(i) The people of Colorado regard their privacy as a fundamental right and an essential element of their individual freedom;
 
-(i) the people of colorado regard their privacy as a fundamental right and an essential element of their individual freedom;
+(ii) Colorado's constitution explicitly provides the right to privacy under section 7 of article II, and fundamental privacy rights have long been, and continue to be, integral to protecting Coloradans and to safeguarding our democratic republic;
 
-(ii) colorado's constitution explicitly provides the right to privacy under section 7 of article ii, and fundamental privacy rights have long been, and continue to be, integral to protecting coloradans and to safeguarding our democratic republic;
+(iii) Ongoing advances in technology have produced exponential growth in the volume and variety of personal data being generated, collected, stored, and analyzed and these advances present both promise and potential peril;
 
-(iii) ongoing advances in technology have produced exponential growth in the volume and variety of personal data being generated, collected, stored, and analyzed and these advances present both promise and potential peril;
+(iv) The ability to harness and use data in positive ways is driving innovation and brings beneficial technologies to society,but it has also created risks to privacy and freedom; and
 
-(iv) the ability to harness and use data in positive ways is driving innovation and brings beneficial technologies to society,but it has also created risks to privacy and freedom; and
+(v) The unauthorized disclosure of personal information and loss of privacy can have devastating impacts ranging from financial fraud, identity theft, and unnecessary costs in personal time and finances to destruction of property, harassment, reputational damage, emotional distress, and physical harm;
 
-(v) the unauthorized disclosure of personal information and loss of privacy can have devastating impacts ranging from financial fraud, identity theft, and unnecessary costs in personal time and finances to destruction of property, harassment, reputational damage, emotional distress, and physical harm;
+(b) Determines that:
 
-(b) determines that:
+(i) Technological innovation and new uses of data can help solve societal problems and improve lives, and it is possible to build a world where technological innovation and privacy can coexist; and
 
-(i) technological innovation and new uses of data can help solve societal problems and improve lives, and it is possible to build a world where technological innovation and privacy can coexist; and
+(ii) States across the United States are looking to this part 13 and similar models to enact state-based data privacy requirements and to exercise the leadership that is lacking at the national level; and
 
-(ii) states across the united states are looking to this part 13 and similar models to enact state-based data privacy requirements and to exercise the leadership that is lacking at the
+(c) Declares that:
 
-(c) declares that:
+(i) by enacting this part 13, Colorado will be among the states that empower consumers to protect their privacy and require companies to be responsible custodians of data as they continue to innovate;
 
-(i) by enacting this part 13, colorado will be among the states that empower consumers to protect their privacy and require companies to be responsible custodians of data as they continue to innovate;
+(ii) This part 13 addresses issues of statewide concern and:
 
-(ii) this part 13 addresses issues of statewide concern and:
+(a) Provides consumers the right to access, correct, and delete personal data and the right to opt out not only of the sale of personal data but also of the collection and use of personal data;
 
-(a) provides consumers the right to access, correct, and delete personal data and the right to opt out not only of the sale of personal data but also of the collection and use of personal data;
+(b) Imposes an affirmative obligation upon companies to safeguard personal data; to provide clear, understandable, and transparent information to consumers about how their personal data are used; and to strengthen compliance and accountability by requiring data protection assessments in the collection and use of personal data; and
 
-(b) imposes an affirmative obligation upon companies to safeguard personal data; to provide clear, understandable, and transparent information to consumers about how their personal data are used; and to strengthen compliance and accountability by requiring data protection assessments in the collection and use of personal data; and
-
-(c) empowers the attorney general and district attorneys to access and evaluate a company's data protection assessments,to impose penalties where violations occur, and to prevent future violations.
+(c) Empowers the attorney general and district attorneys to access and evaluate a company's data protection assessments,to impose penalties where violations occur, and to prevent future violations.
 
 ## 6-1-1303. definitions. 
 
