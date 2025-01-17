@@ -17,7 +17,7 @@ The short title of this part 13 is the "Colorado Privacy Act".
 
 (1) The general assembly hereby:
 
-(a) Tinds that:
+(a) Finds that:
 
 (i) The people of Colorado regard their privacy as a fundamental right and an essential element of their individual freedom;
 
