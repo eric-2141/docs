@@ -47,123 +47,121 @@ The short title of this part 13 is the "Colorado Privacy Act".
 
 (c) Empowers the attorney general and district attorneys to access and evaluate a company's data protection assessments,to impose penalties where violations occur, and to prevent future violations.
 
-## 6-1-1303. definitions. 
+## 6-1-1303. Definitions. 
 
-as used in this part 13, unless the context otherwise requires:
+As used in this part 13, unless the context otherwise requires:
 
-(1) "affiliate" means a legal entity that controls, is controlled by, or is under common control with another legal entity. as used in this subsection (1), "control" means:
+(1) "Affiliate" means a legal entity that controls, is controlled by, or is under common control with another legal entity. as used in this subsection (1), "control" means:
 
-(a) ownership of, control of, or power to vote twenty-five percent or more of the outstanding shares of any class of voting security of the entity, directly or indirectly, or acting through one or more other persons;
+(a) Ownership of, control of, or power to vote twenty-five percent or more of the outstanding shares of any class of voting security of the entity, directly or indirectly, or acting through one or more other persons;
 
-(b) control in any manner over the election of a majority of the directors, trustees, or general partners of the entity or of individuals exercising similar functions; or
+(b) Control in any manner over the election of a majority of the directors, trustees, or general partners of the entity or of individuals exercising similar functions; or
 
-(c) the power to exercise, directly or indirectly, a controlling influence over the management or policies of the entity as determined by the applicable prudential regulator, as that term is defined in 12 u.s.c. sec. 5481 (24), if any.
+(c) The power to exercise, directly or indirectly, a controlling influence over the management or policies of the entity as determined by the applicable prudential regulator, as that term is defined in 12 U.S.C. sec. 5481 (24), if any.
 
-(2) "authenticate" means to use reasonable means to determine that a request to exercise any of the rights in section 6-1-1306 (1) is being made by or on behalf of the consumer who is entitled to exercise the rights.
+(2) "Authenticate" means to use reasonable means to determine that a request to exercise any of the rights in section 6-1-1306 (1) is being made by or on behalf of the consumer who is entitled to exercise the rights.
 
-(3) "business associate" has the meaning established in 45cfr 160.103.
+(3) "Business associate" has the meaning established in 45 CFR 160.103.
 
-(4) "child" means an individual under thirteen years of age.
+(4) "Child" means an individual under thirteen years of age.
 
-(5) "consent" means a clear, affirmative act signifying a consumer's freely given, specific, informed, and unambiguous agreement, such as by a written statement, including by electronic means, or other clear, affirmative action by which the consumer signifies agreement to the processing of personal data.the following does not constitute consent:
+(5) "Consent" means a clear, affirmative act signifying a consumer's freely given, specific, informed, and unambiguous agreement, such as by a written statement, including by electronic means, or other clear, affirmative action by which the consumer signifies agreement to the processing of personal data.the following does not constitute consent:
 
-(a) acceptance of a general or broad terms of use or similar document that contains descriptions of personal data processing along with other, unrelated information;
+(a) Acceptance of a general or broad terms of use or similar document that contains descriptions of personal data processing along with other, unrelated information;
 
-(b) hovering over, muting, pausing, or closing a given piece of content; and
+(b) Hovering over, muting, pausing, or closing a given piece of content; and
 
-(c) agreement obtained through dark patterns.
+(c) Agreement obtained through dark patterns.
 
-(6) "consumer":
+(6) "Consumer":
 
-(a) means an individual who is a colorado resident acting only in an individual or household context; and
+(a) Means an individual who is a Colorado resident acting only in an individual or household context; and
 
-(b) does not include an individual acting in a commercial or employment context, as a job applicant, or as a beneficiary of someone acting in an employment context.
+(b) Does not include an individual acting in a commercial or employment context, as a job applicant, or as a beneficiary of someone acting in an employment context.
 
-(7) "controller" means a person that, alone or jointly with others, determines the purposes for and means of processing personal data.
+(7) "Controller" means a person that, alone or jointly with others, determines the purposes for and means of processing personal data.
 
-(8) "covered entity" has the meaning established in 45 cfr 160.103.
+(8) "Covered entity" has the meaning established in 45 CFR 160.103.
 
-(9) "dark pattern" means a user interface designed or manipulated with the substantial effect of subverting or impairing user autonomy, decision-making, or choice.
+(9) "Dark pattern" means a user interface designed or manipulated with the substantial effect of subverting or impairing user autonomy, decision-making, or choice.
 
-(10) "decisions that produce legal or similarly significant effects concerning a consumer" means a decision that results in the provision or denial of financial or lending services, housing,insurance, education enrollment or opportunity, criminal justice,employment opportunities, health-care services, or access to essential goods or services.
+(10) "Decisions that produce legal or similarly significant effects concerning a consumer" means a decision that results in the provision or denial of financial or lending services, housing,insurance, education enrollment or opportunity, criminal justice,employment opportunities, health-care services, or access to essential goods or services.
 
-(11) "de-identified data" means data that cannot reasonably be used to infer information about, or otherwise be linked to, an identified or identifiable individual, or a device linked to such an individual, if the controller that possesses the data:
+(11) "De-identified data" means data that cannot reasonably be used to infer information about, or otherwise be linked to, an identified or identifiable individual, or a device linked to such an individual, if the controller that possesses the data:
 
-(a) takes reasonable measures to ensure that the data cannot be associated with an individual;
+(a) Takes reasonable measures to ensure that the data cannot be associated with an individual;
 
-(b) publicly commits to maintain and use the data only in a de-identified fashion and not attempt to re-identify the data; and
+(b) Publicly commits to maintain and use the data only in a de-identified fashion and not attempt to re-identify the data; and
 
-(c) contractually obligates any recipients of the information to comply with the requirements of this subsection (11).
+(c) Contractually obligates any recipients of the information to comply with the requirements of this subsection (11).
 
-(12) "health-care facility" means any entity that is licensed, certified, or otherwise authorized or permitted by law
+(12) "Health-care facility" means any entity that is licensed, certified, or otherwise authorized or permitted by law to administer medical treatment in this state.
 
-to administer medical treatment in this state.
+(13) "Health-care information" means individually identifiable information relating to the past, present, or future health status of an individual.
 
-(13) "health-care information" means individually identifiable information relating to the past, present, or future health status of an individual.
+(14) "Health-care provider" means a person licensed,certified, or registered in this state to practice medicine,pharmacy, chiropractic, nursing, physical therapy, podiatry,dentistry, optometry, occupational therapy, or other healing arts under title 12.
 
-(14) "health-care provider" means a person licensed,certified, or registered in this state to practice medicine,pharmacy, chiropractic, nursing, physical therapy, podiatry,dentistry, optometry, occupational therapy, or other healing arts under title 12.
+(15) "HIPAA" means the federal "Health Insurance Portability and Accountability Act of 1996", as amended, 42 U.S.C. secs. 1320d to 1320d-9.
 
-(15) "hipaa" means the federal "health insurance portability and accountability act of 1996", as amended, 42 u.s.c.secs. 1320d to 1320d-9.
+(16) "Identified or identifiable individual" means an individual who can be readily identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, specific geolocation data, or an online identifier.
 
-(16) "identified or identifiable individual" means an individual who can be readily identified, directly or indirectly, in particular by reference to an identifier such as a name, an identification number, specific geolocation data, or an online identifier.
+(17) "Personal data":
 
-(17) "personal data":
+(a) Means information that is linked or reasonably linkable to an identified or identifiable individual; and
 
-(a) means information that is linked or reasonably linkable to an identified or identifiable individual; and
+(b) Does not include de-identified data or publicly available information. as used in this subsection (17)(b), "publicly available information" means information that is lawfully made available from federal, state, or local government records and information that a controller has a reasonable basis to believe the consumer has lawfully made available to the general public.
 
-(b) does not include de-identified data or publicly available information. as used in this subsection (17)(b), "publicly available information" means information that is lawfully made available from federal, state, or local government records and information that a controller has a reasonable basis to believe the consumer has lawfully made available to the general public.
+(18) "Process" or "processing" means the collection, use,sale, storage, disclosure, analysis, deletion, or modification of personal data and includes the actions of a controller directing a processor to process personal data.
 
-(18) "process" or "processing" means the collection, use,sale, storage, disclosure, analysis, deletion, or modification of personal data and includes the actions of a controller directing a processor to process personal data.
+(19) "Processor" means a person that processes personal data on behalf of a controller.
 
-(19) "processor" means a person that processes personal data on behalf of a controller.
+(20) "Profiling" means any form of automated processing of personal data to evaluate, analyze, or predict personal aspects concerning an identified or identifiable individual's economic situation, health, personal preferences, interests, reliability,behavior, location, or movements.
 
-(20) "profiling" means any form of automated processing of personal data to evaluate, analyze, or predict personal aspects concerning an identified or identifiable individual's economic situation, health, personal preferences, interests, reliability,behavior, location, or movements.
+(21) "Protected health information" has the meaning established in 45 CFR 160.103.
 
-(21) "protected health information" has the meaning established in 45 cfr 160.103.
+(22) "Pseudonymous data" means personal data that can no longer be attributed to a specific individual without the use of additional information if the additional information is kept separately and is subject to technical and organizational measures to ensure that the personal data are not attributed to a specific individual.
 
-(22) "pseudonymous data" means personal data that can no longer be attributed to a specific individual without the use of additional information if the additional information is kept separately and is subject to technical and organizational measures to ensure that the personal data are not attributed to a specific individual.
+(23) (a) "Sale", "sell", or "sold" means the exchange of personal data for monetary or other valuable consideration by a controller to a third party.
 
-(23) (a) "sale", "sell", or "sold" means the exchange of personal data for monetary or other valuable consideration by a controller to a third party.
+(b) "Sale", "sell", or "sold" does not include the following:
 
-(b) "sale", "sell", or "sold" does not include the following:
+(i) The disclosure of personal data to a processor that processes the personal data on behalf of a controller;
 
-(i) the disclosure of personal data to a processor that processes the personal data on behalf of a controller;
+(ii) The disclosure of personal data to a third party for purposes of providing a product or service requested by the consumer;
 
-(ii) the disclosure of personal data to a third party for purposes of providing a product or service requested by the consumer;
+(iii) The disclosure or transfer of personal data to an affiliate of the controller;
 
-(iii) the disclosure or transfer of personal data to an affiliate of the controller;
+(iv) The disclosure or transfer to a third party of personal data as an asset that is part of a proposed or actual merger,acquisition, bankruptcy, or other transaction in which the third party assumes control of all or part of the controller's assets;or
 
-(iv) the disclosure or transfer to a third party of personal data as an asset that is part of a proposed or actual merger,acquisition, bankruptcy, or other transaction in which the third party assumes control of all or part of the controller's assets;or
+(v) The disclosure of personal data:
 
-(v) the disclosure of personal data:
+(a) That a consumer directs the controller to disclose or intentionally discloses by using the controller to interact with a third party; or
 
-(a) that a consumer directs the controller to disclose or intentionally discloses by using the controller to interact with a third party; or
+(b) Intentionally made available by a consumer to the general public via a channel of mass media.
 
-(b) intentionally made available by a consumer to the general public via a channel of mass media.
+(24) "Sensitive data" means:
 
-(24) "sensitive data" means:
+(a) Personal data revealing racial or ethnic origin,religious beliefs, a mental or physical health condition or diagnosis, sex life or sexual orientation, or citizenship or citizenship status;
 
-(a) personal data revealing racial or ethnic origin,religious beliefs, a mental or physical health condition or diagnosis, sex life or sexual orientation, or citizenship or citizenship status;
+(b) Genetic or biometric data that may be processed for the purpose of uniquely identifying an individual; or
 
-(b) genetic or biometric data that may be processed for the purpose of uniquely identifying an individual; or
+(c) Personal data from a known child.
 
-(c) personal data from a known child.
+(25) "Targeted advertising":
 
-(25) "targeted advertising":
+(a) Means displaying to a consumer an advertisement that is selected based on personal data obtained or inferred over time from the consumer's activities across nonaffiliated websites,applications, or online services to predict consumer preferences or interests; and
 
-(a) means displaying to a consumer an advertisement that is selected based on personal data obtained or inferred over time from the consumer's activities across nonaffiliated websites,applications, or online services to predict consumer preferences or interests; and
+(b) Does not include:
 
-(b) does not include:
+(i) Advertising to a consumer in response to the consumer's request for information or feedback;
 
-(i) advertising to a consumer in response to the consumer's request for information or feedback;
+(ii) Advertisements based on activities within a controller's own websites or online applications;
 
-(ii) advertisements based on activities within a controller's own websites or online applications;
+(iii) Advertisements based on the context of a consumer's current search query, visit to a website, or online application; or
 
-(iii) advertisements based on the context of a consumer's current search query, visit to a website, or online application; or
+(iv) Processing personal data solely for measuring or reporting advertising performance, reach, or frequency.
 
-(iv) processing personal data solely for measuring or reporting advertising performance, reach, or frequency.
-
-(26) "third party" means a person, public authority, agency,or body other than a consumer, controller, processor, or affiliate of the processor or the controller.
+(26) "Third party" means a person, public authority, agency,or body other than a consumer, controller, processor, or affiliate of the processor or the controller.
 
 ## 6-1-1304. applicability of part. 
 
