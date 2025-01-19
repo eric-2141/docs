@@ -163,59 +163,57 @@ As used in this part 13, unless the context otherwise requires:
 
 (26) "Third party" means a person, public authority, agency,or body other than a consumer, controller, processor, or affiliate of the processor or the controller.
 
-## 6-1-1304. applicability of part. 
+## 6-1-1304. Applicability of part. 
 
-(1) except as specified in subsection (2) of this section, this part 13 applies to a controller that:
+(1) Except as specified in subsection (2) of this section, this part 13 applies to a controller that:
 
-(a) conducts business in colorado or produces or delivers commercial products or services that are intentionally targeted to residents of colorado; and
+(a) Conducts business in Colorado or produces or delivers commercial products or services that are intentionally targeted to residents of Colorado; and
 
-(b) satisfies one or both of the following thresholds:
+(b) Satisfies one or both of the following thresholds:
 
-(i) controls or processes the personal data of one hundred thousand consumers or more during a calendar year; or
+(i) Controls or processes the personal data of one hundred thousand consumers or more during a calendar year; or
 
-(ii) derives revenue or receives a discount on the price of goods or services from the sale of personal data and processes or controls the personal data of twenty-five thousand consumers or more.
+(ii) Derives revenue or receives a discount on the price of goods or services from the sale of personal data and processes or controls the personal data of twenty-five thousand consumers or more.
 
-(2) this part 13 does not apply to:
+(2) This part 13 does not apply to:
 
-(a) protected health information that is collected, stored,and processed by a covered entity or its business associates;
+(a) Protected health information that is collected, stored,and processed by a covered entity or its business associates;
 
-(b) health-care information that is governed by part 8 of article 1 of title 25 solely for the purpose of access to medical records;
+(b) Health-care information that is governed by part 8 of article 1 of title 25 solely for the purpose of access to medical records;
 
-(c) patient identifying information, as defined in 42 cfr 2.11,that are governed by and collected and processed pursuant to 42cfr 2, established pursuant to 42 u.s.c. sec. 290dd-2;
+(c) Patient identifying information, as defined in 42 CFR 2.11,that are governed by and collected and processed pursuant to 42 CFR 2, established pursuant to 42 U.S.C. sec. 290dd-2;
 
-(d) identifiable private information, as defined in 45 cfr 46.102, for purposes of the federal policy for the protection of
+(d) Identifiable private information, as defined in 45 CFR 46.102, for purposes of the federal policy for the protection of human subjects pursuant to 45 CFR 46; identifiable private information that is collected as part of human subjects research pursuant to the ICH E6 Good Clinical Practice Guideline issued by the International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use or the protection of human subjects under 21 CFR 50 and 56; or personal data used or shared in research conducted in accordance with one or more of the categories set forth in this subsection (2)(d);
 
-human subjects pursuant to 45 cfr 46; identifiable private information that is collected as part of human subjects research pursuant to the ich e6 good clinical practice guideline issued by the international council for harmonisation of technical requirements for pharmaceuticals for human use or the protection of human subjects under 21 cfr 50 and 56; or personal data used or shared in research conducted in accordance with one or more of the categories set forth in this subsection (2)(d);
+(e) Information and documents created by a covered entity for purposes of complying with HIPAA and its implementing regulations;
 
-(e) information and documents created by a covered entity for purposes of complying with hipaa and its implementing regulations;
+(f) Patient safety work product, as defined in 42 CFR 3.20, that is created for purposes of patient safety improvement pursuant to 42 CFR 3, established pursuant to 42 U.S.C. secs. 299b-21 to 299b-26;
 
-(f) patient safety work product, as defined in 42 cfr 3.20,that is created for purposes of patient safety improvement pursuant to 42 cfr 3, established pursuant to 42 u.s.c. secs.299b-21 to 299b-26;
+(g) Information that is:
 
-(g) information that is:
+(i) De-identified in accordance with the requirements for de-identification set forth in 45 CFR 164; and
 
-(i) de-identified in accordance with the requirements for de-identification set forth in 45 cfr 164; and
+(ii) Derived from any of the health-care-related information described in this section.
 
-(ii) derived from any of the health-care-related information described in this section.
+(h) Information maintained in the same manner as information under subsections (2)(a) to (2)(g) of this section by:
 
-(h) information maintained in the same manner as information under subsections (2)(a) to (2)(g) of this section by:
+(I) A covered entity or business associate;
 
-(i) a covered entity or business associate;
+(II) A health-care facility or health-care provider; or
 
-(ii) a health-care facility or health-care provider; or
+(III) A program of a qualified service organization as defined in 42 CFR 2.11;
 
-(iii) a program of a qualified service organization as defined in 42 cfr 2.11;
+(i) (I) except as provided in subsection (2)(i)(II) of this section, an activity involving the collection, maintenance,disclosure, sale, communication, or use of any personal data bearing on a consumer's creditworthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living by:
 
-(i) (i) except as provided in subsection (2)(i)(ii) of this section, an activity involving the collection, maintenance,disclosure, sale, communication, or use of any personal data bearing on a consumer's creditworthiness, credit standing, credit capacity, character, general reputation, personal characteristics, or mode of living by:
+(A) A consumer reporting agency as defined in 15 U.S.C. sec. 1681a (f);
 
-(a) a consumer reporting agency as defined in 15 u.s.c. sec.1681a (f);
+(B) A furnisher of information as set forth in 15 U.S.C. sec. 1681s-2 that provides information for use in a consumer report, as defined in 15 U.S.C. sec. 1681a(d); or
 
-(b) a furnisher of information as set forth in 15 u.s.c. sec.1681s-2 that provides information for use in a consumer report, as defined in 15 u.s.c. sec. 1681a (d); or
+(C) A user of a consumer report as set forth in 15 U.S.C. sec.1681b.
 
-(c) a user of a consumer report as set forth in 15 u.s.c. sec.1681b.
+(II) this subsection (2)(i) applies only to the extent that the activity is regulated by the federal "Fair Credit Reporting Act",15 U.S.C. sec. 1681 et seq., as amended, and the personal data are not collected, maintained, disclosed, sold, communicated, or used except as authorized by the federal "Fair Credit Reporting Act",as amended.
 
-(ii) this subsection (2)(i) applies only to the extent that the activity is regulated by the federal "fair credit reporting act",15 u.s.c. sec. 1681 et seq., as amended, and the personal data are not collected, maintained, disclosed, sold, communicated, or used except as authorized by the federal "fair credit reporting act",as amended.
-
-(j) personal data:
+(j) Personal data:
 
 (i) collected and maintained for purposes of article 22 of title 10;
 
