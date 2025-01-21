@@ -19,27 +19,27 @@ The short title of this part 13 is the "Colorado Privacy Act".
 
 (a) Finds that:
 
-(i) The people of Colorado regard their privacy as a fundamental right and an essential element of their individual freedom;
+(I) The people of Colorado regard their privacy as a fundamental right and an essential element of their individual freedom;
 
-(ii) Colorado's constitution explicitly provides the right to privacy under section 7 of article II, and fundamental privacy rights have long been, and continue to be, integral to protecting Coloradans and to safeguarding our democratic republic;
+(II) Colorado's constitution explicitly provides the right to privacy under section 7 of article II, and fundamental privacy rights have long been, and continue to be, integral to protecting Coloradans and to safeguarding our democratic republic;
 
-(iii) Ongoing advances in technology have produced exponential growth in the volume and variety of personal data being generated, collected, stored, and analyzed and these advances present both promise and potential peril;
+(III) Ongoing advances in technology have produced exponential growth in the volume and variety of personal data being generated, collected, stored, and analyzed and these advances present both promise and potential peril;
 
-(iv) The ability to harness and use data in positive ways is driving innovation and brings beneficial technologies to society,but it has also created risks to privacy and freedom; and
+(IV) The ability to harness and use data in positive ways is driving innovation and brings beneficial technologies to society,but it has also created risks to privacy and freedom; and
 
-(v) The unauthorized disclosure of personal information and loss of privacy can have devastating impacts ranging from financial fraud, identity theft, and unnecessary costs in personal time and finances to destruction of property, harassment, reputational damage, emotional distress, and physical harm;
+(V) The unauthorized disclosure of personal information and loss of privacy can have devastating impacts ranging from financial fraud, identity theft, and unnecessary costs in personal time and finances to destruction of property, harassment, reputational damage, emotional distress, and physical harm;
 
 (b) Determines that:
 
-(i) Technological innovation and new uses of data can help solve societal problems and improve lives, and it is possible to build a world where technological innovation and privacy can coexist; and
+(I) Technological innovation and new uses of data can help solve societal problems and improve lives, and it is possible to build a world where technological innovation and privacy can coexist; and
 
-(ii) States across the United States are looking to this part 13 and similar models to enact state-based data privacy requirements and to exercise the leadership that is lacking at the national level; and
+(II) States across the United States are looking to this part 13 and similar models to enact state-based data privacy requirements and to exercise the leadership that is lacking at the national level; and
 
 (c) Declares that:
 
-(i) by enacting this part 13, Colorado will be among the states that empower consumers to protect their privacy and require companies to be responsible custodians of data as they continue to innovate;
+(I) by enacting this part 13, Colorado will be among the states that empower consumers to protect their privacy and require companies to be responsible custodians of data as they continue to innovate;
 
-(ii) This part 13 addresses issues of statewide concern and:
+(II) This part 13 addresses issues of statewide concern and:
 
 (a) Provides consumers the right to access, correct, and delete personal data and the right to opt out not only of the sale of personal data but also of the collection and use of personal data;
 
@@ -125,15 +125,15 @@ As used in this part 13, unless the context otherwise requires:
 
 (b) "Sale", "sell", or "sold" does not include the following:
 
-(i) The disclosure of personal data to a processor that processes the personal data on behalf of a controller;
+(I) The disclosure of personal data to a processor that processes the personal data on behalf of a controller;
 
-(ii) The disclosure of personal data to a third party for purposes of providing a product or service requested by the consumer;
+(II) The disclosure of personal data to a third party for purposes of providing a product or service requested by the consumer;
 
-(iii) The disclosure or transfer of personal data to an affiliate of the controller;
+(III) The disclosure or transfer of personal data to an affiliate of the controller;
 
-(iv) The disclosure or transfer to a third party of personal data as an asset that is part of a proposed or actual merger,acquisition, bankruptcy, or other transaction in which the third party assumes control of all or part of the controller's assets;or
+(IV) The disclosure or transfer to a third party of personal data as an asset that is part of a proposed or actual merger,acquisition, bankruptcy, or other transaction in which the third party assumes control of all or part of the controller's assets;or
 
-(v) The disclosure of personal data:
+(V) The disclosure of personal data:
 
 (a) That a consumer directs the controller to disclose or intentionally discloses by using the controller to interact with a third party; or
 
@@ -153,13 +153,13 @@ As used in this part 13, unless the context otherwise requires:
 
 (b) Does not include:
 
-(i) Advertising to a consumer in response to the consumer's request for information or feedback;
+(I) Advertising to a consumer in response to the consumer's request for information or feedback;
 
-(ii) Advertisements based on activities within a controller's own websites or online applications;
+(II) Advertisements based on activities within a controller's own websites or online applications;
 
-(iii) Advertisements based on the context of a consumer's current search query, visit to a website, or online application; or
+(III) Advertisements based on the context of a consumer's current search query, visit to a website, or online application; or
 
-(iv) Processing personal data solely for measuring or reporting advertising performance, reach, or frequency.
+(IV) Processing personal data solely for measuring or reporting advertising performance, reach, or frequency.
 
 (26) "Third party" means a person, public authority, agency,or body other than a consumer, controller, processor, or affiliate of the processor or the controller.
 
@@ -171,9 +171,9 @@ As used in this part 13, unless the context otherwise requires:
 
 (b) Satisfies one or both of the following thresholds:
 
-(i) Controls or processes the personal data of one hundred thousand consumers or more during a calendar year; or
+(I) Controls or processes the personal data of one hundred thousand consumers or more during a calendar year; or
 
-(ii) Derives revenue or receives a discount on the price of goods or services from the sale of personal data and processes or controls the personal data of twenty-five thousand consumers or more.
+(II) Derives revenue or receives a discount on the price of goods or services from the sale of personal data and processes or controls the personal data of twenty-five thousand consumers or more.
 
 (2) This part 13 does not apply to:
 
@@ -191,9 +191,9 @@ As used in this part 13, unless the context otherwise requires:
 
 (g) Information that is:
 
-(i) De-identified in accordance with the requirements for de-identification set forth in 45 CFR 164; and
+(I) De-identified in accordance with the requirements for de-identification set forth in 45 CFR 164; and
 
-(ii) Derived from any of the health-care-related information described in this section.
+(II) Derived from any of the health-care-related information described in this section.
 
 (h) Information maintained in the same manner as information under subsections (2)(a) to (2)(g) of this section by:
 
@@ -215,79 +215,77 @@ As used in this part 13, unless the context otherwise requires:
 
 (j) Personal data:
 
-(i) collected and maintained for purposes of article 22 of title 10;
+(I) Collected and maintained for purposes of article 22 of title 10;
 
-(ii) collected, processed, sold, or disclosed pursuant to the federal "gramm-leach-bliley act", 15 u.s.c. sec. 6801 et seq., as amended, and implementing regulations, if the collection,processing, sale, or disclosure is in compliance with that law;
+(II) Collected, processed, sold, or disclosed pursuant to the federal "Gramm-Leach-Bliley Act", 15 U.S.C. sec. 6801 et seq., as amended, and implementing regulations, if the collection,processing, sale, or disclosure is in compliance with that law;
 
-(iii) collected, processed, sold, or disclosed pursuant to the federal "driver's privacy protection act of 1994", 18 u.s.c.sec. 2721 et seq., as amended, if the collection, processing, sale, or disclosure is regulated by that law, including implementing rules,regulations, or exemptions;
+(III) Collected, processed, sold, or disclosed pursuant to the federal "Driver's Privacy Protection Act of 1994", 18 U.S.C. sec. 2721 et seq., as amended, if the collection, processing, sale, or disclosure is regulated by that law, including implementing rules,regulations, or exemptions;
 
-(iv) regulated by the federal "children's online privacy protection act of 1998", 15 u.s.c. secs. 6501 to 6506, as amended, if collected, processed, and maintained in compliance with that law;or
+(IV) Regulated by the federal "Children's Online Privacy Protection Act of 1998", 15 U.S.C. secs. 6501 to 6506, as amended, if collected, processed, and maintained in compliance with that law;or
 
-(v) regulated by the federal "family educational rights and privacy act of 1974", 20 u.s.c. sec. 1232g et seq., as amended,and its implementing regulations;
+(V) Regulated by the federal "Family Educational Rights and Privacy Act of 1974", 20 U.S.C. sec. 1232g et seq., as amended,and its implementing regulations;
 
-(k) data maintained for employment records purposes;
+(k) Data maintained for employment records purposes;
 
-(l) an air carrier as defined in and regulated under 49 u.s.c.sec. 40101 et seq., as amended, and 49 u.s.c. sec. 41713, as amended;
+(l) An air carrier as defined in and regulated under 49 U.S.C. sec. 40101 et seq., as amended, and 49 U.S.C. sec. 41713, as amended;
 
-(m) a national securities association registered pursuant to the federal "securities exchange act of 1934", 15 u.s.c. sec.78o-3, as amended, or implementing regulations;
+(m) A national securities association registered pursuant to the federal "Securities Exchange Act of 1934", 15 U.S.C. sec.78o-3, as amended, or implementing regulations;
 
-(n) customer data maintained by a public utility as defined in section 40-1-103 (1)(a)(i) or an authority as defined in section 43-4-503 (1), if the data are not collected, maintained, disclosed,sold, communicated, or used except as authorized by state and federal law;
+(n) Customer data maintained by a public utility as defined in section 40-1-103 (1)(a)(i) or an authority as defined in section 43-4-503 (1), if the data are not collected, maintained, disclosed,sold, communicated, or used except as authorized by state and federal law;
 
-(o) data maintained by a state institution of higher education, as defined in section 23-18-102 (10), the state, the judicial department of the state, or a county, city and county, or municipality if the data is collected, maintained, disclosed,communicated, and used as authorized by state and federal law for noncommercial purposes. this subsection (2)(o) does not effect any other exemption available under this part 13.
+(o) Data maintained by a state institution of higher education, as defined in section 23-18-102 (10), the state, the judicial department of the state, or a county, city and county, or municipality if the data is collected, maintained, disclosed,communicated, and used as authorized by state and federal law for noncommercial purposes. This subsection (2)(o) does not effect any other exemption available under this part 13.
 
-(p) information used and disclosed in compliance with 45cfr 164.512; or
+(p) Information used and disclosed in compliance with 45 CFR 164.512; or
 
-(q) a financial institution or an affiliate of a financial institution as defined by and that is subject to the federal "gramm-leach-bliley act", 15 u.s.c. sec. 6801 et seq., as amended,and implementing regulations, including regulation p, 12 cfr 1016.
+(q) A financial institution or an affiliate of a financial institution as defined by and that is subject to the federal "Gramm-Leach-Bliley Act", 15 U.S.C. sec. 6801 et seq., as amended,and implementing regulations, including regulation p, 12 CFR 1016.
 
-(3) the obligations imposed on controllers or processors under this part 13 do not:
+(3) The obligations imposed on controllers or processors under this part 13 do not:
 
-(a) restrict a controller's or processor's ability to:
+(a) Restrict a controller's or processor's ability to:
 
-(i) comply with federal, state, or local laws, rules, or regulations;
+(I) Comply with federal, state, or local laws, rules, or regulations;
 
-(ii) comply with a civil, criminal, or regulatory inquiry,investigation, subpoena, or summons by federal, state, local, or other governmental authorities;
+(II) Comply with a civil, criminal, or regulatory inquiry,investigation, subpoena, or summons by federal, state, local, or other governmental authorities;
 
-(iii) cooperate with law enforcement agencies concerning conduct or activity that the controller or processor reasonably and in good faith believes may violate federal, state, or local law;
+(III) Cooperate with law enforcement agencies concerning conduct or activity that the controller or processor reasonably and in good faith believes may violate federal, state, or local law;
 
-(iv) investigate, exercise, prepare for, or defend actual or anticipated legal claims;
+(IV) Investigate, exercise, prepare for, or defend actual or anticipated legal claims;
 
-(v) conduct internal research to improve, repair, or develop products, services, or technology;
+(V) Conduct internal research to improve, repair, or develop products, services, or technology;
 
-(vi) identify and repair technical errors that impair existing or intended functionality;
+(VI) Identify and repair technical errors that impair existing or intended functionality;
 
-(vii) perform internal operations that are reasonably aligned with the expectations of the consumer based on the consumer's existing relationship with the controller;
+(VII) Perform internal operations that are reasonably aligned with the expectations of the consumer based on the consumer's existing relationship with the controller;
 
-(viii) provide a product or service specifically requested by a consumer or the parent or guardian of a child, perform a contract to which the consumer is a party, or take steps at the request of the consumer prior to entering into a contract;
+(VIII) Provide a product or service specifically requested by a consumer or the parent or guardian of a child, perform a contract to which the consumer is a party, or take steps at the request of the consumer prior to entering into a contract;
 
-(ix) protect the vital interests of the consumer or of another individual;
+(IX) Protect the vital interests of the consumer or of another individual;
 
-(x) prevent, detect, protect against, or respond to security incidents, identity theft, fraud, harassment, or malicious,deceptive, or illegal activity; preserve the integrity or security of systems; or investigate, report, or prosecute those responsible for any such action;
+(X) Prevent, detect, protect against, or respond to security incidents, identity theft, fraud, harassment, or malicious,deceptive, or illegal activity; preserve the integrity or security of systems; or investigate, report, or prosecute those responsible for any such action;
 
-(xi) process personal data for reasons of public interest in the area of public health, but solely to the extent that the processing:
+(XI) Process personal data for reasons of public interest in the area of public health, but solely to the extent that the processing:
 
-(a) is subject to suitable and specific measures to safeguard the rights of the consumer whose personal data are processed;and
+(A) Is subject to suitable and specific measures to safeguard the rights of the consumer whose personal data are processed;and
 
-(b) is under the responsibility of a professional subject to confidentiality obligations under federal, state, or local law; or
+(B) Is under the responsibility of a professional subject to confidentiality obligations under federal, state, or local law; or
 
-(xii) assist another person with any of the activities set forth in this subsection (3);
+(XII) Assist another person with any of the activities set forth in this subsection (3);
 
-(b) apply where compliance by the controller or processor with this part 13 would violate an evidentiary privilege under colorado law;
+(b) Apply where compliance by the controller or processor with this part 13 would violate an evidentiary privilege under Colorado law;
 
-(c) prevent a controller or processor from providing personal data concerning a consumer to a person covered by an evidentiary privilege under colorado law as part of a privileged communication;
+(c) Prevent a controller or processor from providing personal data concerning a consumer to a person covered by an evidentiary privilege under Colorado law as part of a privileged communication;
 
-(d) apply to information made available by a third party that the controller has a reasonable basis to believe is protected speech pursuant to applicable law; and
+(d) Apply to information made available by a third party that the controller has a reasonable basis to believe is protected speech pursuant to applicable law; and
 
-(e) apply to the processing of personal data by an individual in the course of a purely personal or household activity.
+(e) Apply to the processing of personal data by an individual in the course of a purely personal or household activity.
 
-(4) personal data that are processed by a controller pursuant to an exception provided by this section:
+(4) Personal data that are processed by a controller pursuant to an exception provided by this section:
 
-(a) shall not be processed for any purpose other than a purpose expressly listed in this section or as otherwise authorized by this part 13; and
+(a) Shall not be processed for any purpose other than a purpose expressly listed in this section or as otherwise authorized by this part 13; and
 
-(b) shall be processed solely to the extent that the processing is necessary, reasonable, and proportionate to the specific purpose or purposes listed in this section or as otherwise
+(b) Shall be processed solely to the extent that the processing is necessary, reasonable, and proportionate to the specific purpose or purposes listed in this section or as otherwise authorized by this part 13.
 
-authorized by this part 13.
-
-(5) if a controller processes personal data pursuant to an exemption in this section, the controller bears the burden of demonstrating that the processing qualifies for the exemption and complies with the requirements in subsection (4) of this section.
+(5) If a controller processes personal data pursuant to an exemption in this section, the controller bears the burden of demonstrating that the processing qualifies for the exemption and complies with the requirements in subsection (4) of this section.
 
 ## 6-1-1305. responsibility according to role. 
 
