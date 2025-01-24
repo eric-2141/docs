@@ -375,63 +375,63 @@ As used in this part 13, unless the context otherwise requires:
 
 (c) The controller shall inform the consumer of the consumer's ability to contact the attorney general if the consumer has concerns about the result of the appeal.
 
-## 6-1-1307. processing de-identified data. 
+## 6-1-1307. Processing de-identified data. 
 
-(1) this part 13 does not require a controller or processor to do any of the following solely for purposes of complying with this part 13:
+(1) This part 13 does not require a controller or processor to do any of the following solely for purposes of complying with this part 13:
 
-(a) reidentify de-identified data;
+(a) Reidentify de-identified data;
 
-(b) comply with an authenticated consumer request to access, correct, delete, or provide personal data in a portable format pursuant to section 6-1-1306 (1), if all of the following are true:
+(b) Comply with an authenticated consumer request to access, correct, delete, or provide personal data in a portable format pursuant to section 6-1-1306 (1), if all of the following are true:
 
-(i) (a) the controller is not reasonably capable of associating the request with the personal data; or
+(I) (A) The controller is not reasonably capable of associating the request with the personal data; or
 
-(b) it would be unreasonably burdensome for the controller to associate the request with the personal data;
+(B) It would be unreasonably burdensome for the controller to associate the request with the personal data;
 
-(ii) the controller does not use the personal data to recognize or respond to the specific consumer who is the subject of the personal data or associate the personal data with other personal data about the same specific consumer; and
+(II) The controller does not use the personal data to recognize or respond to the specific consumer who is the subject of the personal data or associate the personal data with other personal data about the same specific consumer; and
 
-(iii) the controller does not sell the personal data to any third party or otherwise voluntarily disclose the personal data to any third party, except as otherwise authorized by the consumer; or
+(III) The controller does not sell the personal data to any third party or otherwise voluntarily disclose the personal data to any third party, except as otherwise authorized by the consumer; or
 
-(c) maintain data in identifiable form or collect, obtain,retain, or access any data or technology in order to enable the controller to associate an authenticated consumer request with personal data.
+(c) Maintain data in identifiable form or collect, obtain, retain, or access any data or technology in order to enable the controller to associate an authenticated consumer request with personal data.
 
-(2) a controller that uses de-identified data shall exercise reasonable oversight to monitor compliance with any contractual commitments to which the de-identified data are subject and shall take appropriate steps to address any breaches of contractual commitments.
+(2) A controller that uses de-identified data shall exercise reasonable oversight to monitor compliance with any contractual commitments to which the de-identified data are subject and shall take appropriate steps to address any breaches of contractual commitments.
 
-(3) the rights contained in section 6-1-1306 (1)(b) to (1)(e) do not apply to pseudonymous data if the controller can demonstrate that the information necessary to identify the consumer is kept separately and is subject to effective technical and organizational controls that prevent the controller from accessing the information.
+(3) The rights contained in section 6-1-1306 (1)(b) to (1)(e) do not apply to pseudonymous data if the controller can demonstrate that the information necessary to identify the consumer is kept separately and is subject to effective technical and organizational controls that prevent the controller from accessing the information.
 
-## 6-1-1308. duties of controllers. 
+## 6-1-1308. Duties of controllers. 
 
-(1) duty of transparency. (a) a controller shall provide consumers with a reasonably accessible,clear, and meaningful privacy notice that includes:
+(1) Duty of transparency. (a) A controller shall provide consumers with a reasonably accessible,clear, and meaningful privacy notice that includes:
 
-(i) the categories of personal data collected or processed by the controller or a processor;
+(I) The categories of personal data collected or processed by the controller or a processor;
 
-(ii) the purposes for which the categories of personal data are processed;
+(II) The purposes for which the categories of personal data are processed;
 
-(iii) how and where consumers may exercise the rights pursuant to section 6-1-1306, including the controller's contact information and how a consumer may appeal a controller's action with regard to the consumer's request;
+(III) How and where consumers may exercise the rights pursuant to section 6-1-1306, including the controller's contact information and how a consumer may appeal a controller's action with regard to the consumer's request;
 
-(iv) the categories of personal data that the controller shares with third parties, if any; and
+(IV) The categories of personal data that the controller shares with third parties, if any; and
 
-(v) the categories of third parties, if any, with whom the controller shares personal data.
+(V) The categories of third parties, if any, with whom the controller shares personal data.
 
-(b) if a controller sells personal data to third parties or processes personal data for targeted advertising, the controller shall clearly and conspicuously disclose the sale or processing,as well as the manner in which a consumer may exercise the right to opt out of the sale or processing.
+(b) If a controller sells personal data to third parties or processes personal data for targeted advertising, the controller shall clearly and conspicuously disclose the sale or processing, as well as the manner in which a consumer may exercise the right to opt out of the sale or processing.
 
-(c) a controller shall not:
+(c) A controller shall not:
 
-(i) require a consumer to create a new account in order to exercise a right; or
+(I) Require a consumer to create a new account in order to exercise a right; or
 
-(ii) based solely on the exercise of a right and unrelated to feasibility or the value of a service, increase the cost of, or decrease the availability of, the product or service.
+(II) Based solely on the exercise of a right and unrelated to feasibility or the value of a service, increase the cost of, or decrease the availability of, the product or service.
 
-(d) nothing in this part 13 shall be construed to require a controller to provide a product or service that requires the personal data of a consumer that the controller does not collect or maintain or to prohibit a controller from offering a different price, rate, level, quality, or selection of goods or services to a consumer, including offering goods or services for no fee, if the offer is related to a consumer's voluntary participation in a bona fide loyalty, rewards, premium features, discount, or club card program.
+(d) Nothing in this part 13 shall be construed to require a controller to provide a product or service that requires the personal data of a consumer that the controller does not collect or maintain or to prohibit a controller from offering a different price, rate, level, quality, or selection of goods or services to a consumer, including offering goods or services for no fee, if the offer is related to a consumer's voluntary participation in a bona fide loyalty, rewards, premium features, discount, or club card program.
 
-(2) duty of purpose specification. a controller shall specify the express purposes for which personal data are collected and processed.
+(2) Duty of purpose specification. A controller shall specify the express purposes for which personal data are collected and processed.
 
-(3) duty of data minimization. a controller's collection of personal data must be adequate, relevant, and limited to what is reasonably necessary in relation to the specified purposes for which the data are processed.
+(3) Duty of data minimization. A controller's collection of personal data must be adequate, relevant, and limited to what is reasonably necessary in relation to the specified purposes for which the data are processed.
 
-(4) duty to avoid secondary use. a controller shall not process personal data for purposes that are not reasonably necessary to or compatible with the specified purposes for which the personal data are processed, unless the controller first obtains the consumer's consent.
+(4) Duty to avoid secondary use. A controller shall not process personal data for purposes that are not reasonably necessary to or compatible with the specified purposes for which the personal data are processed, unless the controller first obtains the consumer's consent.
 
-(5) duty of care. a controller shall take reasonable measures to secure personal data during both storage and use from unauthorized acquisition. the data security practices must be appropriate to the volume, scope, and nature of the personal data processed and the nature of the business.
+(5) Duty of care. A controller shall take reasonable measures to secure personal data during both storage and use from unauthorized acquisition. The data security practices must be appropriate to the volume, scope, and nature of the personal data processed and the nature of the business.
 
-(6) duty to avoid unlawful discrimination. a controller shall not process personal data in violation of state or federal laws that prohibit unlawful discrimination against consumers.
+(6) Duty to avoid unlawful discrimination. A controller shall not process personal data in violation of state or federal laws that prohibit unlawful discrimination against consumers.
 
-(7) duty regarding sensitive data. a controller shall not process a consumer's sensitive data without first obtaining the consumer's consent or, in the case of the processing of personal data concerning a known child, without first obtaining consent from the child's parent or lawful guardian.
+(7) Duty regarding sensitive data. A controller shall not process a consumer's sensitive data without first obtaining the consumer's consent or, in the case of the processing of personal data concerning a known child, without first obtaining consent from the child's parent or lawful guardian.
 
 ## 6-1-1309. data protection assessments - attorney general access and evaluation - definition. 
 
