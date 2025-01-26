@@ -433,72 +433,72 @@ As used in this part 13, unless the context otherwise requires:
 
 (7) Duty regarding sensitive data. A controller shall not process a consumer's sensitive data without first obtaining the consumer's consent or, in the case of the processing of personal data concerning a known child, without first obtaining consent from the child's parent or lawful guardian.
 
-## 6-1-1309. data protection assessments - attorney general access and evaluation - definition. 
+## 6-1-1309. Data protection assessments - attorney general access and evaluation - definition. 
 
-(1) a controller shall not conduct processing that presents a heightened risk of harm to a consumer without conducting and documenting a data protection assessment of each of its processing activities that involve personal data acquired on or after the effective date of this section that present a heightened risk of harm to a consumer.
+(1) A controller shall not conduct processing that presents a heightened risk of harm to a consumer without conducting and documenting a data protection assessment of each of its processing activities that involve personal data acquired on or after the effective date of this section that present a heightened risk of harm to a consumer.
 
-(2) for purposes of this section, "processing that presents a heightened risk of harm to a consumer" includes the following:
+(2) For purposes of this section, "processing that presents a heightened risk of harm to a consumer" includes the following:
 
-(a) processing personal data for purposes of targeted advertising or for profiling if the profiling presents a reasonably foreseeable risk of:
+(a) Processing personal data for purposes of targeted advertising or for profiling if the profiling presents a reasonably foreseeable risk of:
 
-(i) unfair or deceptive treatment of, or unlawful disparate impact on, consumers;
+(I) Unfair or deceptive treatment of, or unlawful disparate impact on, consumers;
 
-(ii) financial or physical injury to consumers;
+(II) Financial or physical injury to consumers;
 
-(iii) a physical or other intrusion upon the solitude or seclusion, or the private affairs or concerns, of consumers if the intrusion would be offensive to a reasonable person; or
+(III) A physical or other intrusion upon the solitude or seclusion, or the private affairs or concerns, of consumers if the intrusion would be offensive to a reasonable person; or
 
-(iv) other substantial injury to consumers;
+(IV) Other substantial injury to consumers;
 
-(b) selling personal data; and
+(b) Selling personal data; and
 
-(c) processing sensitive data.
+(c) Processing sensitive data.
 
-(3) data protection assessments must identify and weigh the benefits that may flow, directly and indirectly, from the processing to the controller, the consumer, other stakeholders,and the public against the potential risks to the rights of the consumer associated with the processing, as mitigated by safeguards that the controller can employ to reduce the risks.the controller shall factor into this assessment the use of de-identified data and the reasonable expectations of consumers,as well as the context of the processing and the relationship between the controller and the consumer whose personal data will be processed.
+(3) Data protection assessments must identify and weigh the benefits that may flow, directly and indirectly, from the processing to the controller, the consumer, other stakeholders,and the public against the potential risks to the rights of the consumer associated with the processing, as mitigated by safeguards that the controller can employ to reduce the risks. The controller shall factor into this assessment the use of de-identified data and the reasonable expectations of consumers,as well as the context of the processing and the relationship between the controller and the consumer whose personal data will be processed.
 
-(4) a controller shall make the data protection assessment available to the attorney general upon request. the attorney general may evaluate the data protection assessment for compliance with the duties contained in section 6-1-1308 and with other laws, including this article 1. data protection assessments are confidential and exempt from public inspection and copying under the "colorado open records act", part 2 of article 72 of title 24. the disclosure of a data protection assessment pursuant to a request from the attorney general under this subsection (4)does not constitute a waiver of any attorney-client privilege or work-product protection that might otherwise exist with respect to the assessment and any information contained in the assessment.
+(4) A controller shall make the data protection assessment available to the attorney general upon request. The attorney general may evaluate the data protection assessment for compliance with the duties contained in section 6-1-1308 and with other laws, including this article 1. Data protection assessments are confidential and exempt from public inspection and copying under the "Colorado Open Records Act", part 2 of article 72 of title 24. The disclosure of a data protection assessment pursuant to a request from the attorney general under this subsection (4) does not constitute a waiver of any attorney-client privilege or work-product protection that might otherwise exist with respect to the assessment and any information contained in the assessment.
 
-(5) a single data protection assessment may address a comparable set of processing operations that include similar activities.
+(5) A single data protection assessment may address a comparable set of processing operations that include similar activities.
 
-(6) data protection assessment requirements apply to processing activities created or generated after july 1, 2023, and are not retroactive.
+(6) Data protection assessment requirements apply to processing activities created or generated after july 1, 2023, and are not retroactive.
 
-## 6-1-1310. liability. 
+## 6-1-1310. Liability. 
 
-(1) notwithstanding any provision in part 1 of this article 1, this part 13 does not authorize a private right of action for a violation of this part 13 or any other provision of law. this subsection (1) neither relieves any party from any duties or obligations imposed, nor alters any independent rights that consumers have, under other laws, including this article 1, the state constitution, or the united states constitution.
+(1) Notwithstanding any provision in part 1 of this article 1, this part 13 does not authorize a private right of action for a violation of this part 13 or any other provision of law. This subsection (1) neither relieves any party from any duties or obligations imposed, nor alters any independent rights that consumers have, under other laws, including this article 1, the state constitution, or the United States constitution.
 
-(2) where more than one controller or processor, or both a controller and a processor, involved in the same processing violates this part 13, the liability shall be allocated among the parties according to principles of comparative fault.
+(2) Where more than one controller or processor, or both a controller and a processor, involved in the same processing violates this part 13, the liability shall be allocated among the parties according to principles of comparative fault.
 
-## 6-1-1311. enforcement - penalties - repeal.
+## 6-1-1311. Enforcement - penalties - repeal.
 
-(1) (a) notwithstanding any other provision of this article 1, the attorney general and district attorneys have exclusive authority to enforce this part 13 by bringing an action in the name of the state or as parens patriae on behalf of persons residing in the state to enforce this part 13 as provided in this article 1,including seeking an injunction to enjoin a violation of this part 13.
+(1) (a) Notwithstanding any other provision of this article 1, the attorney general and district attorneys have exclusive authority to enforce this part 13 by bringing an action in the name of the state or as parens patriae on behalf of persons residing in the state to enforce this part 13 as provided in this article 1, including seeking an injunction to enjoin a violation of this part 13.
 
-(b) notwithstanding any other provision of this article 1,nothing in this part 13 shall be construed as providing the basis for, or being subject to, a private right of action for violations of this part 13 or any other law.
+(b) Notwithstanding any other provision of this article 1,nothing in this part 13 shall be construed as providing the basis for, or being subject to, a private right of action for violations of this part 13 or any other law.
 
-(c) for purposes only of enforcement of this part 13 by the attorney general or a district attorney, a violation of this part 13 is a deceptive trade practice.
+(c) For purposes only of enforcement of this part 13 by the attorney general or a district attorney, a violation of this part 13 is a deceptive trade practice.
 
-(d) prior to any enforcement action pursuant to subsection (1)(a) of this section, the attorney general or district attorney must issue a notice of violation to the controller if a cure is deemed possible. if the controller fails to cure the violation within sixty days after receipt of the notice of violation, an action may be brought pursuant to this section. this subsection (1)(d) is repealed, effective january 1, 2025.
+(d) Prior to any enforcement action pursuant to subsection (1)(a) of this section, the attorney general or district attorney must issue a notice of violation to the controller if a cure is deemed possible. If the controller fails to cure the violation within sixty days after receipt of the notice of violation, an action may be brought pursuant to this section. This subsection (1)(d) is repealed, effective January 1, 2025.
 
-(2) the state treasurer shall credit all receipts from the imposition of civil penalties under this part 13 pursuant to section 24-31-108.
+(2) The state treasurer shall credit all receipts from the imposition of civil penalties under this part 13 pursuant to section 24-31-108.
 
-## 6-1-1312. preemption - local governments. 
+## 6-1-1312. Preemption - local governments. 
 
-this part 13supersedes and preempts laws, ordinances, resolutions,regulations, or the equivalent adopted by any statutory or home rule municipality, county, or city and county regarding the processing of personal data by controllers or processors.
+This part 13 supersedes and preempts laws, ordinances, resolutions, regulations, or the equivalent adopted by any statutory or home rule municipality, county, or city and county regarding the processing of personal data by controllers or processors.
 
-## 6-1-1313. rules - opt-out mechanism. 
+## 6-1-1313. Rules - opt-out mechanism. 
 
-(1) the attorney general may promulgate rules for the purpose of carrying out this part 13.
+(1) The attorney general may promulgate rules for the purpose of carrying out this part 13.
 
-(2) by july 1, 2023, the attorney general shall adopt rules that detail the technical specifications for one or more universal opt-out mechanisms that clearly communicate a consumer's affirmative, freely given, and unambiguous choice to opt out of the processing of personal data for purposes of targeted advertising or the sale of personal data pursuant to section 6-1-1306 (1)(a)(i)(a) or (1)(a)(i)(b). the attorney general may update the rules that detail the technical specifications for the mechanisms from time to time to reflect the means by which consumers interact with controllers. the rules must:
+(2) By July 1, 2023, the attorney general shall adopt rules that detail the technical specifications for one or more universal opt-out mechanisms that clearly communicate a consumer's affirmative, freely given, and unambiguous choice to opt out of the processing of personal data for purposes of targeted advertising or the sale of personal data pursuant to section 6-1-1306 (1)(a)(i)(a) or (1)(a)(i)(b). The attorney general may update the rules that detail the technical specifications for the mechanisms from time to time to reflect the means by which consumers interact with controllers. The rules must:
 
-(a) not permit the manufacturer of a platform, browser,device, or any other product offering a universal opt-out mechanism to unfairly disadvantage another controller;
+(a) Not permit the manufacturer of a platform, browser, device, or any other product offering a universal opt-out mechanism to unfairly disadvantage another controller;
 
-(b) require controllers to inform consumers about the opt-out choices available under section 6-1-1306 (1)(a)(i);
+(b) Require controllers to inform consumers about the opt-out choices available under section 6-1-1306 (1)(a)(i);
 
-(c) not adopt a mechanism that is a default setting, but rather clearly represents the consumer's affirmative, freely given, and unambiguous choice to opt out of the processing of personal data pursuant to section 6-1-1306 (1)(a)(i)(a) or (1)(a)(i)(b);
+(c) Not adopt a mechanism that is a default setting, but rather clearly represents the consumer's affirmative, freely given, and unambiguous choice to opt out of the processing of personal data pursuant to section 6-1-1306 (1)(a)(i)(a) or (1)(a)(i)(b);
 
-(d) adopt a mechanism that is consumer-friendly, clearly described, and easy to use by the average consumer;
+(d) Adopt a mechanism that is consumer-friendly, clearly described, and easy to use by the average consumer;
 
-(e) adopt a mechanism that is as consistent as possible with any other similar mechanism required by law or regulation in the united states; and
+(e) Adopt a mechanism that is as consistent as possible with any other similar mechanism required by law or regulation in the United States; and
 
-(f) permit the controller to accurately authenticate the consumer as a resident of this state and determine that the mechanism represents a legitimate request to opt out of the processing of personal data for purposes of targeted advertising or the sale of personal data pursuant to section 6-1-1306(1)(a)(i)(a) or (1)(a)(i)(b).
+(f) Permit the controller to accurately authenticate the consumer as a resident of this state and determine that the mechanism represents a legitimate request to opt out of the processing of personal data for purposes of targeted advertising or the sale of personal data pursuant to section 6-1-1306(1)(a)(i)(a) or (1)(a)(i)(b).
 
-(3) by january 1, 2025, the attorney general may adopt rules that govern the process of issuing opinion letters and interpretive guidance to develop an operational framework for business that includes a good faith reliance defense of an action that may otherwise constitute a violation of this part 13. the rules must become effective by july 1, 2025.
+(3) By January 1, 2025, the attorney general may adopt rules that govern the process of issuing opinion letters and interpretive guidance to develop an operational framework for business that includes a good faith reliance defense of an action that may otherwise constitute a violation of this part 13. The rules must become effective by July 1, 2025.
