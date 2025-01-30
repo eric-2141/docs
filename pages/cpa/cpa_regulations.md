@@ -62,3 +62,28 @@ The following definitions of terms, in addition to those set forth in C.R.S. § 
 “Disability” or “Disabilities” has the same meaning as set forth in C.R.S. § 24-85-102(2.3).
 
 “Employee" means any person, acting as a job applicant to, or performing labor or services for the benefit of an Employer, including contingent and temporary workers and migratory laborers.
+
+"Employer" means every person, entity, firm, partnership, association, corporation, migratory field labor contractor or crew leader, receiver, or other officer of court, and any agent or officer thereof, of the above-mentioned classes, employing any person.
+
+"Employment Records" as referred to in C.R.S. § 6-1-1304(2)(k) means the records of an Employee, maintained by the Employer in the context of the Employer-Employee relationship having to do with hiring, promotion, demotion, transfer, lay-off or termination, rates of pay or other terms of compensation, as well as other information maintained because of the Employer-Employee relationship.
+
+"Human Involved Automated Processing” means the automated processing of Personal Data where a human (1) engages in a meaningful consideration of available data used in the Processing or any output of the Processing and (2) has the authority to change or influence the outcome of the Processing.
+
+“Human Reviewed Automated Processing” means the automated processing of Personal Data where a human reviews the automated processing, but the level of human engagement does not rise to the level required for Human Involved Automated Processing. Reviewing the output of the automated processing with no meaningful consideration does not rise to the level of Human Involved Automated Processing.
+
+“Information that a Controller has a reasonable basis to believe the Consumer has lawfully made available to the general public” as referred to in C.R.S. § 6-1-1303(17)(b) means information that a Consumer has intentionally made available to the general public or information that a Consumer has made available under federal or state law, which may include but is not limited to:
+
+1. Personal Data found in a telephone book, a television or radio program, or a national or local news publication;
+2. Personal Data that has been intentionally made available by the Consumer through a website or online service where the Consumer has not restricted the information to a specific audience;
+3. A visual observation of an individual’s physical presence in a public place by another person, not including data collected by a device in the individual’s possession; and
+4. A disclosure that has been made to the general public as required by federal, state, or local law.
+
+“Intimate Image” means any visual depiction, photograph, film, video, recording, picture, or computer or computer-generated image or picture, whether made or produced by electronic, mechanical, or other means, that depicts an identified or identifiable person’s private parts, or a person engaged in a private act, in circumstances in which a reasonable person would reasonably expect to be afforded privacy.
+
+“Noncommercial Purpose” as referred to in C.R.S. § 6-1-1304(2)(o) includes, but is not limited to, the following activities when conducted by: (a) a state institution of higher education, as defined in C.R.S. §23-18-102(10), the state, the judicial department of the state, or a county, city and county, or municipality; or (b) a Processor acting on behalf of one or more of the foregoing:
+
+1. Processing activities related to the delivery of services and benefits;
+2. Research purposes;
+3. Budgeting;
+4. Improving operations or the delivery services or benefits;
+5. Auditing operations or service or benefit delivery;
