@@ -87,3 +87,29 @@ The following definitions of terms, in addition to those set forth in C.R.S. § 
 3. Budgeting;
 4. Improving operations or the delivery services or benefits;
 5. Auditing operations or service or benefit delivery;
+6. Sharing Personal Data between these categories of entities for any of these purposes; or
+7. Any other purpose related to speech that state or federal courts have recognized as noncommercial speech, including political speech and journalism.
+
+"Opt-Out Purpose” or “Opt-Out Purposes” means the categories of Personal Data Processing from which the Consumer may opt out pursuant to C.R.S. § 6-1-1306(1)(a).
+
+"Personal Data" is defined as set forth in C.R.S. § 6-1-1303(17), and (a) means information that is linked or reasonably linkable to an identified or identifiable individual; and (b) does not include de-identified data or Publicly Available Information as used in (17)(b).
+
+"Process" or "Processing" is defined as set forth in C.R.S. § 6-1-1303(18), and means the collection, use, sale, storage, disclosure, analysis, deletion, or modification of Personal Data and includes the actions of a Controller directing a Processor to Process Personal Data.
+
+“Processor” is defined as set forth in C.R.S. § 6-1-1303(19), and means a person that Processes Personal Data on behalf of a Controller.
+
+“Profiling” is defined as set forth in C.R.S. § 6-1-1303(20), and means any form of automated processing of personal data to evaluate, analyze, or predict personal aspects concerning an identified or identifiable individual’s economic situation, health, personal preferences, interests, reliability, behavior, location, or movements.
+
+“Publicly Available Information” is defined as set forth in C.R.S. § 6-1-1303(17), and does not include:
+
+1. Any Personal Data obtained or processed in in violation of C.R.S. §§ 18-7-107 or 18-7-801;
+2. Biometric Data;
+3. Genetic Information; or
+4. Nonconsensual Intimate Images known to the Controller.
+
+“Revealing” as referred to in C.R.S. § 6-1-1303(24)(a) includes Sensitive Data Inferences. For example:
+
+1. While precise geolocation information at a high level may not be considered Sensitive Data, precise geolocation data which is used to infer an individual visited a mosque and is used to infer that individual’s religious beliefs is considered Sensitive Data under C.R.S. § 6-1-1303(24)(a). Similarly, precise geolocation data which is used to infer an individual visited a reproductive health clinic and is used to infer an individual’s health condition or sex life is considered Sensitive Data under C.R.S. § 6-1-1303(24)(a).
+2. While web browsing data at a high level may not be considered Sensitive Data, web browsing data which, alone or in combination with other Personal Data, infers an individual’s sexual orientation is considered Sensitive Data under C.R.S. § 6-1-1303(24)(a).
+
+“Sensitive Data Inference” or “Sensitive Data Inferences” means inferences made by a Controller based on Personal Data, alone or in combination with other data, which are used to indicate an individual’s racial or ethnic origin; religious beliefs; mental or physical health condition or diagnosis; sex life or sexual orientation; or citizenship or citizenship status.
