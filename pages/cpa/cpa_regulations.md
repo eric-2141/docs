@@ -135,3 +135,34 @@ A. Disclosures, notifications, and other communications to Consumers pursuant to
 5. Provided in a readable format on all devices through which Consumers normally or regularly interact with the Controller, including on smaller screens and through mobile applications, if applicable.
 6. Unless otherwise stated, communicated in a manner by which the Controller regularly interacts with Consumers.
 7. Straightforward and accurate, and must not be written or presented in a way that is unfair, deceptive, false, or misleading.
+
+## PART 4 CONSUMER PERSONAL DATA RIGHTS
+
+## Rule 4.01 AUTHORITY AND PURPOSE
+
+A. The statutory authority for the rules in this Part 4 is C.R.S. §§ 6-1-108(1), 6-1-1306, and 6-1-1313. The purpose of the rules in Part 4 is to clarify the scope of Consumer Personal Data rights, and standards for the processes required to facilitate the exercise of those rights.
+
+## Rule 4.02 SUBMITTING REQUESTS TO EXERCISE PERSONAL DATA RIGHTS
+
+A. Pursuant to C.R.S. § 6-1-1306(1), a Controller’s privacy notice must include specific methods through which a Consumer may submit requests to exercise Data Rights.
+
+B. Any method specified by a Controller pursuant to this rule must comply with each of the following:
+
+1. Consider the ways in which Consumers normally interact with the Controller:
+
+a. A Controller that interacts with Consumers exclusively online and has a direct relationship with a Consumer from whom it collects Personal Data shall only be required to provide an email address for submitting access, correction, deletion, or data portability requests.
+
+b. A Controller that does not fall within subsection 4 CCR 904-3, Rule 4.02(B)(1)(a) shall provide two or more designated methods for submitting a Data Rights request. If a Controller maintains a website, mobile application, or other digital presence, one method for submitting requests shall be through its website, mobile application, or digital interface, such as through a webform;
+
+c. If a Controller interacts with Consumers in person, the Controller shall consider providing an in-person method such as a printed form the Consumer can directly submit or send by mail; a tablet or computer portal that allows the Consumer to complete and submit an online form; or a telephone by which the Consumer can call the Controller’s toll-free number.
+
+2. Enable the Consumer to submit the request to the Controller at any time;
+3. Comply with requirements for disclosures, notifications, and other communications to Consumers provided in 4 CCR 904-3, Rule 3.02;
+4. Use reasonable data security measures, consistent with 4 CCR 904-3, Rule 6.09, when exchanging information in furtherance of Data Rights requests, considering the volume, scope and nature of Personal Data that may be exchanged; and
+5. Be easy for Consumers to execute, requiring a minimal number of steps.
+   
+C. The Data Rights request method does not have to be specific to Colorado, so long as the request method:
+1. Clearly indicates which rights are available to Colorado Consumers;
+2. Provides all Data Rights available to Colorado Consumers;
+3. Provides Colorado Consumers a clear understanding of how to exercise their rights; and
+4. Meets all other requirements of this part, 4 CCR 904-3, Rule 4.02.
