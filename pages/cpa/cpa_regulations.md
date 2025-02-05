@@ -177,9 +177,9 @@ A. A Controller shall comply with an opt-out request by:
 
 1. Ceasing to Process the Consumer’s Personal Data for the Opt-Out Purpose(s) as soon as feasibly possible and without undue delay from the date the Controller receives the request, taking into account the size and complexity of the Controller’s businesses and burden of operationalizing the opt-out.
 
-a. If a Controller does not know the identity of a Consumer submitting an online opt-out request, such that the Controller is unable to opt the Consumer out of the Processing of offline or other connected Personal Data, the Controller may request the additional information necessary to do so subject to 4 CCR 904-3, Rules 4.08 and 5.05.
+    a. If a Controller does not know the identity of a Consumer submitting an online opt-out request, such that the Controller is unable to opt the Consumer out of the Processing of offline or other connected Personal Data, the Controller may request the additional information necessary to do so subject to 4 CCR 904-3, Rules 4.08 and 5.05.
 
-b. If a Consumer submits a request to exercise more than one Data Right and a Controller is able to complete the opt-out request in a more timely manner than other Data Rights requests, the Controller should complete the opt-out request prior to any other Data Rights request.
+    b. If a Consumer submits a request to exercise more than one Data Right and a Controller is able to complete the opt-out request in a more timely manner than other Data Rights requests, the Controller should complete the opt-out request prior to any other Data Rights request.
 
 2. Maintaining a record of the opt-out request and response, in compliance with 4 CCR 904-3, Rule 6.11.
 3. Using agreed upon technical, organizational or other measures or processes to instruct its Processors, pursuant to C.R.S. § 6-1-1305(2)(a), to stop Processing the Personal Data as needed to effectuate the Consumer’s opt-out request.
@@ -188,6 +188,7 @@ B. To enable a Consumer to exercise the right to opt out of the Opt-Out Purposes
 
 1. A Controller that Sells Personal Data or Processes Personal Data for Targeted Advertising must also provide a clear and conspicuous method for Consumers to exercise the right to opt out of the Processing of Personal Data for each or all of the Opt-Out Purposes, as applicable.
 
-a. The clear, conspicuous method must be provided either directly or through a link, in a clear, conspicuous, and readily accessible location outside the privacy notice.
+    a. The clear, conspicuous method must be provided either directly or through a link, in a clear, conspicuous, and readily accessible location outside the privacy notice.
 
 2. A Controller Processing Personal Data for Profiling in furtherance of a decision that results in the provision or denial of financial or lending services, housing, insurance, education enrollment or opportunity, criminal justice, employment opportunities, health-care services, or access to essential goods or services, as subject to the opt-out right provided at C.R.S. § 6-1-1306(1)(a)(I), shall provide a clear and conspicuous method for Consumers to exercise the right to opt out of Processing Personal Data for such Profiling at or before the time such Processing occurs.
+
