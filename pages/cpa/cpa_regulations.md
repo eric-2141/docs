@@ -192,3 +192,50 @@ B. To enable a Consumer to exercise the right to opt out of the Opt-Out Purposes
 
 2. A Controller Processing Personal Data for Profiling in furtherance of a decision that results in the provision or denial of financial or lending services, housing, insurance, education enrollment or opportunity, criminal justice, employment opportunities, health-care services, or access to essential goods or services, as subject to the opt-out right provided at C.R.S. § 6-1-1306(1)(a)(I), shall provide a clear and conspicuous method for Consumers to exercise the right to opt out of Processing Personal Data for such Profiling at or before the time such Processing occurs.
 
+3. Any clear and conspicuous method for Consumers to exercise the right to opt out of Processing for the Opt-Out Purposes, provided pursuant to this section, must comply with the requirements of 4 CCR 904-3, Rule 4.02(B). If a link is used, it must take a Consumer directly to the opt-out method and the link text must provide a clear understanding of its purpose, for example “Colorado Opt-Out Rights,” “Personal Data Use Opt-Out,” “Your Opt-Out Rights,” “Your Privacy Choices,” or “Your Colorado Privacy Choices.”
+   
+C. An Authorized Agent may exercise a Consumer’s opt-out right on behalf of the Consumer, so long as the Controller is able to, with commercially reasonable effort, Authenticate the identity of the Consumer and the Authorized Agent’s authority to act on the Consumer’s behalf.
+
+D. A Controller may collect the Consumer’s Personal Data necessary to effectuate the Consumer’s opt-out right, pursuant to 4 CCR 904-3, Rule 4.02(D).
+
+## Rule 4.04 RIGHT OF ACCESS
+
+A. A Controller shall comply with an access request by providing the Consumer all the specific pieces of Personal Data it has collected and maintains about the Consumer that are the subject of the request, including without limitation, any Personal Data that the Controller’s Processors obtained from the Controller in providing services to the Controller.
+
+1. Specific pieces of Personal Data include final Profiling decisions, inferences, derivative data, marketing profiles, and other Personal Data created by the Controller which is linked or reasonably linkable to an identified or identifiable individual.
+
+B. Personal Data provided in response to an access request must:
+
+1. Be provided in in a form that is concise, transparent and easily intelligible and in an appropriate, commonly used electronic format, depending on the nature of the data;
+2. Be available in the language in which the Consumer interacts with the Controller.
+3. Avoid incomprehensible internal codes and, if necessary, include explanations that would allow the average Consumer to make an informed decision of whether to exercise deletion, correction, or opt-out rights.
+4. Be provided in compliance with the requirements for disclosures, notifications, and other communications, as described in 4 CCR 904-3, Rule 3.02, as applicable.
+
+C. The Controller shall implement and maintain reasonable data security measures, consistent with 4 CCR 904-3, Rule 6.09, in Processing any documentation relating to a Consumer’s access request.
+
+D. A Controller shall not be required to disclose in response to an access request a Consumer’s government-issued identification number, financial account number, health insurance or medical identification number, an account password, security questions and answers, Biometric Data, or Biometric Identifiers. The Controller shall, however, inform the Consumer with sufficient particularity that it has collected that type of information. For example, a Controller shall respond that it collects “unique Biometric Data including a fingerprint scan” without disclosing the actual fingerprint scan data.
+
+E. If a Consumer exercises the right to access their Personal Data in a portable format pursuant to C.R.S. § 6-1-1306(1)(e) and the Controller determines the manner of response would reveal the Controller’s trade secrets, the Controller must still honor the Consumer’s undiminished right of access in a format or manner which would not reveal trade secrets, such as in a nonportable format.
+
+## Rule 4.05 RIGHT TO CORRECTION
+
+A. Consumers have the right to correct inaccuracies in their Personal Data subject to C.R.S. § 6-1-1306(c).
+
+B. A Controller shall comply with a Consumer’s correction request by correcting the Consumer’s Personal Data in its existing systems, except archive or backup systems. The Controller shall also use agreed upon technical, organizational, or other measures or processes to instruct its Processors, pursuant to C.R.S. § 6-1-1305(2)(a), to make the necessary corrections in their respective systems.
+
+C. If a Controller or Processor stores any Personal Data on archived or backup systems, it may delay compliance with the Consumer’s correction request with respect to an archived or backup system until that system is restored to an active system or is next accessed or used.
+
+D. If a Consumer submits a request to exercise their right to correct Personal Data and the requested correction to that Personal Data could be made by the Consumer through the Consumer’s account settings, a Controller may respond to the Consumer’s request by providing instructions on how the Consumer may correct the Personal Data so long as:
+
+1. The correction process is not unduly burdensome to the Consumer;
+2. The instructions meet all requirements of 4 CCR 904-3, Rule 3.02;
+3. The Controller’s response is compliant with the timing requirements set forth in C.R.S. §6-1-1306(2)(a); and
+4. The process described in the instructions enable the Consumer to make the specific requested correction.
+
+E. A Controller may require the Consumer to provide documentation if necessary to determine whether the Personal Data, or the Consumer’s requested correction to the Personal Data, is accurate.
+
+1. When requesting documentation, the Controller must provide the Consumer with a meaningful understanding of why the documentation is necessary.
+2. Any documentation provided by the Consumer in connection with the Consumer’s right to correction shall only be Processed by the Controller in considering the accuracy of the Consumer’s Personal Data.
+3. The Controller shall implement and maintain reasonable data security measures, consistent with 4 CCR 904-3, Rule 6.09, in Processing any documentation relating to the Consumer’s correction request.
+4. If the Controller did not receive the Personal Data directly from the Consumer and has no documentation to support the accuracy of the Personal Data, the Consumer’s assertion of inaccuracy shall be sufficient to establish that the Personal Data is inaccurate.
+5. A Controller, having exhausted the steps above may decide not to act upon a Consumer’s correction request if the Controller determines that the contested Personal Data is more likely than not accurate.
