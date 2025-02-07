@@ -239,3 +239,25 @@ E. A Controller may require the Consumer to provide documentation if necessary t
 3. The Controller shall implement and maintain reasonable data security measures, consistent with 4 CCR 904-3, Rule 6.09, in Processing any documentation relating to the Consumer’s correction request.
 4. If the Controller did not receive the Personal Data directly from the Consumer and has no documentation to support the accuracy of the Personal Data, the Consumer’s assertion of inaccuracy shall be sufficient to establish that the Personal Data is inaccurate.
 5. A Controller, having exhausted the steps above may decide not to act upon a Consumer’s correction request if the Controller determines that the contested Personal Data is more likely than not accurate.
+    a. If a Controller denies a Consumer’s correction request based on the Controller’s determination that the contested Personal Data is more likely than not accurate, the Controller must describe in documentation required by 4 CCR 904-3, Rule 6.11(A), the Consumer’s requested correction to the Personal Data, any documentation requested from and provided by the Consumer in support of the correction request, and the reason for the Controller’s determination that the Consumer’s documentation was not sufficient to support the Consumer’s position.
+   
+## Rule 4.06 RIGHT TO DELETION
+
+A. A Controller shall comply with a Consumer’s deletion request by:
+
+1. Permanently and completely erasing the Personal Data from its existing systems, except archive or backup systems, or de-identifying the Personal Data such that it cannot reasonably be used to infer information about, or otherwise be linked to, an identified or identifiable individual, or a device linked to such an individual, in accordance with C.R.S. § 6-1-1303(11); and
+2. Using agreed upon technical, organizational, or other measures, or processes to instruct its Processors pursuant to C.R.S. § 6-1-1305(2)(b) to delete the Consumer’s Personal Data held by the Processors.
+
+B. Notwithstanding 4 CCR 904-3, Rule 4.06(A), a Controller may maintain records of a Consumer’s deletion request consistent with 4 CCR 904-3, Rule 6.11 and as needed to effectuate the  deletion request.
+
+C. If a Controller or Processor stores any Personal Data on archived or backup systems, it may delay compliance with the Consumer’s deletion request with respect to an archived or backup system until that system is restored to an active system or is next accessed or used.
+
+D. A Controller that has obtained Personal Data about a Consumer from a source other than the Consumer shall comply with a Consumer's deletion request with respect to that Personal Data pursuant to C.R.S. § 6-1-1306(d) by (i) retaining a record of the deletion request and the minimum data necessary for the purpose of ensuring the Consumer’s Personal Data remains deleted from the Consumer’s records and not using such retained data for any other purpose, or (ii) opting the Consumer out of the Processing of such Personal Data for any purpose except for those exempted pursuant to the provisions of C.R.S. § 6-1-1304.
+
+E. If a Controller complies with a deletion request by opting the Consumer out of Processing under 4.06(D) or does not opt the Consumer out of some Processing of Personal Data because the Processing purpose is exempted pursuant to the provisions of C.R.S. § 6-1-1304, the Controller shall provide the Consumer with the categories of Personal Data that were not deleted along with any applicable exception. The Controller shall not use the Consumer’s Personal Data retained for any other purpose than provided for by the applicable exception.
+
+## Rule 4.07 RIGHT TO DATA PORTABILITY
+
+A. To comply with a data portability request, a Controller must transfer to a Consumer the Personal Data it has collected and maintains about the Consumer through a secure method in a commonly used electronic format that, to the extent technically feasible, is readily usable and allows the Consumer to transmit the Personal Data to another entity without hindrance.
+
+B. Pursuant to C.R.S. § 6-1-1306(1)(e), a Controller is not required to provide Personal Data to a Consumer in a manner that would disclose the Controller’s trade secrets. When complying with a
