@@ -260,4 +260,26 @@ E. If a Controller complies with a deletion request by opting the Consumer out o
 
 A. To comply with a data portability request, a Controller must transfer to a Consumer the Personal Data it has collected and maintains about the Consumer through a secure method in a commonly used electronic format that, to the extent technically feasible, is readily usable and allows the Consumer to transmit the Personal Data to another entity without hindrance.
 
-B. Pursuant to C.R.S. § 6-1-1306(1)(e), a Controller is not required to provide Personal Data to a Consumer in a manner that would disclose the Controller’s trade secrets. When complying with a
+B. Pursuant to C.R.S. § 6-1-1306(1)(e), a Controller is not required to provide Personal Data to a Consumer in a manner that would disclose the Controller’s trade secrets. When complying with a request to access Personal Data in a portable format, Controllers must provide as much data as possible in a portable format without disclosing the trade secret.
+
+1. For example, if sharing both raw or unedited Personal Data along with related inferences or derived Personal Data in an Excel file would reveal a trade secret, the Controller may provide either set of Personal Data in an Excel file, so long as it is clear to the Consumer that the Controller maintains both types of Personal Data.
+
+## Rule 4.08 AUTHENTICATION
+
+A. Pursuant to C.R.S. § 6-1-1306(1), a Controller shall use a commercially reasonable method for authenticating the identity of every Consumer submitting any Data Right request, and the authority of every Authorized Agent submitting an opt-out request on behalf of a Consumer pursuant to C.R.S. § 6-1-1306(1)(a)(II).
+
+1. To determine if an authentication method is commercially reasonable, the Controller shall consider the Data Rights exercised, the type, sensitivity, value, and volume of Personal Data involved, the level of possible harm that improper access or use could cause to the Consumer submitting the Data Right request and the cost of authentication to the Controller. A Controller must avoid methods that place an unreasonable burden on the Consumer submitting a Data Right request, or Authorized Agent submitting an opt-out request on behalf of a Consumer.
+
+B. When possible, a Controller shall avoid requesting additional Personal Data to Authenticate a Consumer unless the Controller cannot Authenticate the Consumer using the Personal Data already maintained by the Controller.
+
+C. Personal Data obtained to Authenticate a Consumer may only be used to Authenticate the Consumer submitting the Data Right request, pursuant to C.R.S. § 6-1-1306(1), or to Authenticate an Authorized Agent’s authority, pursuant C.R.S. § 6-1-1306(1)(a)(II), and must be deleted as soon as practical after Processing the Consumer’s request, except as required by 4 CCR 904-3, Rule 6.11, or as otherwise required.
+
+D. A Controller shall implement reasonable security measures, consistent with 4 CCR 904-3, Rule 6.09, to protect Personal Data exchanged to Authenticate a Consumer or to Authenticate an Authorized Agent’s authority, considering the type, value, sensitivity, and volume of information exchanged and the level of possible harm improper access or use could cause to the Consumer submitting a Data Right request.
+
+E. A Controller shall not require the Consumer or Authorized Agent to pay a fee for authentication. For example, a Controller may not require a Consumer to provide a notarized affidavit for authentication unless the Controller compensates the Consumer for the cost of notarization.
+
+F. If a Controller cannot Authenticate the Consumer submitting a Data Right request using commercially reasonable efforts, the Controller is not required to comply with the Consumer’s request. The Controller shall inform the Consumer that their identity could not be authenticated, provide information on how to remedy any deficiencies, and may request additional Personal Data if reasonably necessary to Authenticate the Consumer.
+
+## Rule 4.09 RESPONDING TO CONSUMER REQUESTS
+
+A. A Controller must respond to a Consumer’s Data Right request in compliance with the timing provisions of C.R.S. § 6-1-1306(2)(a)-(b).
