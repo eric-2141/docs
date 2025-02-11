@@ -283,3 +283,28 @@ F. If a Controller cannot Authenticate the Consumer submitting a Data Right requ
 ## Rule 4.09 RESPONDING TO CONSUMER REQUESTS
 
 A. A Controller must respond to a Consumer’s Data Right request in compliance with the timing provisions of C.R.S. § 6-1-1306(2)(a)-(b).
+
+B. A Controller does not have to comply with an authenticated Consumer request to access, correct, delete, or provide Personal Data in a portable format, to the extent that the Personal Data at issue meets the requirements of the exceptions in C.R.S. § 6-1-1307(1)(b) and 1307(3).
+
+C. If a Controller decides not to act on a Consumer’s Data Right request, the Controller’s response to the Consumer must include the grounds for denial, including but not limited to (1) any conflict with federal or state law; (2) if the Controller relied on an exception to the Colorado Privacy Act found at C.R.S. § 6-1-1304(2), a description of the exception; (3) the Controller’s inability to Authenticate the Consumer’s identity; (4) any factual basis for a Controller’s good-faith claim that compliance is impossible; or (5) any basis for a good-faith, documented belief that the request is fraudulent or abusive.
+
+1. If a Controller denies a Consumer Data Right request based on inability to Authenticate, the Controller must describe in documentation required by 4 CCR 904-3, Rule 6.11 their reasonable efforts to authenticate and why they were unable to do so.
+2. A Controller that decides not to act on a Consumer’s request must also provide instructions on how to appeal the Controller’s decision in accordance with C.R.S. § 6-1-1306(3).
+
+D. When a Controller complies with a Consumer’s Personal Data Right request, the Controller shall also use agreed upon technical, organizational, or other measures or processes, to instruct its Processors, pursuant to C.R.S. § 6-1-1305(2)(a), to fulfill requests relating to Personal Data held by the Processors.
+
+E. Controllers must maintain all documentation as required by 4 CCR 904-3, Rule 6.11 of these rules.
+
+F. If a Consumer or Authorized Agent submits a request to opt out of the Processing of a Consumer’s Personal Data for an Opt-Out Purpose in a manner that is not one of the Controller’s opt-out request methods, or submits a Data Right request that is otherwise deficient in a manner unrelated to the Authentication process, the Controller shall either: (1) treat the request as if it had been submitted in accordance with the Controller’s specified request methods, or (2) provide the Consumer or Authorized Agent that submitted the request with information on how to submit the request or remedy any deficiencies in the request.
+
+## PART 5 UNIVERSAL OPT-OUT MECHANISM
+
+## Rule 5.01 AUTHORITY AND PURPOSE
+
+A. The statutory authority for the rules in Part 5 is C.R.S. §§ 6-1-108(1), 6-1-1306, and 6-1-1313. The purpose of this Part 5 is to provide technical and other specifications for Universal Opt-Out Mechanisms.
+
+## Rule 5.02 RIGHTS EXERCISED
+
+A. Consumers may exercise their right to opt out of the Processing of Personal Data concerning the Consumer for purposes of Targeted Advertising or the Sale of Personal Data through a user-selected Universal Opt-Out Mechanism that meets the technical and other specifications provided in this Rule 5.
+
+B. The purpose of a Universal Opt-Out Mechanism is to provide Consumers with a simple and easy-to-use method by which Consumers can automatically exercise their opt-out rights with all Controllers they interact with without having to make individualized requests with each Controller.
