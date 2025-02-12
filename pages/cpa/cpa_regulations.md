@@ -308,3 +308,27 @@ A. The statutory authority for the rules in Part 5 is C.R.S. §§ 6-1-108(1), 6-
 A. Consumers may exercise their right to opt out of the Processing of Personal Data concerning the Consumer for purposes of Targeted Advertising or the Sale of Personal Data through a user-selected Universal Opt-Out Mechanism that meets the technical and other specifications provided in this Rule 5.
 
 B. The purpose of a Universal Opt-Out Mechanism is to provide Consumers with a simple and easy-to-use method by which Consumers can automatically exercise their opt-out rights with all Controllers they interact with without having to make individualized requests with each Controller.
+
+C. A Universal Opt-Out Mechanism may:
+
+1. Express a Consumer’s choice to opt out of the Processing of Personal Data for both the Processing of Personal Data for purposes of Targeted Advertising and Sale of Personal Data; or
+2. Express a Consumer’s choice to opt out of the Processing of Personal Data for only one specific purpose, either Targeted Advertising or Sale of Personal Data alone.
+
+## Rule 5.03 NOTICE AND CHOICE FOR UNIVERSAL OPT-OUT MECHANISMS
+
+A. If a platform, developer, or provider provides a Universal Opt-Out Mechanism, that platform, developer, or provider shall make clear to the Consumer, whether in its configuration or disclosures to the public, that the mechanism is meant to allow the Consumer to exercise the right to opt out of the Processing of Personal Data for one specific purpose, either Targeted Advertising or Sale of Personal Data, or both purposes. These notices provided to the Consumer:
+
+1. Shall comply with the requirements for disclosures and communications to Consumers provided in 4 CCR 904-3, Rule 3.02;
+2. If applicable, shall state that the Universal Opt-Out Mechanism has been recognized by the Colorado Attorney General;
+3. Shall clearly describe any limitations that may be applicable to the mechanism, for example:
+    a. That the mechanism will allow a consumer to exercise the opt-out right for only one specific purpose, either Targeted Advertising or Sale of Personal Data; or
+    b. That the mechanism applies only to a single browser or device.
+4. Need not be tailored only to Colorado or refer to Colorado or to any other specific provisions of these rules or the Colorado Privacy Act, provided the mechanism meets the requirements of 4 CCR 904-3, Rule 5.03(A)(1)-(3).
+    a. Example: A platform, developer, or provider discloses that its Universal Opt-Out Mechanism permits consumers to exercise “any and all opt-out rights available to you under state laws,” and complies with the other requirements of this Rule 5.03(A) but makes no mention of Colorado nor recites any section of these rules or the Colorado Privacy Act. These disclosures satisfy the requirements of this Rule 5.03(A).
+
+B. A valid Universal Opt-Out Mechanism must represent the Consumer’s affirmative, freely given, and unambiguous choice to opt out of the Processing of Personal Data for the purposes listed at C.R.S. § 6-1-1306(1)(a)(IV)(A) and (B). Controllers are not obligated to honor Consumer rights requests for purposes other than those listed at C.R.S. § 6-1-1306(1)(a)(IV)(A) and (B) when transmitted through a Universal Opt-Out Mechanism.
+
+C. The platform, developer, or provider that provides a Universal Opt-Out Mechanism is not obligated to authenticate that a user is a Resident of Colorado. The platform, developer, or provider may provide such authentication capabilities if it chooses.
+
+## Rule 5.04 DEFAULT SETTINGS FOR UNIVERSAL OPT-OUT MECHANISMS
+
