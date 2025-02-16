@@ -347,4 +347,35 @@ A. A platform, developer, or provider providing a Universal Opt-Out Mechanism sh
 
 B. When processing a Universal Opt-Out Mechanism, a Controller may not require the collection of additional Personal Data beyond that which is strictly necessary to authenticate a Consumer is a resident of Colorado determine that the mechanism represents a legitimate request to opt out of the Processing of Personal Data as permitted by C.R.S. § 6-1-1306(1)(a)(IV), or comply with the authentication mandates of the law of another jurisdiction specifically regarding universal opt-out mechanisms or signals.
 
-1. Example: The law of a state other than Colorado obligates Controllers to gather specific pieces of information from a user before the Controller honors the use of a Universal Opt-Out Mechanism by that user. This additional information may be gathered while processing a Universal Opt-Out Mechanism, even if is not otherwise “strictly necessary to
+1. Example: The law of a state other than Colorado obligates Controllers to gather specific pieces of information from a user before the Controller honors the use of a Universal Opt-Out Mechanism by that user. This additional information may be gathered while processing a Universal Opt-Out Mechanism, even if is not otherwise “strictly necessary to authenticate a Consumer is a resident of Colorado or determine that the mechanism represents a legitimate request".
+
+C. Notwithstanding 4 CCR 904-3, Rule 5.05(B), a Controller may provide the Consumer with an option to provide additional Personal Data only if it will extend the recognition of the Consumer’s use of the Universal Opt-Out Mechanism across platforms, devices, or offline. For example, a Controller may give the Consumer the option to provide their phone number or email address so that the Universal Opt-Out Mechanism or signal can apply to offline Sale of Personal Data or link the Consumer’s opt-out choice across devices. Any information provided by the Consumer for this purpose shall not be used, disclosed, or retained for any purpose other than processing the opt-out request.
+
+D. The Controller shall implement and maintain reasonable data security measures, consistent with 4 CCR 904-3, Rule 6.09, in Processing any Personal Data relating to the Consumer’s use of a Universal Opt-Out Mechanism.
+
+## Rule 5.06 TECHNICAL SPECIFICATION
+
+A. A Universal Opt-Out Mechanism must allow for Consumers to automatically communicate their opt-out choice with multiple Controllers.
+
+1. The Universal Opt-Out Mechanism may communicate a Consumer’s opt-out choice by sending an opt-out signal. The signal must be in a format commonly used and recognized by Controllers. An example would be an HTTP header field or JavaScript object.
+
+B. The Universal Opt-Out Mechanism must allow Consumers to clearly communicate one or more opt-out rights available under C.R.S. § 6-1-1306(1)(a)(IV).
+
+1. The Universal Opt-Out Mechanism may allow for a Consumer to opt out of Processing for one or more of the Opt-Out Purposes.
+
+C. The Universal Opt-Out Mechanism must store, Process, and transmit any Consumer Personal Data using reasonable data security measures, consistent with 4 CCR 904-3, Rule 6.09.
+
+D. A Universal Opt-Out Mechanism must not prevent the Controller’s ability to determine:
+
+1. Whether a Consumer is a Resident of the State of Colorado; or
+2. That the Universal Opt-Out Mechanism represents a legitimate request to opt out of the Processing of Personal Data.
+
+E. A Universal Opt-Out Mechanism must not unfairly disadvantage any Controller. For example, a Universal Opt-Out Mechanism may not engage in self-dealing benefiting the creator of the Universal Opt-Out Mechanism over other Controllers.
+
+## Rule 5.07 SYSTEM FOR RECOGNIZING UNIVERSAL OPT-OUT MECHANISMS
+
+A. The Colorado Department of Law shall maintain a public list of Universal Opt-Out Mechanisms that have been recognized to meet the standards of this subsection. The initial list shall be released no later than January 1, 2024 and shall be updated periodically.
+
+B. The goal of the public list is to simplify the options facing Controllers, Consumers, and other actors.
+
+C. To be recognized, a Universal Opt-Out Mechanism must at a minimum meet these standards:
