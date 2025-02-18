@@ -379,3 +379,27 @@ A. The Colorado Department of Law shall maintain a public list of Universal Opt-
 B. The goal of the public list is to simplify the options facing Controllers, Consumers, and other actors.
 
 C. To be recognized, a Universal Opt-Out Mechanism must at a minimum meet these standards:
+
+1. Comply with all of the technical and other specifications of Rule 5; and
+2. Not create Consumer or Controller confusion about the similarities and differences between Universal Opt-Out Mechanisms on the public list.
+
+D. The Colorado Department of Law may consider additional factors when determining which Universal Opt-Out Mechanisms to recognize. These include but are not limited to:
+
+1. Commercial adoption by Consumers or Controllers;
+2. Ease and cost of use, implementation, and detection by Consumers and Controllers;
+3. Whether the Universal Opt-Out Mechanism has been approved by a widely recognized, legitimate standards body after broad multistakeholder participation in the standards-making process; and
+4. Whether the Universal Opt-Out Mechanism is based on an open system or standard, and whether such standard is free for adoption by device, operating system, browser, and other manufacturers, Controllers, or Consumers without permission or on fair, reasonable, and non-discriminatory terms.
+
+E. The public list shall describe recognized Universal Opt-Out Mechanisms in enough technical detail to permit Controllers to identify them when used by Consumers.
+
+F. The Colorado Department of Law will allow Controllers six (6) months to recognize a Universal Opt-Out Mechanism once that Mechanism is added to the public list.
+
+## Rule 5.08 OBLIGATIONS ON CONTROLLERS
+
+A. Effective July 1, 2024,
+
+1. A Controller that receives an opt-out request through a Universal Opt-Out Mechanism shall treat such as a valid request to opt out of the Processing of Personal Data for purposes of Targeted Advertising, Sale of Personal Data, or both purposes, as indicated by the mechanism, for the associated browser or device, and, if known, for the Consumer.
+2. After receiving a valid opt-out request through the use of a Universal Opt-Out Mechanism, a Controller shall continue to treat the browser, device, and Consumer as having exercised opt-out rights until the Consumer Consents to the Sale of Personal Data or Processing of Personal Data for Targeted Advertising, as specified in 4 CCR 904-3, Rule 5.09.
+3. A Controller shall be capable of recognizing any Universal Opt-Out Mechanism reflected in the public list maintained by the Colorado Department of Law pursuant to subsection 4 CCR 904-3, Rule 5.07 provided the Controller has had at least six months’ notice of the addition of new mechanisms. For example, in the case of a recognized Universal Opt-Out Mechanism sent as a signal, the Controller must listen for the signal.
+
+B. A Controller may also recognize Universal Opt-Out Mechanisms that are not reflected in the public list maintained by the Colorado Department of Law pursuant to subsection 4 CCR 904-3, Rule 5.07.
