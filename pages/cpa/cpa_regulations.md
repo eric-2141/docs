@@ -403,3 +403,35 @@ A. Effective July 1, 2024,
 3. A Controller shall be capable of recognizing any Universal Opt-Out Mechanism reflected in the public list maintained by the Colorado Department of Law pursuant to subsection 4 CCR 904-3, Rule 5.07 provided the Controller has had at least six months’ notice of the addition of new mechanisms. For example, in the case of a recognized Universal Opt-Out Mechanism sent as a signal, the Controller must listen for the signal.
 
 B. A Controller may also recognize Universal Opt-Out Mechanisms that are not reflected in the public list maintained by the Colorado Department of Law pursuant to subsection 4 CCR 904-3, Rule 5.07.
+
+C. Notwithstanding 4 CCR 904-3, Rule 5.08(A), a Controller may choose to honor an opt-out request received through a Universal Opt-Out Mechanism prior to July 1, 2024, pursuant to C.R.S. § 6-1-1306(a)(IV)(A).
+
+D. Unless a Controller is Authenticating a Consumer as permitted by C.R.S. § 6-1-1313(2)(f), a Controller may not require a Consumer to login or otherwise Authenticate themself as a condition of recognizing the Consumer’s use of a Universal Opt-Out Mechanism. A Controller may not subject a Consumer to undertake any authentication actions that are unnecessary or unnecessarily burdensome.
+
+E. A Controller may display in a conspicuous manner if it has Processed the Consumer’s opt-out preference signal. For example, the Controller may display on its website “Opt-Out Preference Signal Honored” when a browser, device, or Consumer utilizing a Universal Opt-Out Mechanism visits the website.
+
+F. Pursuant to C.R.S. § 6-1-1313(2)(f), a Controller may authenticate that the user sending an opt-out request through a Universal Opt-Out Mechanism is a Resident of Colorado, but they are not obligated to do so.
+
+## Rule 5.09 CONSENT AFTER UNIVERSAL OPT-OUT
+
+A. A Controller may enable a Consumer to Consent to Processing that the Consumer has opted-out of using a Universal Opt-Out mechanism, so long as the Controller’s request for Consent complies with the Consent requirements provided in C.R.S. § 6-1-1306(1)(a)(IV)(C), and 4 CCR 904-3, Rule 7.05.
+
+B. A Controller shall not interpret the absence of a Universal Opt-Out Mechanism signal after the Consumer previously utilized a Universal Opt-Out Mechanism as Consent to opt back in.
+
+## PART 6 DUTIES OF CONTROLLERS
+
+## Rule 6.01 AUTHORITY AND PURPOSE
+
+A. The statutory authority for the rules in this Part 6 is C.R.S. §§ 6-1-108(1), 6-1-1308, and 6-1-1313. The purpose of the rules in this Part 6 is to provide clarity on the duties of controllers concerning the Personal Data of Colorado Consumers.
+
+## Rule 6.02 PRIVACY NOTICE PRINCIPLES
+
+A. A privacy notice shall provide Consumers with a meaningful understanding and accurate expectations of how their Personal Data will be Processed. It shall also inform Consumers about their rights under the Colorado Privacy Act and provide any information necessary for Consumers to exercise those rights.
+
+B. A Controller is not required to provide a separate Colorado-specific privacy notice or section of a privacy notice as long as the Controller’s privacy notice meets all requirements of this section and makes clear that Colorado Consumers are entitled to the rights provided by C.R.S. § 6-1-1306.
+
+C. A privacy notice shall comply with all requirements for disclosures and communications to Consumers provided in 4 CCR 904-3, Rule 3.02.
+
+D. A privacy notice must be clear. Information contained in a privacy notice shall be:
+
+1. Concrete and definitive, avoiding abstract or ambivalent terms that may lead to varying interpretations.
