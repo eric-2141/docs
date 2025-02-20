@@ -460,3 +460,31 @@ A. A privacy notice must include the following information:
     c. Whether the Personal Data provided for a specific purpose will be sold or used for Targeted Advertising or Profiling in furtherance of Decisions that Produce Legal or Similarly Significant Effects Concerning a Consumer.
     
     d. Categories of Personal Data that the Controller Sells to or shares with Third Parties, if any.
+
+    e. Categories of Third Parties to whom the Controller sells, or with whom the Controller shares Personal Data, if any. Categories of Third Parties must be described in a level of detail that gives Consumers a meaningful understanding of the type of, business model of, or processing conducted by the Third Party.
+   
+    i. For example, categories of Third Parties described in a sufficiently granular level of detail include, but are not limited to: “analytics companies,” “data brokers,” “third-party advertisers,” “payment processors,” “lenders,” “other merchants,” and “government agencies.”
+   
+3. If a Controller’s Processing activity involves the Processing of Personal Data for the purpose of Profiling in furtherance of Decisions that Produce Legal or Similarly Significant Effects Concerning a Consumer, all disclosures required by 4 CCR 904-3, Rule 9.03.
+4. A list of the Data Rights available.
+5. A description of the methods through which a Consumer may submit requests to exercise Data Rights, as required by C.R.S. § 6-1-1306(1) and 4 CCR 904-3, Rule 4.02, including:
+
+    a. Instructions on how to use each method.
+
+    b. Instructions on how an Authorized Agent may submit a request to opt out of the Processing of Consumer Personal Data on a Consumer’s behalf pursuant to C.R.S. § 6-1-1306(1)(a)(II).
+   
+    c. A clear and conspicuous method to exercise the right to opt out of the Processing of Personal Data concerning the Consumer pursuant to C.R.S. § 6-1-1306(1)(a)(I) and (1)(a)(III), or links to any online method, such as a webform or portal, consistent with 4 CCR 904-3, Rule 4.03.
+
+    d. A description of the commercially reasonable process the Controller uses to Authenticate the identity of a Consumer exercising a Data Right request or to Authenticate the authority of an Authorized Agent exercising the right to opt out on a Consumer’s behalf.
+   
+    e. Effective July 1, 2024, an explanation of how requests to opt out using Universal Opt-Out Mechanisms will be processed.
+   
+7. If a Controller will delete Sensitive Data Inferences within twenty-four (24) hours pursuant to 4 CCR 904-3, Rule 6.10, a description of the Sensitive Data Inferences subject to this provision and the retention and deletion timeline for such Sensitive Data Inferences.
+8. A Controller’s contact information.
+9. Instructions on how a Consumer may appeal a Controller’s action in response to the Consumer’s request, as contemplated by C.R.S. § 6-1-1306(3).
+10. The date the privacy notice was last updated.
+
+## Rule 6.04 CHANGES TO A PRIVACY NOTICE
+
+A. A Controller shall notify Consumers of material changes to a privacy notice. Such changes to a privacy notice shall be communicated to Consumers in a manner by which the Controller regularly interacts with Consumers.
+
