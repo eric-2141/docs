@@ -488,3 +488,25 @@ A. A privacy notice must include the following information:
 
 A. A Controller shall notify Consumers of material changes to a privacy notice. Such changes to a privacy notice shall be communicated to Consumers in a manner by which the Controller regularly interacts with Consumers.
 
+1. Material changes may include, but are not limited to, changes to: (1) categories of Personal Data Processed; (2) Processing purposes; (3) a Controller’s identity; (4) the act of sharing of Personal Data with Third Parties; (5) categories of Third Parties Personal Data is shared with; or (6) methods by which Consumers can exercise their Data Rights request.
+
+B. If a material change rises to the level of a secondary use, a Controller must obtain Consent from a Consumer pursuant to 4 CCR 904-3, Rules 7.02-7.05 in order to Process Personal Data that was collected before the change to the privacy notice for that Secondary Use.
+
+## Rule 6.05 LOYALTY PROGRAMS
+
+A. Pursuant to 6-1-1308(1)(d), a Controller is not prohibited from offering Bona Fide Loyalty Program Benefits to a Consumer based on the Consumer’s voluntary participation in a Bona Fide Loyalty Program.
+
+B. If a Consumer exercises their right to delete Personal Data such that it is impossible for the Controller to provide a certain Bona Fide Loyalty Program Benefit to the Consumer, the Controller is no longer obligated to provide that Bona Fide Loyalty Benefit to the Consumer. However, the Controller shall provide any available Bona Fide Loyalty Program Benefit for which the deleted Personal Data is not necessary.
+
+C. If a Consumer exercises their right to opt out of the Sale of Personal Data or Processing of Personal Data for Targeted Advertising, such that the exchange of Personal Data needed to obtain a Bona Fide Loyalty Program Benefit through a Bona Fide Loyalty Program Partner is no longer possible, the Controller is no longer obligated to provide that Bona Fide Loyalty Program Benefit to the Consumer.
+
+1. If the Controller’s Bona Fide Loyalty Program offers Bona Fide Loyalty Program Benefits that are unrelated to the exchange of Personal Data with a Bona Fide Loyalty Program Partner, the Controller shall continue to provide those Benefits to a Consumer who opts out of the Sale of Personal data or Processing of Personal Data for Targeted Advertising.
+2. The sale of Personal Data or Processing of Personal Data for Targeted Advertising that is unrelated to sharing of information with a Bona Fide Loyalty Program Partner is a Secondary Use that requires Consent pursuant to 4 CCR 904-3, Rule 6.08.
+
+D. If a Consumer refuses to Consent to the Processing of Sensitive Data necessary for a personalized Bona Fide Loyalty Program Benefit, the Controller is no longer obligated to provide that personalized Bona Fide Loyalty Program Benefit. However, the Controller shall provide any available, non-personalized Bona Fide Loyalty Program Benefit for which the Sensitive Data is not necessary. A Controller may not condition a Consumer’s participation in a Bona Fide Loyalty Program on the Consumer’s Consent to Process Sensitive Data unless the Sensitive Data is required for all Bona Fide Loyalty Program Benefits.
+
+E. If a Consumer’s decision to exercise a Data Right impacts the Consumer’s membership in a Bona Fide Loyalty Program, the Controller shall notify the Consumer of the impact of the Consumer’s decision in conformance with 4 CCR 904-3, Rule 3.02 and at least twenty-four (24) hours before discontinuing the Consumer’s Bona Fide Loyalty Program Benefit or membership, and must provide a reference or link to the information required by subparagraph F, below.
+
+F. Loyalty Program Disclosures
+
+1. In addition to all other disclosures required by 4 CCR 904-3, Rules 6.03 and 7.03, a Controller maintaining a Bona Fide Loyalty Program must provide the following
