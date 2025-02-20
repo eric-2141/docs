@@ -451,12 +451,12 @@ A. A privacy notice must include the following information:
 
 1. A comprehensive description of the Controller’s online and offline Personal Data Processing practices, including but not limited to the following, linked in a way that gives Consumers a meaningful understanding of how each category of their Personal Data will be used when they provide that Personal Data to the Controller for a specified purpose:
 
-   a. The categories of Personal Data Processed, including, but not limited to, whether Personal Data of a Child or other Sensitive Data is Processed.
+    a. The categories of Personal Data Processed, including, but not limited to, whether Personal Data of a Child or other Sensitive Data is Processed.
 
-i. Categories shall be described in a level of detail that provides Consumers a meaningful understanding of the type of Personal Data Processed. For example, categories of Personal Data described at a sufficiently granular level of detail include, but are not limited to: "contact information,” “government issued identification numbers,” “payment information”, “Information from Cookies,” “data revealing religious affiliation,” and “medical data.”
+    i. Categories shall be described in a level of detail that provides Consumers a meaningful understanding of the type of Personal Data Processed. For example, categories of Personal Data described at a sufficiently granular level of detail include, but are not limited to: "contact information,” “government issued identification numbers,” “payment information”, “Information from Cookies,” “data revealing religious affiliation,” and “medical data.”
 
-   b. The Processing purpose described in a level of detail that gives Consumers a meaningful understanding of how each category of their Personal Data is used when provided for that Processing purpose.
+    b. The Processing purpose described in a level of detail that gives Consumers a meaningful understanding of how each category of their Personal Data is used when provided for that Processing purpose.
     
-   c. Whether the Personal Data provided for a specific purpose will be sold or used for Targeted Advertising or Profiling in furtherance of Decisions that Produce Legal or Similarly Significant Effects Concerning a Consumer.
+    c. Whether the Personal Data provided for a specific purpose will be sold or used for Targeted Advertising or Profiling in furtherance of Decisions that Produce Legal or Similarly Significant Effects Concerning a Consumer.
     
-   d. Categories of Personal Data that the Controller Sells to or shares with Third Parties, if any.
+    d. Categories of Personal Data that the Controller Sells to or shares with Third Parties, if any.
