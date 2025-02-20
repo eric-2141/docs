@@ -435,3 +435,26 @@ C. A privacy notice shall comply with all requirements for disclosures and commu
 D. A privacy notice must be clear. Information contained in a privacy notice shall be:
 
 1. Concrete and definitive, avoiding abstract or ambivalent terms that may lead to varying interpretations.
+2. Clearly labeled, such that Consumers seeking to understand a Controller’s Processing activities or how to exercise their Data Rights can easily access the section of the privacy notice containing relevant information.
+
+E. A privacy notice must be easily accessible. A privacy notice must be:
+
+1. Posted online through a conspicuous link using the word “privacy” on the Controller’s website homepage or on a mobile application’s app store page or download page. A Controller that maintains an application on a mobile or other device shall also include a link to the privacy notice in the application’s settings menu.
+
+    a. A Controller that does not operate a website shall make the privacy notice conspicuously available to Consumers through a medium regularly used by the Controller to interact with Consumers. For instance, if a Controller interacts with a Consumer offline, an offline version of the privacy notice must be available to the Consumer.
+
+F. A privacy notice must be specific. The level of specificity in a privacy notice should enable a Consumer to understand, in advance or at the time of the Processing, the scope of the Controller’s Processing operations, such that a Consumer should not be taken by surprise at a later point about Personal Data that has been collected and the ways in which Personal Data has been Processed.
+
+## Rule 6.03 PRIVACY NOTICE CONTENT
+
+A. A privacy notice must include the following information:
+
+1. A comprehensive description of the Controller’s online and offline Personal Data Processing practices, including but not limited to the following, linked in a way that gives Consumers a meaningful understanding of how each category of their Personal Data will be used when they provide that Personal Data to the Controller for a specified purpose:
+
+    a. The categories of Personal Data Processed, including, but not limited to, whether Personal Data of a Child or other Sensitive Data is Processed.
+
+i. Categories shall be described in a level of detail that provides Consumers a meaningful understanding of the type of Personal Data Processed. For example, categories of Personal Data described at a sufficiently granular level of detail include, but are not limited to: "contact information,” “government issued identification numbers,” “payment information”, “Information from Cookies,” “data revealing religious affiliation,” and “medical data.”
+
+    b. The Processing purpose described in a level of detail that gives Consumers a meaningful understanding of how each category of their Personal Data is used when provided for that Processing purpose.
+    c. Whether the Personal Data provided for a specific purpose will be sold or used for Targeted Advertising or Profiling in furtherance of Decisions that Produce Legal or Similarly Significant Effects Concerning a Consumer.
+    d. Categories of Personal Data that the Controller Sells to or shares with Third Parties, if any.
