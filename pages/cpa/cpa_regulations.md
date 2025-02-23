@@ -572,3 +572,29 @@ C. When considering if the new Processing purpose is reasonably necessary to or 
 
 ## Rule 6.09 DUTY OF CARE
 
+A. Personal Data must be Processed in a manner that ensures reasonable and appropriate administrative, technical, organizational, and physical safeguards of Personal Data collected, stored, and Processed.
+
+B. When determining reasonable and appropriate safeguards, Controllers should consider:
+
+1. Applicable industry standards and frameworks;
+2. The nature, size, and complexity of the Controller’s organization;
+3. The sensitivity and amount of Personal Data;
+4. The original source of Personal Data;
+5. The risk of harm to Consumers resulting from unauthorized or unlawful access, use, or degradation of the Personal Data; and
+6. The burden or cost of safeguards to protect Personal Data from harm assessed in 4 CCR 904-3, Rule 6.09(B)(5).
+
+C. Reasonable and appropriate administrative, technical, organizational, and physical safeguards must be designed to:
+
+1. Protect against unauthorized or unlawful access to or use of Personal Data and the equipment used for the Processing and against accidental loss, destruction, or damage;
+2. Ensure the confidentiality, integrity, and availability of Personal Data collected, stored, and Processed;
+3. Identify and protect against reasonably anticipated threats to security or the integrity of information; and
+4. Oversee compliance with data security policies by the Controller and Processors through reasonable requirements.
+
+D. Reasonable and appropriate administrative, technical, organizational, and physical safeguards to secure Personal Data include but are not limited to those measures provided by C.R.S. § 6-1-713.5 and C.R.S. § 24-73-102, as interpreted by state courts and administrative orders.
+
+## Rule 6.10 DUTY REGARDING SENSITIVE DATA
+
+A. Controllers must obtain Consent to Process Sensitive Data, including Sensitive Data Inferences, consistent with C.R.S. § 6-1-1308(7) and 4 CCR 904-3, Rules 7.02-7.05.
+B. Controllers may be exempt from obtaining Consent to Process Sensitive Data Inferences from Consumers over the age of thirteen (13) only if:
+1. The Processing purpose of such Personal Data would be obvious to a reasonable Consumer based on the context of the collection and use of the Personal Data, and the relationship between the Controller and Consumer;
+2. Sensitive Data Inferences are permanently deleted within twenty-four (24) hours of collection or of the completion of the Processing activity, whichever comes first;
