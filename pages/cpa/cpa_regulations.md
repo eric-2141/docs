@@ -624,4 +624,27 @@ E. The Controller shall implement and maintain reasonable security procedures an
 
 F. Personal Data maintained pursuant to this 4 CCR 904-3, Rule 6.11, where that information is not used for any other purpose, shall not be subject to Data Rights requests.
 
-G. Personal Data maintained for required documentation shall not be used for any other purpose except as reasonably necessary for the business to review and modify its processes for compliance with the Colorado Privacy Act, C.R.S. § 6-1-1301, et seq., and these rules. Personal Data maintained for required documentation shall not be shared with any Third Party except as 
+G. Personal Data maintained for required documentation shall not be used for any other purpose except as reasonably necessary for the business to review and modify its processes for compliance with the Colorado Privacy Act, C.R.S. § 6-1-1301, et seq., and these rules. Personal Data maintained for required documentation shall not be shared with any Third Party except as necessary to comply with a legal obligation or as part of a merger, acquisition, bankruptcy, or other transaction in which a Third Party assumes control of Personal Data.
+
+H. Other than as required by this subsection and 4 CCR 904-3, Rule 4.06, a Controller is not required to retain Personal Data solely for the purpose of fulfilling a Data Rights request made under the Colorado Privacy Act, C.R.S. § 6-1-1301, et seq.
+
+## PART 7 CONSENT
+
+## Rule 7.01 AUTHORITY AND PURPOSE
+
+A. The statutory authority for the rules in this Part 7 is C.R.S. §§ 6-1-108(1), 6-1-1303(5), 6-1-1306, 6-1-1308 and 6-1-1313. The purpose of the rules in this Part 7 is to provide clarity on the requirements to obtain Consent when Consent is required under the statute, including the prohibition against obtaining agreement through the use of Dark Patterns.
+
+## Rule 7.02 REQUIRED CONSENT
+
+A. Pursuant to C.R.S. §§ 6-1-1303(5), 6-1-1306(1)(a)(IV)(C), 6-1-1308(4), and 6-1-1308(7), a Controller must obtain valid Consumer Consent prior to:
+
+1. Processing a Consumer’s Sensitive Data;
+2. Processing Personal Data concerning a known Child, in which case the Child’s parent or lawful guardian must provide Consent;
+3. Selling a Consumer’s Personal Data, Processing a Consumer’s Personal Data for Targeted Advertising, or Profiling in furtherance of Decisions that Produce Legal or Similarly Significant Effects Concerning a Consumer after the Consumer has exercised the right to opt out of the Processing for those purposes; and
+4. Processing Personal Data for purposes that are not reasonably necessary to, or compatible with, the original specified purposes for which the Personal Data are Processed.
+
+B. Controllers may rely upon valid consent obtained prior to July 1, 2023, to continue to Process a Consumer’s previously collected Personal Data, including Sensitive Data, collected before July 1, 2023. Consent obtained before July 1, 2023, shall be considered valid only if it would comply with the requirements set forth in C.R.S. §§ 6-1-1303(5), 6-1-1306(1)(a)(IV)(C), 6-1-1308(4), and 6-1-1308(7) and Part 7 of these rules.
+
+1. Controllers that do not obtain valid Consent prior to July 1, 2023 to continue to use, store, or otherwise Process Sensitive Data collected prior to this date must obtain valid Consent, as required by C.R.S. §§ 6-1-1303(5), 6-1-1306(1)(a)(IV)(C), 6-1-1308(4), and 6-1-1308(7) and Part 7 of these rules, by July 1, 2024 to continue to Process the previously collected Sensitive Data.
+2. If a Controller has collected Personal Data prior to July 1, 2023 and the Processing purpose changes after July 1, 2023 such that it is considered a secondary use pursuant to C.R.S. § 6-1-1308(4) and 4 CCR 904-3, Rule 6.08, the Controller must obtain valid Consent, as required by C.R.S. §§ 6-1-1303(5), 6-1-1306(1)(a)(IV)(C), 6-1-1308(4), and 6-1-1308(7) and Part 7 of these rules, at the time the Processing purpose changes to continue to Process the previously collected Personal Data.
+
