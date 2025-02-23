@@ -598,3 +598,30 @@ A. Controllers must obtain Consent to Process Sensitive Data, including Sensitiv
 B. Controllers may be exempt from obtaining Consent to Process Sensitive Data Inferences from Consumers over the age of thirteen (13) only if:
 1. The Processing purpose of such Personal Data would be obvious to a reasonable Consumer based on the context of the collection and use of the Personal Data, and the relationship between the Controller and Consumer;
 2. Sensitive Data Inferences are permanently deleted within twenty-four (24) hours of collection or of the completion of the Processing activity, whichever comes first;
+3. Sensitive Data Inferences are not transferred, sold, or shared with any Processors, Affiliates, or Third-Parties; and
+4. The Personal Data and any Sensitive Data Inferences are not Processed for any purpose other than the express purpose disclosed to the Consumer.
+
+C. If a Controller will delete Sensitive Data Inferences within twenty-four (24) hours, pursuant to this section, they must (1) include description of the Sensitive Data Inferences subject to this provision and the retention and deletion timeline for such Sensitive Data Inferences in its privacy notice, pursuant to 4 CCR 904-3, Rule 6.03, and (2) include the details of the deletion and verification process in the Controller’s Data Protection Assessment, pursuant to 4 CCR 904-3, Rule 8.04.
+
+## Rule 6.11 DOCUMENTATION CONCERNING DUTIES OF CONTROLLERS
+
+A. Controllers shall maintain records of all Consumer Data Rights requests made pursuant to C.R.S. § 6-1-1306 for at least twenty-four (24) months. Such records shall include, at a minimum, each of the following:
+
+1. The date of request;
+2. The Consumer Data Rights request type;
+3. The date of the Controller’s response;
+4. The nature of the Controller’s response;
+5. The basis for the denial of the request if the request is denied in whole or in part; and
+6. The existence and resolution of any Consumer appeal to a denied request.
+
+B. Controllers shall maintain a record of all Data Rights requests made pursuant to C.R.S. § 6-1-1306 with which the Controller has previously complied. Such records shall be retained for at least twenty-four (24) months and shall be made available at the completion of a merger, acquisition, bankruptcy, or other transaction in which a Third Party assumes control of Personal Data to ensure any new Controller continues to recognize the Consumer’s previously exercised Data Rights.
+
+C. Controllers shall maintain documents sufficient to demonstrate compliance with 4 CCR 904-3, Rules 6.07, 6.08, and 7.06 for as long as the Processing activity continues, and for at least twenty-four (24) months after the conclusion of Processing activity.
+
+D. Required records shall be maintained in a readable format, appropriate to the sophistication and size of the Controller’s business.
+
+E. The Controller shall implement and maintain reasonable security procedures and practices, consistent with 4 CCR 904-3, Rule 6.09, in maintaining all required records.
+
+F. Personal Data maintained pursuant to this 4 CCR 904-3, Rule 6.11, where that information is not used for any other purpose, shall not be subject to Data Rights requests.
+
+G. Personal Data maintained for required documentation shall not be used for any other purpose except as reasonably necessary for the business to review and modify its processes for compliance with the Colorado Privacy Act, C.R.S. § 6-1-1301, et seq., and these rules. Personal Data maintained for required documentation shall not be shared with any Third Party except as 
