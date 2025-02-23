@@ -524,4 +524,26 @@ Program Benefits.
 
 H. Example: A Consumer joins a hotel chain’s Bona Fide Loyalty Program, which provides points that can be applied to obtain discounts for that hotel chain, and for a popular restaurant chain that is not otherwise affiliated with the hotel chain. The restaurant chain requires the hotel chain to provide the Personal Data of each Consumer who wishes to apply the hotel chain’s points to obtain restaurant discounts. When the Consumer opts out of the Sale of Personal Data and Processing of Personal Data for Targeted Advertising, the Controller is unable to provide the required information to the restaurant chain. The Controller may discontinue the Bona Fide Loyalty Program Benefit that allows Consumers to use points for discounts for the restaurant chain. However, the hotel chain must still provide all available Bona Fide Loyalty Benefits to be used at the hotel chain.
 
-I. Example: A Consumer joins a retailer’s Bona Fide Loyalty Program that offers discounts on products based on the Consumer’s purchase history. The retailer wishes to fund the loyalty
+I. Example: A Consumer joins a retailer’s Bona Fide Loyalty Program that offers discounts on products based on the Consumer’s purchase history. The retailer wishes to fund the loyalty program, in part, by selling the Consumer’s purchase history to a Data Broker. The retailer must obtain the Consumer’s consent to Sell the Consumer’s Personal Data to the Data Broker because selling Personal Data obtained through a Bona Fide Loyalty Program to a Data Broker is a secondary use.
+
+J. Example: A Consumer exercises their right to opt out of the Processing of Personal Data for Targeted Advertising. An online gaming company gives the Consumer fewer free games through the company’s service, arguing that the additional free games are for members of its loyalty program, which requires the use of Personal Data for Targeted Advertising. The company’s differential treatment is prohibited if the Processing of Personal Data is not necessary to provide the additional games. However, if the free games are provided by a Bona Fide Loyalty Program Partner that requires the Consumer data for Targeted Advertising through a co-marketing agreement with the Controller, the differential treatment may be appropriate.
+
+## Rule 6.06 PURPOSE SPECIFICATION
+
+A. Controllers shall specify the express purposes for which each category of Personal Data is collected and Processed in both external disclosures to Consumers, including privacy notices required by C.R.S. § 6-1-1308(1), as well as in any internal documentation required by this Part 6.
+
+B. The express purpose must be described in a level of detail that gives Consumers a meaningful understanding of how each category of their Personal Data is used when provided for that Processing purpose.
+
+C. If Personal Data is collected and Processed for more than one purpose, Controllers should specify each unrelated purpose with enough detail to allow Consumers to understand each individual, unrelated purpose.
+
+1. Controllers should not identify one broad purpose to justify numerous Processing activities that are only remotely related.
+2. Controllers should not specify one broad purpose to cover potential future Processing activities that are only remotely related.
+3. Controllers should not specify so many purposes for which Personal Data could potentially be processed to cover potential future processing activities that the purpose becomes unclear or uninformative.
+
+D. If the Processing purpose has evolved beyond the original express purpose such that it becomes a distinct purpose that is no longer reasonably necessary to or compatible with the original express purpose, the Controller must review and update all related disclosures and documentation as necessary.
+
+## Rule 6.07 DATA MINIMIZATION
+
+A. To ensure all Personal Data collected is reasonably necessary for the specified purpose, Controllers shall carefully consider each Processing purpose and determine the minimum Personal Data that is necessary, adequate, or relevant for the express purpose or purposes.
+
+B. Personal Data should only be kept in a form which allows identification of Consumers for as long as is necessary for the express Processing purpose(s). To ensure that the Personal Data are not kept longer than necessary, adequate, or relevant, Controllers shall set specific time limits for erasure or to conduct a periodic review.
