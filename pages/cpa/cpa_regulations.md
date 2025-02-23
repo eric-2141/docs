@@ -547,3 +547,28 @@ D. If the Processing purpose has evolved beyond the original express purpose suc
 A. To ensure all Personal Data collected is reasonably necessary for the specified purpose, Controllers shall carefully consider each Processing purpose and determine the minimum Personal Data that is necessary, adequate, or relevant for the express purpose or purposes.
 
 B. Personal Data should only be kept in a form which allows identification of Consumers for as long as is necessary for the express Processing purpose(s). To ensure that the Personal Data are not kept longer than necessary, adequate, or relevant, Controllers shall set specific time limits for erasure or to conduct a periodic review.
+
+1. Any Personal Data determined to no longer be necessary, adequate, or relevant to the express Processing purpose(s) shall be deleted by the Controller and any Processors that the Controller has shared the Personal Data with.
+2. Biometric Identifiers, a digital or physical photograph of a person, an audio or voice recording containing the voice of a person, or any Personal Data generated from a digital or physical photograph or an audio or video recording held by a Controller shall be reviewed at least once a year to determine if its storage is still necessary, adequate, or relevant to the express Processing purpose. Such assessment shall be documented according to 4 CCR 904-3, Rule 6.11.
+3. Sensitive Data for which Controllers no longer have consent to Process, should be deleted or otherwise rendered permanently anonymized or inaccessible within a reasonable period of time after withdrawal of Consent.
+
+C. A Controller shall not collect Personal Data other than those disclosed in its required privacy notice. If the Controller intends to collect additional Personal Data the Controller shall revise its privacy notice, and notify Consumers of the change to its privacy notice pursuant to 4 CCR 904-3, Rule 6.04.
+
+## Rule 6.08 SECONDARY USE
+
+A. The specified Processing purpose is the purpose disclosed to Consumers at or before the time the Personal Data is collected or processed from Consumers. Such disclosure shall be included in any required privacy notice or Consent disclosure.
+
+B. Before Processing Personal Data for purposes that are not reasonably necessary to or compatible with specified Processing purpose(s) disclosed on or after July 1, 2023, the Controller must obtain Consent consistent with C.R.S. § 6-1-1308 and 4 CCR 904-3, Rules 7.02-7.05.
+
+C. When considering if the new Processing purpose is reasonably necessary to or compatible with the original specified purpose(s), Controllers may consider the following, as applicable:
+
+1. The reasonable expectation of an average Consumer concerning how their Personal Data would be Processed once it was collected;
+2. The link between the original specified purpose(s) for which the data was collected and the purpose(s) of further Processing;
+3. The relationship between the Consumer and the Controller and the context in which the Personal Data was collected;
+4. The type, nature, and amount of the Personal Data subject to the new Processing purpose;
+5. The type and degree of possible consequence or impact to the Consumer of the new Processing purpose;
+6. The identity of the entity conducting the new Processing purposes, e.g., the same or different Controller, or a Third Party; and
+7. The existence of additional safeguards for the Personal Data, such as encryption or pseudonymization.
+
+## Rule 6.09 DUTY OF CARE
+
