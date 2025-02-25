@@ -648,3 +648,27 @@ B. Controllers may rely upon valid consent obtained prior to July 1, 2023, to co
 1. Controllers that do not obtain valid Consent prior to July 1, 2023 to continue to use, store, or otherwise Process Sensitive Data collected prior to this date must obtain valid Consent, as required by C.R.S. §§ 6-1-1303(5), 6-1-1306(1)(a)(IV)(C), 6-1-1308(4), and 6-1-1308(7) and Part 7 of these rules, by July 1, 2024 to continue to Process the previously collected Sensitive Data.
 2. If a Controller has collected Personal Data prior to July 1, 2023 and the Processing purpose changes after July 1, 2023 such that it is considered a secondary use pursuant to C.R.S. § 6-1-1308(4) and 4 CCR 904-3, Rule 6.08, the Controller must obtain valid Consent, as required by C.R.S. §§ 6-1-1303(5), 6-1-1306(1)(a)(IV)(C), 6-1-1308(4), and 6-1-1308(7) and Part 7 of these rules, at the time the Processing purpose changes to continue to Process the previously collected Personal Data.
 
+C. Notwithstanding the above, a Controller Processing Sensitive Data Inferences is not required to obtain Consent for the Processing activity if the Processing falls within the requirements of 4 CCR 904-3, Rule 6.10.
+
+## Rule 7.03 REQUIREMENTS FOR VALID CONSENT
+
+A. To be valid, a Consent must meet each of the following elements: (1) it must be obtained through the Consumer's clear, affirmative action; (2) it must be freely given by the Consumer; (3) it must be specific; (4) it must be informed; and (5) it must reflect the Consumer’s unambiguous agreement.
+
+B. Consent must be obtained through the Consumer’s clear, affirmative action. For purposes of obtaining valid Consent:
+
+1. A “clear, affirmative action” means a Consumer’s Consent is communicated through either (a) deliberate and clear conduct, or (b) a statement that clearly indicates their acceptance of the proposed Processing of their Personal Data.
+2. A blanketed acceptance of general terms and conditions, silence, inactivity or in action, pre-ticked boxes, and other negative option opt-out constructions that require intervention from the Consumer to prevent agreement are not clear affirmative actions for the purposes of valid Consent.
+
+C. Consent must be freely given. For purposes of obtaining valid Consent:
+
+1. Consent is freely given when Consumers may refuse Consent without detriment and withdraw Consent easily at any time.
+2. Consent is not freely given when:
+
+    a. It reflects acceptance of a general or broad terms of use or similar document that contains descriptions of Personal Data Processing along with other, unrelated information;
+    b. The performance of a contract is dependent on Consent to Process Personal Data that is not necessary to provide the goods or services contemplated by the contract; or
+    c. The Controller denies goods, services, discounts, or promotions to a Consumer who chooses not to provide Consent, unless:
+
+i. The Personal Data is necessary to the provision of those goods, services, discounts, or promotions, consistent with 4 CCR 904-3, Rule 6.05; or
+ii. The Consent is otherwise required in connection with a Consumer’s voluntary participation in a Bona Fide Loyalty Program, consistent with the requirements in 4 CCR 904-3, Rule 6.05.
+
+3. Example: An online dating application’s terms and conditions tells users that the application will disclose collected Personal Data, including Sensitive Data revealing sexual orientation, with similar applications for advertising purposes. Consent is required for the disclosure of Sensitive Data with similar applications for advertising purposes. Since users cannot accept the required terms and conditions without the opportunity to 
