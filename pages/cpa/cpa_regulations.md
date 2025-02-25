@@ -665,10 +665,13 @@ C. Consent must be freely given. For purposes of obtaining valid Consent:
 2. Consent is not freely given when:
 
     a. It reflects acceptance of a general or broad terms of use or similar document that contains descriptions of Personal Data Processing along with other, unrelated information;
+   
     b. The performance of a contract is dependent on Consent to Process Personal Data that is not necessary to provide the goods or services contemplated by the contract; or
+   
     c. The Controller denies goods, services, discounts, or promotions to a Consumer who chooses not to provide Consent, unless:
 
-i. The Personal Data is necessary to the provision of those goods, services, discounts, or promotions, consistent with 4 CCR 904-3, Rule 6.05; or
-ii. The Consent is otherwise required in connection with a Consumer’s voluntary participation in a Bona Fide Loyalty Program, consistent with the requirements in 4 CCR 904-3, Rule 6.05.
+    i. The Personal Data is necessary to the provision of those goods, services, discounts, or promotions, consistent with 4 CCR 904-3, Rule 6.05; or
+   
+    ii. The Consent is otherwise required in connection with a Consumer’s voluntary participation in a Bona Fide Loyalty Program, consistent with the requirements in 4 CCR 904-3, Rule 6.05.
 
-3. Example: An online dating application’s terms and conditions tells users that the application will disclose collected Personal Data, including Sensitive Data revealing sexual orientation, with similar applications for advertising purposes. Consent is required for the disclosure of Sensitive Data with similar applications for advertising purposes. Since users cannot accept the required terms and conditions without the opportunity to 
+4. Example: An online dating application’s terms and conditions tells users that the application will disclose collected Personal Data, including Sensitive Data revealing sexual orientation, with similar applications for advertising purposes. Consent is required for the disclosure of Sensitive Data with similar applications for advertising purposes. Since users cannot accept the required terms and conditions without the opportunity to 
