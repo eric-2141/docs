@@ -674,4 +674,30 @@ C. Consent must be freely given. For purposes of obtaining valid Consent:
    
     ii. The Consent is otherwise required in connection with a Consumer’s voluntary participation in a Bona Fide Loyalty Program, consistent with the requirements in 4 CCR 904-3, Rule 6.05.
 
-4. Example: An online dating application’s terms and conditions tells users that the application will disclose collected Personal Data, including Sensitive Data revealing sexual orientation, with similar applications for advertising purposes. Consent is required for the disclosure of Sensitive Data with similar applications for advertising purposes. Since users cannot accept the required terms and conditions without the opportunity to 
+4. Example: An online dating application’s terms and conditions tells users that the application will disclose collected Personal Data, including Sensitive Data revealing sexual orientation, with similar applications for advertising purposes. Consent is required for the disclosure of Sensitive Data with similar applications for advertising purposes. Since users cannot accept the required terms and conditions without the opportunity to separately provide or withhold Consent for sharing with similar applications, the Consent is not freely given.
+
+D. Consent must be specific.
+
+1. When Controllers request Consent to Process Personal Data for more than one Processing purpose, and those Processing purposes are not reasonably necessary to or compatible with one another, Consumers must have the ability to separately Consent to each specific purpose.
+
+    a. Controllers may request Consent to Process Personal Data for multiple Processing purposes that are not reasonably necessary to or compatible with one another using a single Consent request as long there is also an option for more granular Consent within the same Consent interface.
+2. Consent to Process Personal Data for one specific purpose does not constitute valid Consent to Process Personal Data for other purposes that are not reasonably necessary to or compatible with that specific purpose.
+3. The Sale of Sensitive Data to one specific party is not necessary to or compatible with the Sale of Sensitive Data to a different party.
+
+    a. Example: A cosmetic retailer asks a customer for Consent to use Sensitive Data revealing the customer’s racial origin in order to provide first-party targeted offers to the customer and to Sell the customer’s racial origin information to Data Brokers. This Consent is not specific as there is no opportunity to provide separate Consent for the two separate Processing purposes. Therefore, Consent in this example would not be valid.
+   
+    b. Example: In the example above, the Controller requests Consent only to Sell Sensitive Data revealing the customer’s racial origin with commercial partners. The Controller lists “Fashion Co. #1” and “Make Up Co. #1” as commercial partners who will receive Sensitive Data. Consent would be deemed valid for only these two Third Parties because their identity was provided to the Consumer at the time that his or her Consent was collected. Consent would not be deemed valid for Selling with another Third Party whose identity has not been provided.
+
+E. Consent must be informed.
+
+1. When requesting Consent, a Controller must provide the following information, at a minimum:
+
+    a. The Controller’s identity;
+
+    b. The plain-language reason that Consent is required;
+
+    c. The Processing purpose(s) for which Consent is sought;
+
+    d. The categories of Personal Data that the Controller shall Process to effectuate the Processing purpose(s);
+   
+    e. Names of all Third Parties receiving the Sensitive Data through Sale, if applicable;
