@@ -701,3 +701,23 @@ E. Consent must be informed.
     d. The categories of Personal Data that the Controller shall Process to effectuate the Processing purpose(s);
    
     e. Names of all Third Parties receiving the Sensitive Data through Sale, if applicable;
+
+    f. A description of the Consumer’s right to withdraw Consent for the identified Processing purpose at any time in accordance with 4 CCR 904-3, Rule 7.07 and details of how and where to do so; and
+
+    g. Any disclosures required by 4 CCR 904-3, Rules 6.05 and 9.05.
+
+F. Consent may not be obtained using Dark Patterns as defined in C.R.S § 6-1-1309(9) and prohibited by 4 CCR 904-3, Rule 7.09. Pursuant to C.R.S. § 6-1-1303(5)(c) and 4 CCR 904-3, Rule 7.09, any agreement obtained through Dark Patterns is not valid Consent.
+
+## Rule 7.04 REQUESTS FOR CONSENT
+
+A. Controllers shall provide a simple form or mechanism to enable a Consumer to provide Consent when required, including Consent to Processing purposes from which the Consumer has previously opted out. Such a form or mechanism should be easy for a reasonable Consumer to locate and should comply with the other requirements set forth in Part 7 of these rules.
+
+B. Requests for Consent shall be prominent, concise, and separate and distinct from other terms and conditions, and shall comply with all requirements for disclosures and communications to Consumers set forth in 4 CCR 904-3, Rule 3.02.
+
+C. Any Consent request by a Controller must contain the disclosures required by 4 CCR 904-3, Rule 7.03(E)(1) either directly or through a link. Where possible, the request interface itself should contain the disclosures required by 4 CCR 904-3, Rule 7.03(E)(1)(a)-(d). Alternatively, the Controller may provide the Consumer with a link to a webpage containing the required Consent disclosures, provided the request clearly states the title and heading of the webpage section containing the relevant disclosures. If technically feasible, the request method must also link the Consumer directly to the relevant section of the disclosure.
+
+D. Example: A mobile application requests Consent to Process Sensitive Data. The Consent request provides a link to the application’s privacy notice which contains the required Consent disclosures. However, the Consent request does not direct or bring the Consumer to the relevant section of the privacy notice. Consent is not valid because the Consent request does not clearly indicate the title and section where the Consumer can find the required disclosures and did not link the Consumer directly to the relevant section of the privacy notice.
+
+E. Example: Acme Toy Store collects customer email addresses in order to send customers information about product recalls, and maintains those email addresses in a recall email distribution list. Acme Toy Store wants to Sell the recall email distribution list to a Third Party partner to enable that partner to send those customers promotional materials. Acme Toy Store must obtain customer consent prior to Selling the recall email distribution list because Selling the recall email distribution list is not reasonably necessary to or compatible with providing product recall information. Acme Toy Store emails its customers attaching a revised privacy notice disclosing the new Processing purpose and asks customers to Consent to the new privacy notice, but does not state the new purpose in the email, and does not direct customers to the section of the privacy notice disclosing the secondary purpose. Consent is not valid because the email did not contain the required Consent disclosures or direct the customers to a document containing the required Consent disclosures.
+
+1. Example: Under the same circumstances, Acme Toy Store emails its customers on the recall distribution list informing those customers that Consent is required for the Acme Toy Store to Process email addresses for the secondary purpose of Selling the recall distribution list to a Third Party partner to enable that partner to send promotional materials, providing all other required disclosures and including a mechanism that enables the customers to provide Consent and to revoke Consent through the same user
