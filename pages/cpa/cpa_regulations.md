@@ -736,3 +736,24 @@ C. If a Controller conspicuously displays the status of the Consumer’s opt-out
 
 D. If a Consumer has opted-out of the Processing of Personal Data for the Opt-Out Purposes, and then initiates a transaction or attempts to use a product or service inconsistent with the request to opt-out, such as signing up for a Bona Fide Loyalty Program that also involves the Sale of Personal Data to a Bona Fide Loyalty Program Partner, the Controller may request the Consumer’s Consent to Process the Consumer’s Personal Data for that purpose, so long as the request for Consent complies with all provisions of 4 CCR 904-3, Rules 7.03 and 7.04.
 
+E. Example: A Consumer opts out of the use of Personal Data for Sale or Targeted Advertising using a Universal Opt-Out Mechanism. The Consumer visits the website of a fashion retailer that routinely shares Consumer Personal Data for Targeted Advertising. The fashion retailer must obtain the Consumer’s consent because the Consumer has already opted out of Processing for that purpose. The fashion retailer’s website displays a pop-up banner seeking Consent to share the Consumer’s Personal Data for Targeted Advertising. This is not a valid request for Consumer Consent because the request is made through a pop-up banner that degrades or obstructs the Consumer’s experience on the Controller’s web page or application.
+
+F. Example: A Consumer opts out of the use of Personal Data for Sale or Targeted Advertising using a Universal Opt-Out Mechanism. The Consumer visits a fashion retailer’s website. The fashion retailer’s homepage contains a message at the top of the webpage that displays the Consumer’s opt-out status, stating, “you have opted out of targeted advertising” next to a link that states “Opt-in to Data Use”. The linked webpage also meets all requirements of 4 CCR 904-3, Rules 7.03 and 7.04. Consent pursuant to this request is valid.
+
+## Rule 7.06 CONSENT FOR CHILDREN
+
+A. When a Controller engages in Processing activities involving the collection and Processing of Personal Data from a known Child or operates a website or business directed to Children or has actual knowledge that it is collecting or maintaining Personal Data from a Child, the Controller must obtain Consent from the parent or lawful guardian of that Child before collecting or Processing the Child’s Personal Data.
+
+B. A Controller Processing the Personal Data of a Child must make reasonable efforts to obtain verifiable parental Consent, taking into consideration available technology. Any method to obtain verifiable parental Consent must be reasonably calculated, in light of available technology, to ensure that the person providing Consent is the Child's parent or lawful guardian.
+
+C. Reasonably calculated methods for determining that a person Consenting to the Processing of a Child’s Personal Data is the parent or lawful guardian of that Child include, but are not limited to:
+
+1. Providing a Consent form to be signed by the parent or guardian under penalty of perjury and returned to the business by postal mail, facsimile, or electronic scan;
+2. Requiring a parent or guardian, in connection with a monetary transaction, to use a credit card, debit card, or other online payment system that provides notification of each discrete transaction to the primary account holder;
+3. Having a parent or guardian call a toll-free telephone number staffed by trained personnel;
+4. Having a parent or guardian connect to trained personnel via videoconference; and
+5. Verifying a parent or guardian’s identity by checking a form of government-issued identification against databases of such information, as long as the parent or guardian’s identification is deleted by the business from its records promptly after such verification is complete.
+
+D. Any Personal Data collected for purposes of verifying the identity of a parent or legal guardian may not be used for any reason other than Processing these verifications.
+
+## Rule 7.07 REFUSING OR WITHDRAWING CONSENT
