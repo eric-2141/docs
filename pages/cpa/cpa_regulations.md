@@ -757,3 +757,32 @@ C. Reasonably calculated methods for determining that a person Consenting to the
 D. Any Personal Data collected for purposes of verifying the identity of a parent or legal guardian may not be used for any reason other than Processing these verifications.
 
 ## Rule 7.07 REFUSING OR WITHDRAWING CONSENT
+
+A. A Consumer shall be able to refuse or revoke Consent as easily and within a similar number of steps as Consent is affirmatively provided.
+
+B. If Consent is obtained through an electronic interface, the Consumer shall be able to refuse or withdraw Consent through the same or similar electronic interface.
+
+C. When using an electronic interface, and when feasible based on the Consumer’s relationship with the Controller, a Controller may allow Consumers to track what Processing activities they have Consented to or opted out of.
+
+D. There shall be no detriment to a Consumer for refusing or withdrawing Consent, consistent with C.R.S. § 6-1-1308(1)(c)(II), and 4 CCR 904-3, Rule 6.05.
+
+1. Notwithstanding 4 CCR 904-3 Rule 7.07(D), if a Consumer refuses to Consent to, or withdraws consent for the Processing of Sensitive Data or Personal Data strictly necessary for a program, product or service, the Controller is no longer obligated to provide that program, product or service.
+
+E. If a Consumer withdraws Consent for a Processing activity, subject to Consent under C.R.S. §§ 6-1-1306(1)(a)(IV)(C), 1308(4), and 1308(7), the Controller shall cease that Processing activity and, in the notice required by C.R.S. § 6-1-1306(2), provide the Consumer instructions on how to exercise the right to deletion, provide a link to exercise the right to deletion, or inform the Consumer that information regarding the right to delete their Personal Data can be found in the Controller’s privacy notice.
+
+## Rule 7.08 REFRESHING CONSENT
+
+A. When a Consumer has not interacted with a Controller in the prior twenty-four (24) months, the Controller must refresh Consent in compliance with all requirements of this Part 7 to:
+
+1. Continue Processing Sensitive Data pursuant to C.R.S. § 6-1-1308(7); or
+2. Continue Processing Personal Data for a Secondary Use pursuant to C.R.S. § 1308(4), if the Secondary Use involves Profiling for a decision that results in the provision or denial of financial or lending services, housing, insurance, education enrollment or opportunity, criminal justice, employment opportunities, health-care services, or access to essential goods or services.
+
+B. Controllers are not required to refresh Consent under part A of this section where a Consumer has access and ability to update their opt-out preferences at any time through a user-controlled interface.
+
+C. If a Processing purpose materially evolves such that the new purpose becomes a secondary use pursuant to C.R.S. § 6-1-1308(4), the Consumer’s original Consent is no longer valid, and the Controller must obtain new Consent pursuant to Part 7 of these rules.
+
+## Rule 7.09 USER INTERFACE DESIGN, CHOICE ARCHITECTURE, AND DARK PATTERNS
+
+A. The following principles should be considered when designing a user interface or a choice architecture used to obtain Consent when required under C.R.S. §§ 6-1-1303(5), 6-1-1306(1)(a)(IV)(C), 6-1-1308(4), and 6-1-1308(7):
+
+1. Consent choice options should be presented to Consumers in a symmetrical way that does not impose unequal weight or focus on one available choice over another such that a Consumer’s ability to consent is impaired or subverted.
