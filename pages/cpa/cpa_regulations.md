@@ -786,3 +786,27 @@ C. If a Processing purpose materially evolves such that the new purpose becomes 
 A. The following principles should be considered when designing a user interface or a choice architecture used to obtain Consent when required under C.R.S. §§ 6-1-1303(5), 6-1-1306(1)(a)(IV)(C), 6-1-1308(4), and 6-1-1308(7):
 
 1. Consent choice options should be presented to Consumers in a symmetrical way that does not impose unequal weight or focus on one available choice over another such that a Consumer’s ability to consent is impaired or subverted.
+
+    a. Example: One choice should not be presented with less prominent size, font, or styling than the other choice. Presenting an “I accept” button in a larger size than the “I do not accept” button would not be considered equal or symmetrical. Presenting an “I do not accept” button in a greyed-out color while the “I accept” button is presented in a bright or obvious color would not be considered equal or symmetrical.
+   
+    b. Example: If multiple choices are offered to a Consumer, it should be equally easy to accept or reject all options. Presenting the option to “accept all” when offering a Consumer the choice to Consent to the use of Sensitive Data for multiple purposes without an option to “reject all” would not be considered equal or symmetrical.
+   
+2. Consent choice options should avoid the use of emotionally manipulative language or visuals to unfairly, fraudulently, or deceptively coerce or steer Consumer choice or Consent.
+
+    a. Example: One choice should not be presented in a way that creates unnecessary guilt or shames the user into selecting a specific choice. Presenting the choices “I accept, I want to help endangered species” vs “No, I don’t care about animals” may be considered unfairly emotionally manipulative.
+   
+    b. Example: The explanation of the choice to Consumers should not include gratuitous information to emotionally manipulate Consumers. Explaining that a mobile application “helps save lives” when asking for Consent to collect Sensitive Data for Targeted Advertising may be considered deceptively emotionally manipulative if the Targeted Advertising is not critical to the lifesaving functionality of the application.
+   
+3. A Consumer’s silence or failure to take an affirmative action should not be interpreted as acceptance or Consent.
+
+    a. Example: A Consumer closing a pop-up window which requests Consent without first affirmatively selecting the equivalent of an “I accept” button should not be interpreted as Consent.
+
+    b. Example: A Consumer navigating forward on a webpage after a Consent choice has been presented without selecting the equivalent of an “I accept” button should not be interpreted as affirmative Consent.
+   
+    c. Example: A Consumer continuing to use a Smart TV without replying “I accept” or “I consent” in reply to a verbal request for Consent should not be interpreted as affirmative Consent.
+   
+4. Consent choice options should not be presented with a preselected or default option.
+
+    a. Example: Checkboxes or radio buttons should not be selected automatically when presented to a Consumer.
+   
+5. A Consumer should be able to select either Consent choice option within a similar number of steps. A Consumer’s ability to exercise a more privacy-protective option shall not be unduly longer, more difficult, or time-consuming than the path to exercise a less privacy-protective option.
