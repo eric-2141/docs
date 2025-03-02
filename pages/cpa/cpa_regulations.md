@@ -810,3 +810,29 @@ A. The following principles should be considered when designing a user interface
     a. Example: Checkboxes or radio buttons should not be selected automatically when presented to a Consumer.
    
 5. A Consumer should be able to select either Consent choice option within a similar number of steps. A Consumer’s ability to exercise a more privacy-protective option shall not be unduly longer, more difficult, or time-consuming than the path to exercise a less privacy-protective option.
+
+    a. Example: Consumers should be presented with all choices at the same time. Presenting an "I accept” button next to a “Learn More” button which requires Consumers to take an extra step before they are given the option of an “I do not accept” button could be considered an unnecessary restriction.
+
+    b. Example: Describing the choice before Consumers and placing both the “I accept” and “I do not accept” buttons after a “select preferences” button would not be considered an unnecessary restriction.
+
+6. A Consumer’s expected interaction with a website, application, or product should not be unnecessarily interrupted or intruded upon to request Consent.
+
+    a. Example: Consumers should not be interrupted multiple times in one visit to a website to Consent if they have declined the Consent choice offered when they arrived at the page.
+   
+    b. Example: Consumers should not be redirected away from the content or service they are attempting to interact with because they declined the Consent choice offered, unless Consent to process the requested data is strictly necessary to provide the website or application content or experience.
+   
+    c. Example: Consumers should not be forced to navigate through multiple pop-ups which cover or otherwise disrupt the content or service they are attempting to interact with because they declined the Consent choice offered.
+   
+7. Consent choice options should not include misleading statements, omissions, affirmative misstatements, or intentionally confusing language to obtain Consent.
+
+    a. Example: Choices should not be driven by a false sense of urgency. A countdown clock displayed next to a Consent choice option which states “time is running out to Consent to this data use and receive a limited discount” where the discount is not actually limited by time or availability would be considered creating a false sense of urgency.
+
+    b. Example: Choices should avoid the use of double negatives when describing Consent choice options to Consumers.
+
+    c. Example: Consent choice options should not be presented with confusing or unexpected syntax. “Please do not check this box if you wish to Consent to this data use” would be considered confusing syntax.
+   
+    d. Example: The language used for choice options should logically follow the question presented to the Consumer. Offering the options of “Yes” or “No” to the question “Do you wish to provide or decline Consent for the described purposes” would be considered an illogical choice option. The choice options “provide” and “decline” would be considered to logically follow the same question.
+   
+8. The vulnerabilities or unique characteristics of the target audience of a product, service, or website should be considered when deciding how to present Consent choice options.
+
+    a. Example: A website or service that primarily interacts with Consumers under the age of 18 should consider the simplicity of the language used to explain the choice options or the way in which cartoon imagery or endorsements might unduly influence their choice.
