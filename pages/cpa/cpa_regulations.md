@@ -836,3 +836,32 @@ A. The following principles should be considered when designing a user interface
 8. The vulnerabilities or unique characteristics of the target audience of a product, service, or website should be considered when deciding how to present Consent choice options.
 
     a. Example: A website or service that primarily interacts with Consumers under the age of 18 should consider the simplicity of the language used to explain the choice options or the way in which cartoon imagery or endorsements might unduly influence their choice.
+
+    b. Example: A website or service that primarily interacts with the elderly should consider font size and space between buttons to ensure readability and ease of interaction with design elements.
+
+9. User interface design and Consent choice architecture should operate in a substantially similar manner when accessed through digital accessibility tools.
+
+    a. Example: If it takes two clicks for a Consumer to Consent through a website, it should take no more than two actions for a Consumer using a digital accessibility tool to complete the same Consent process.
+   
+B. In addition to the principles included in this part 4 CCR 904-3, Rule 7.09(A), Controllers may consider statutes, administrative rules, and administrative guidance concerning Dark Patterns from other jurisdictions when evaluating the appropriateness of the user interface or choice architecture used to obtain required Consent.
+
+C. Controllers shall not use an interface design or choice architecture to obtain required Consent that has been designed or manipulated with the substantial effect of subverting or impairing user autonomy, decision making or choice, or unfairly, fraudulently, or deceptively manipulating or coercing a Consumer into providing Consent.
+
+1. The principles outlined in 4 CCR 904-3, Rule 7.09(A) and (B) are factors to be considered when determining if a consent interface design or choice architecture has been designed or manipulated with the substantial effect of subverting or impairing user autonomy, decision making or choice, or unfairly, fraudulently, or deceptively manipulating or coercing a Consumer into providing Consent.
+
+D. Consent obtained in violation of this part 4 CCR 904-3, Rule 7.09(C) may be considered a Dark Pattern, as defined in C.R.S. § 6-1-1303(9).
+
+E. The fact that a design or practice is commonly used is not, alone, enough to demonstrate that any particular design or practice is not a Dark Pattern.
+
+F. Consent obtained through Dark Patterns does not constitute valid Consent in compliance with C.R.S. §§ 6-1-1303, 6-1-1306, and 6-1-1308.
+
+## PART 8 DATA PROTECTION ASSESSMENTS
+
+## Rule 8.01 AUTHORITY AND PURPOSE
+
+A. The statutory authority for the rules in this Part 8 is C.R.S. §§ 6-1-108(1), 6-1-1309, and 6-1-1313. The purpose of the rules in this Part 8 is to provide clarity on the requirements and timing of data protection assessments.
+
+## Rule 8.02 SCOPE
+
+A. A data protection assessment shall be a genuine, thoughtful analysis of each Personal Data Processing activity that presents a heightened risk of harm to a Consumer, pursuant to C.R.S. § 6-1-1309(3), that: 1) identifies and describes the risks to the rights of consumers associated with the processing; 2) documents measures considered and taken to address and offset those risks, including those duties required by C.R.S. § 6-1-1308; 3) contemplates the benefits of the Processing; and 4) demonstrates that the benefits of the Processing outweigh the risks offset by safeguards in place.
+
