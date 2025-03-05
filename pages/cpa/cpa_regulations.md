@@ -865,3 +865,26 @@ A. The statutory authority for the rules in this Part 8 is C.R.S. §§ 6-1-108(1
 
 A. A data protection assessment shall be a genuine, thoughtful analysis of each Personal Data Processing activity that presents a heightened risk of harm to a Consumer, pursuant to C.R.S. § 6-1-1309(3), that: 1) identifies and describes the risks to the rights of consumers associated with the processing; 2) documents measures considered and taken to address and offset those risks, including those duties required by C.R.S. § 6-1-1308; 3) contemplates the benefits of the Processing; and 4) demonstrates that the benefits of the Processing outweigh the risks offset by safeguards in place.
 
+B. If a Controller conducts a data protection assessment for the purpose of complying with another jurisdiction’s law or regulation, the assessment shall satisfy the requirements established in this section if such data protection assessment is reasonably similar in scope and effect to the data protection assessment that would otherwise be conducted pursuant to this section.
+
+1. If a data protection assessment conducted for the purpose of complying with another jurisdiction’s law or regulation is not similar in scope and effect to a data protection assessment created pursuant to this section, a Controller may submit that assessment with a supplement that contains any additional information required by this jurisdiction.
+
+C. The depth, level of detail, and scope of data protection assessments should take into account the scope of risk presented, the size of the Controller, amount and sensitivity of Personal Data Processed, Personal Data Processing activities subject to the assessment, and complexity of safeguards applied.
+
+D. A “comparable set of Processing operations” that can be addressed by a single data protection assessment pursuant to C.R.S. § 6-1-1309(5) is a set of similar Processing operations including similar activities that present heightened risks of similar harm to a Consumer.
+
+1. Example: The ACME Toy Store chain is considering using in-store paper forms to collect names, mailing addresses, and birthdays from Children that visit their stores, and using that information to mail a coupon and list of age-appropriate toys to each child during the Child’s birth month and every November. ACME uses the same Processors and Processing systems for each category of mailings across all stores. ACME must conduct and document a data protection assessment because it is Processing Personal Data from known Children, which is Sensitive Data. ACME can use the same data protection assessment for Processing the Personal Data for the birthday mailing and November mailing across all stores because in each case it is collecting the same categories of Personal Data in the same way for the purpose of sending coupons and age-appropriate toy lists to Children.
+
+## Rule 8.03 STAKEHOLDER INVOLVEMENT
+
+A. A data protection assessment shall involve all relevant internal actors from across the Controller's organizational structure, and where appropriate, relevant external parties, to identify, assess and address the data protection risks.
+
+## Rule 8.04 DATA PROTECTION ASSESSMENT CONTENT
+
+A. At a minimum, a data protection assessment must include the following information:
+
+1. A short summary of the Processing activity;
+2. The categories of Personal Data to be Processed and whether they include Sensitive Data, including Personal Data from a known Child as described in C.R.S. § 6-1-1303(24);
+3. The context of the Processing activity, including the relationship between the Controller and the Consumers whose Personal Data will be Processed, and the reasonable expectations of those Consumers;
+4. The nature and operational elements of the Processing activity. In determining the level of detail and specificity to provide pursuant to this section, the Controller shall consider the type, amount, and sensitivity of Personal Data Processed, the impacts that operational elements will have on the level of risk presented by the Processing activity, and any relevant unique relationships. Relevant operational elements may include:
+
