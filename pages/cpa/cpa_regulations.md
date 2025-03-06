@@ -2,7 +2,7 @@
 title: CPA Regulations Text
 tags: 
 keywords: cpa, colorado
-last_updated: January 25, 2025
+last_updated: March 5, 2025
 summary: "Below is the full text of the Colorado Privacy Act Rules. 4 CCR 904-3"
 sidebar: mydoc_sidebar
 permalink: cpa_regulations.html
@@ -887,4 +887,37 @@ A. At a minimum, a data protection assessment must include the following informa
 2. The categories of Personal Data to be Processed and whether they include Sensitive Data, including Personal Data from a known Child as described in C.R.S. § 6-1-1303(24);
 3. The context of the Processing activity, including the relationship between the Controller and the Consumers whose Personal Data will be Processed, and the reasonable expectations of those Consumers;
 4. The nature and operational elements of the Processing activity. In determining the level of detail and specificity to provide pursuant to this section, the Controller shall consider the type, amount, and sensitivity of Personal Data Processed, the impacts that operational elements will have on the level of risk presented by the Processing activity, and any relevant unique relationships. Relevant operational elements may include:
+
+    a. Sources of Personal Data;
+   
+    b. Technology or Processors to be used;
+   
+    c. Names or categories of Personal Data recipients, including Third Parties, Affiliates, and Processors that will have access to the Personal Data, the processing purpose for which the Personal Data will be provided to those recipients, and categorical compliance processes that the Controller uses to evaluate that type of recipient;
+   
+    d. Operational details about the Processing, including planned processes for Personal Data collection, use, storage, retention, and sharing;
+   
+    e. Specific types of Personal Data to be processed.
+   
+5. The core purposes of the Processing activity, as well as other benefits of the Processing that may flow, directly and indirectly to the Controller, Consumer, other expected stakeholders, and the public;
+6. The sources and nature of risks to the rights of Consumers associated with the Processing activity posed by the Processing activity. The source and nature of the risks may differ based on the processing activity and type of Personal Data processed. Risks to the rights of Consumers that a Controller may consider in a data protection assessment include, for example, risks of:
+
+    a. Constitutional harms, such as speech harms or associational harms;
+   
+    b. Intellectual privacy harms, such as the creation of negative inferences about an individual based on what an individual reads, learns, or debates;
+   
+    c. Data security harms, such as unauthorized access or adversarial use;
+   
+    d. Discrimination harms, such as a violation of federal antidiscrimination laws or antidiscrimination laws of any state or political subdivision thereof, or unlawful disparate impact;
+   
+    e. Unfair, unconscionable, or deceptive treatment;
+   
+    f. A negative outcome or decision with respect to an individual’s eligibility for a right, privilege, or benefit related to financial or lending services, housing, insurance, education enrollment or opportunity, criminal justice, employment opportunities, health-care services, or access to essential goods or services;
+   
+    g. Financial injury or economic harm;
+   
+    h. Physical injury, harassment, or threat to an individual or property;
+   
+    i. Privacy harms, such as physical or other intrusion upon the solitude or seclusion or the private affairs or concerns of Consumers, stigmatization or reputational injury;
+ 
+    j. Psychological harm, including anxiety, embarrassment, fear, and other mental trauma; or
 
