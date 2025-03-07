@@ -921,3 +921,29 @@ A. At a minimum, a data protection assessment must include the following informa
  
     j. Psychological harm, including anxiety, embarrassment, fear, and other mental trauma; or
 
+    k. Other detrimental or negative consequences that affect an individual’s private life, private affairs, private family matters or similar concerns, including actions and communications within an individual’s home or similar physical, online, or digital location, where an individual has a reasonable expectation that Personal Data or other data will not be collected, observed, or used.
+
+7. Measures and safeguards the Controller will employ to reduce the risks identified by the Controller pursuant to 4 CCR 904-3, Rule 8.04(A)(6). Measures shall include the following, as applicable:
+
+    a. The use of De-identified Data;
+
+    b. Measures taken pursuant to the Controller duties in C.R.S. § 6-1-1308, including an overview of data security practices the Controller has implemented, any data security assessments that have been completed pursuant to C.R.S. § 6-1-1308(5), and any measures taken to comply with the consent requirements of 4 CCR 904-3, Rule 7; and
+
+    c. Measures taken to ensure that Consumers have access to the rights provided in C.R.S. § 6-1-1306.
+
+8. A description of how the benefits of the Processing outweigh the risks identified pursuant to 4 CCR 904-3, Rule 8.04(A)(6), as mitigated by the safeguards identified pursuant to 4 CCR 904-3, Rule 8.04(A)(7).
+
+    a. Contractual agreements in place to ensure that Personal Data in the possession of a Processor or other Third Party remains secure; or
+
+    b. Any other practices, policies, or trainings intended to mitigate Processing risks.
+
+9. If a Controller is Processing Personal Data for Profiling as contemplated in C.R.S. § 6-1-1309(2)(a), a data protection assessment of that Processing activity must also comply with 4 CCR 904-3, Rule 9.06;
+10. If a Controller is Processing Sensitive Data pursuant to the exception in section 4 CCR 904-3, Rule 6.10, the details of the process implemented to ensure that Personal Data and Sensitive Data Inferences are not transferred and are deleted within twenty-four (24) hours of the Personal Data Processing activity;
+11. Relevant internal actors and external parties contributing to the data protection assessment;
+12. Any internal or external audit conducted in relation to the data protection assessment, including, the name of the auditor, the names and positions of individuals involved in the review process, and the details of the audit process; and
+13. Dates the data protection assessment was reviewed and approved, and names, positions, and signatures of the individuals responsible for the review and approval.
+
+## Rule 8.05 TIMING
+
+A. A Controller shall conduct and document a data protection assessment before initiating a Processing activity that Presents a Heightened Risk of Harm to a Consumer, as defined at C.R.S. § 6-1-1309(2).
+
