@@ -947,3 +947,39 @@ A. At a minimum, a data protection assessment must include the following informa
 
 A. A Controller shall conduct and document a data protection assessment before initiating a Processing activity that Presents a Heightened Risk of Harm to a Consumer, as defined at C.R.S. § 6-1-1309(2).
 
+B. A Controller shall review and update the data protection assessment as often as appropriate considering the type, amount, and sensitivity of Personal Data Processed and level of risk presented by the Processing, throughout the Processing activity’s lifecycle in order to: 1) monitor for harm caused by the Processing and adjust safeguards accordingly; and 2) ensure that data protection and privacy are considered as the Controller makes new decisions with respect to the Processing.
+
+C. Data protection assessments containing Processing for Profiling in furtherance of Decisions that Produce Legal or Similarly Significant Effects Concerning a Consumer shall be reviewed and updated at least annually, and include an updated evaluation for fairness and disparate impact and the results of any such evaluation.
+
+D. A new data Processing activity is generated when existing Processing activities are modified in a way that materially changes the level of risk presented. When a new data Processing activity is generated, a data protection assessment must reflect changes to the pre-existing activity and additional considerations and safeguards to offset the new risk level.
+
+1. Modifications that may materially change the level of risk of a Processing activity may include, without limitation, changes to any of the following:
+
+    a. The way that existing systems or Processes handle Personal Data;
+
+    b. Processing purpose;
+
+    c. Personal data Processed or sources of Personal Data;
+
+    d. Method of collection of Personal Data;
+
+    e. Personal Data recipients;
+
+    f. Processor roles or Processors;
+
+    g. Algorithm applied or algorithmic result; or
+
+    h. Software or other systems used for Processing.
+
+E. Data protection assessments, including prior versions which have been revised when a new data Processing activity is generated, shall be stored for as long as the Processing activity continues, and for at least three (3) years after the conclusion of the Processing activity. Data protection assessments shall be held in an electronic, transferable form.
+
+F. Data protection assessments shall be required for activities created or generated after July 1, 2023. This requirement is not retroactive.
+
+## Rule 8.06 ATTORNEY GENERAL REQUESTS
+
+A. A Controller shall make the data protection assessment available to the Attorney General within thirty (30) days of the Attorney General’s request.
+
+## PART 9 PROFILING
+ 
+## Rule 9.01 AUTHORITY AND PURPOSE
+
