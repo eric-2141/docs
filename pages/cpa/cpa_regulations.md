@@ -983,3 +983,26 @@ A. A Controller shall make the data protection assessment available to the Attor
  
 ## Rule 9.01 AUTHORITY AND PURPOSE
 
+A. The statutory authority for the rules in this Part 9 is C.R.S. §§ 6-1-108(1), 6-1-1302(1)(c)(II)(B), 6-1-1303, 6-1-1306, 6-1-1309, and 6-1-1313. The purpose of the rules in this Part 9 is to provide clarity on the duties and rights related to Profiling.
+
+## Rule 9.02 SCOPE
+
+A. Controllers have an affirmative obligation to provide clear, understandable, and transparent information to Consumers about how their Personal Data is used, including for Profiling, pursuant to C.R.S. § 6-1-1302(1)(c)(II)(B).
+
+B. Consumers have the right to opt out of Profiling as defined in C.R.S. § 6-1-1303(20) and 4 CCR 904-3, Rule 2.02 when the Profiling is done in furtherance of a decision that results in the provision or denial of financial or lending services, housing, insurance, education enrollment or opportunity, criminal justice, employment opportunities, health-care services, or access to essential goods or services, pursuant to C.R.S. §§ 6-1-1306(1)(a)(I).
+
+C. Controllers must conduct and document a data protection assessment compliant with C.R.S. § 6-1-1309 and Parts 8 and 9 of these rules before Processing Personal Data for Profiling that presents specific, reasonably foreseeable risks contemplated in C.R.S. § 6-1-1309(2)(a).
+
+## Rule 9.03 PROFILING OPT-OUT TRANSPARENCY
+
+A. To ensure that Consumers understand how their Personal Data is used for Profiling in furtherance of Decisions that Produce Legal or Other Similarly Significant Effects Concerning a Consumer, Controllers that Process Personal Data for Profiling for a decision that results in the provision or denial of financial or lending services, housing, insurance, education enrollment or opportunity, criminal justice, employment opportunities, health-care services, or access to essential goods or services and subject to C.R.S. § 6-1-1306(1)(a)(I) shall provide clear, understandable, and transparent information to Consumers in the required privacy notice, including at a minimum:
+
+1. What decision(s) is (are) subject to Profiling;
+2. The categories of Personal Data that were or will be Processed as part of the Profiling in Furtherance of Decisions that Produce Legal or Other Similarly Significant Effects;
+3. A non-technical, plain language explanation of the logic used in the Profiling process;
+4. A non-technical, plain language explanation of how Profiling is used in the decision-making process, including the role of human involvement, if any;
+5. If the system has been evaluated for accuracy, fairness, or bias, including the impact of the use of Sensitive Data, and the outcome of any such evaluation;
+6. The benefits and potential consequences of the decision based on the Profiling; and
+7. Information about how a Consumer may exercise the right to opt out of the Processing of Personal Data concerning the Consumer for Profiling in Furtherance of Decisions that Produce Legal or Other Similarly Significant Effects.
+
+B. Notwithstanding the requirements in 4 CCR 904-3, Rule 9.03(A), nothing in 4 CCR 904-3, Rule 9.03 shall be construed as requiring the Controller to provide information to a Consumer in a manner that would disclose the Controller’s trade secrets.
