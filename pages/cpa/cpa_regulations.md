@@ -1006,3 +1006,27 @@ A. To ensure that Consumers understand how their Personal Data is used for Profi
 7. Information about how a Consumer may exercise the right to opt out of the Processing of Personal Data concerning the Consumer for Profiling in Furtherance of Decisions that Produce Legal or Other Similarly Significant Effects.
 
 B. Notwithstanding the requirements in 4 CCR 904-3, Rule 9.03(A), nothing in 4 CCR 904-3, Rule 9.03 shall be construed as requiring the Controller to provide information to a Consumer in a manner that would disclose the Controller’s trade secrets.
+
+## Rule 9.04 OPTING OUT OF PROFILING IN FURTHERANCE OF DECISIONS THAT PRODUCE LEGAL OR SIMILARLY SIGNIFICANT EFFECTS CONCERNING A CONSUMER
+
+A. Consumers have the right to opt out of Profiling in furtherance of Decisions that Produce Legal or other Similarly Significant Effects Concerning a Consumer through the method specified by the Controller in the required privacy notice, pursuant to C.R.S. § 6-1-1306(1)(a) and 4 CCR 904-3, Rule 4.03.
+
+B. Requests to opt out of Profiling in furtherance of Decisions that Produce Legal or other Similarly Significant Effects Concerning a Consumer based on Solely Automated Processing or Human Reviewed Automated Processing shall be honored pursuant to C.R.S. § 6-1-1306(2).
+
+C. A Controller may decide not to take action on a request to opt out of Profiling in furtherance of Decisions that Produce Legal or other Similarly Significant Effects Concerning a Consumer if the Profiling used is based on Human Involved Automated Processing. If a Controller does not take action based on this reason, the Controller shall inform the Consumer pursuant to C.R.S. § 6-1-1306(2)(b) and include the following information, or share a link to such information if it is included in the Controller’s privacy notice:
+
+1. The decision subject to the Profiling;
+2. The categories of Personal Data that were or will be used as part of the Profiling used in Furtherance of Decisions that Produce Legal or Other Similarly Significant Effects;
+3. A non-technical, plain language explanation of the logic used in the Profiling process;
+4. A non-technical, plain language explanation of the role of meaningful human involvement in Profiling and the decision-making process;
+5. How Profiling is used in the decision-making process;
+6. The benefits and potential consequences of the decision based on the Profiling; and
+7. An explanation of how Consumers can correct or delete the Personal Data used in the Profiling used in the decision-making process.
+
+D. In order to ensure that Consumers have an opportunity to exercise their right to opt out of Profiling in furtherance of Decisions that Produce Legal or Other Similarly Significant Effects Concerning a Consumer, Controllers that Process Personal Data for Profiling covered by C.R.S. §§ 6-1-1303(10) and 6-1-1306(1)(a)(I) shall provide a method to exercise the right to opt out of Profiling in furtherance of Decision that Produce Legal or Other similarly Significant Effects Concerning a Consumer clearly and conspicuously at or before the time such Processing occurs.
+
+E. Notwithstanding the requirements in 4 CCR 904-3, Rule 9.04(C), nothing in 4 CCR 904-3, Rule 9.04 shall be construed as requiring the Controller to provide information to a Consumer in a manner that would disclose the Controller’s trade secrets.
+
+## Rule 9.05 CONSENT FOR PROFILING IN FURTHERANCE OF DECISIONS THAT PRODUCE LEGAL OR SIMILARLY SIGNIFICANT EFFECTS CONCERNING A CONSUMER
+
+A. When a Consumer has opted out of Profiling in furtherance of Decisions that Produce Legal or Similarly Significant Effects Concerning a Consumer as defined by C.R.S. § 6-1-1303(10), the Controller may request that a Consumer provide Consent after opting out subject to 4 CCR 904-3, Rule 7.05.
