@@ -1030,3 +1030,31 @@ E. Notwithstanding the requirements in 4 CCR 904-3, Rule 9.04(C), nothing in 4 C
 ## Rule 9.05 CONSENT FOR PROFILING IN FURTHERANCE OF DECISIONS THAT PRODUCE LEGAL OR SIMILARLY SIGNIFICANT EFFECTS CONCERNING A CONSUMER
 
 A. When a Consumer has opted out of Profiling in furtherance of Decisions that Produce Legal or Similarly Significant Effects Concerning a Consumer as defined by C.R.S. § 6-1-1303(10), the Controller may request that a Consumer provide Consent after opting out subject to 4 CCR 904-3, Rule 7.05.
+
+B. If a Controller decides to begin Processing Personal Data for Profiling in furtherance of Decisions that Produce Legal or Similarly Significant Effects Concerning a Consumer and such Processing is not reasonably necessary to or compatible with the original specified purposes for which the Personal Data was Processed, the Controller shall request the Consumer provide Consent prior to such processing, subject to C.R.S. § 6-1-1308(4) and Part 7 of these rules.
+
+C. Any request for Consent to Profiling in furtherance of Decisions that Produce Legal or Similarly Significant Effects Concerning a Consumer must include meaningful information about the Profiling that allows a Consumer to make an informed, freely given, and specific choice, including, at a minimum:
+
+1. The decision subject to the Profiling;
+2. The categories of Personal Data used in the Profiling;
+3. A non-technical, plain language explanation of the logic used in the Profiling, or a link to such information if it is included in the Controller’s privacy notice;
+4. How Profiling is used in the decision-making process, including the role of human involvement, if any;
+5. Why the Profiling is relevant to the decision-making process;
+6. Potential benefits and consequences of the decision based on the Profiling; and
+7. Any applicable links to where Consumers can find any additional information about the Profiling and decision-making process and their associated rights.
+
+D. Notwithstanding the requirements in 4 CCR 904-3, Rule 9.05(C), nothing in 4 CCR 904-3, Rule 9.05 shall be constructed as requiring the Controller to provide information to a Consumer in a manner that would disclose the Controller’s trade secrets.
+
+## Rule 9.06 DATA PROTECTION ASSESSMENTS FOR PROFILING
+
+A. Controllers must conduct and document a data protection assessment compliant with C.R.S. § 6-1-1309 and 4 CCR 904-3, Part 8 before Processing Personal Data for Profiling if the Profiling presents a reasonably foreseeable risk of:
+
+1. Unfair or deceptive treatment of, or unlawful disparate impact on Consumers;
+2. Financial or physical injury to Consumers;
+3. A physical or other intrusion upon the solitude or seclusion, or private affairs or concerns, of Consumers if the intrusion would be offensive to a reasonable person; or
+4. Other substantial injury to Consumers.
+
+B. Profiling under C.R.S. § 6-1-1309(2)(a) and covered by required data protection assessment obligations includes Profiling using Solely Automated Processing, Human Reviewed Automated Processing, and Human Involved Automated Processing.
+
+C. “Unfair or deceptive treatment” as used in C.R.S. § 6-1-1309 and 4 CCR 904-3, Rule 9.06 includes conduct or activity which violates state or federal laws that prohibit unfair and deceptive commercial practices.
+
