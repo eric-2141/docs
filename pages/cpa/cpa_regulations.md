@@ -1058,3 +1058,23 @@ B. Profiling under C.R.S. § 6-1-1309(2)(a) and covered by required data protect
 
 C. “Unfair or deceptive treatment” as used in C.R.S. § 6-1-1309 and 4 CCR 904-3, Rule 9.06 includes conduct or activity which violates state or federal laws that prohibit unfair and deceptive commercial practices.
 
+D. “Unlawful disparate impact” as used in C.R.S. § 6-1-1309 and 4 CCR 904-3, Rule 9.06 includes conduct or activity which violates state or federal laws that prohibit unlawful discrimination against Consumers.
+
+E. Controllers should consider both the type and degree of potential harm to Consumers when determining if Profiling presents a reasonably foreseeable risk of “other substantial injury” to Consumers as used in C.R.S. § 6-1-1309 and 4 CCR 904-3, Rule 9.06(A). For example, a small harm to a large number of Consumers. may constitute “other substantial injury”.
+
+F. If a Controller is Processing Personal Data for Profiling under C.R.S. § 6-1-1309(2)(a), a data protection assessment of that Processing activity must include the elements listed at 4 CCR 904-3, Rule 8.04 as well as each of the following as applicable to the assessed reasonably foreseeable risk:
+
+1. The specific types of Personal Data that were or will be used in the Profiling or decision-making process;
+2. The decision to be made using Profiling;
+3. The benefits of automated processing over manual processing for the stated purpose;
+4. A plain language explanation of why the Profiling directly and reasonably relates to the Controller’s goods and services;
+5. An explanation of the training data and logic used to create the Profiling system, including any statistics used in the analysis, either created by the Controller or provided by a Third Party which created the applicable Profiling system or software;
+6. If the Profiling is conducted by Third Party software purchased by the Controller, the name of the software and copies of any internal or external evaluations sufficient to show of the accuracy and reliability of the software where relevant to the risks described in C.R.S. § 6-1-1309(2)(a)(I)-(IV);
+7. A plain language description of the outputs secured from the Profiling process;
+8. A plain language description of how the outputs from the Profiling process are or will be used, including whether and how they are used to make a decision to provide or deny or substantially contribute to the provision or denial of financial or lending services, housing, insurance, education, enrollment or opportunity, criminal justice, employment opportunities, health-care services, or access to essential goods or services;
+9. If there is human involvement in the Profiling process, the degree and details of any human involvement;
+10. How the Profiling system is evaluated for fairness and disparate impact, and the results of any such evaluation;
+11. Safeguards used to reduce the risk of harms identified; and
+12. Safeguards for any data sets produced by or derived from the Profiling.
+
+G. If a Controller conducts a data protection assessment which includes an assessment of relevant Profiling for the purpose of complying with another jurisdiction’s law or regulation, the assessment shall satisfy the requirements established in this section if such data protection assessment is reasonably similar in scope and effect to the data protection assessment that would otherwise be 
