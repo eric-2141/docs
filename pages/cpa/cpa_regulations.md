@@ -1077,4 +1077,34 @@ F. If a Controller is Processing Personal Data for Profiling under C.R.S. § 6-1
 11. Safeguards used to reduce the risk of harms identified; and
 12. Safeguards for any data sets produced by or derived from the Profiling.
 
-G. If a Controller conducts a data protection assessment which includes an assessment of relevant Profiling for the purpose of complying with another jurisdiction’s law or regulation, the assessment shall satisfy the requirements established in this section if such data protection assessment is reasonably similar in scope and effect to the data protection assessment that would otherwise be 
+G. If a Controller conducts a data protection assessment which includes an assessment of relevant Profiling for the purpose of complying with another jurisdiction’s law or regulation, the assessment shall satisfy the requirements established in this section if such data protection assessment is reasonably similar in scope and effect to the data protection assessment that would otherwise be conducted pursuant to this section. A Controller may also submit an assessment with a supplement that contains any additional information required by this regulation.
+
+## PART 10 ENFORCEMENT
+
+## Rule 10.01 AUTHORITY AND PURPOSE
+
+A. The statutory authority for the rules in this Part 10 is C.R.S. §§ 6-1-1310 and 6-1-1311. The purpose of the rules in this Part 10 is to clarify enforcement considerations related to the Colorado Privacy Act, C.R.S. § 6-1-1303, et seq., and these Colorado Privacy Act Rules, 4 CCR 904-3.
+
+## Rule 10.02 ENFORCEMENT CONSIDERATIONS
+
+A. Nothing in the Colorado Privacy Act, C.R.S. § 6-1-1303, et seq., or these Colorado Privacy Act Rules, 4 CCR 904-3, provides the Colorado Attorney General or District Attorney, as applicable, with enforcement powers that would infringe upon rights protected by the United States Constitution or Colorado Constitution, including the right to freedom of speech or freedom of the press.
+
+## PART 11 MATERIALS INCORPORATED BY REFERENCE
+
+## Rule 11.01 AUTHORITY AND PURPOSE
+
+A. The statutory authority for the rules in this Part 10 is C.R.S. §§ 6-1-108(1) and 6-1-1313. The purpose of the rules in this Part 11 is to incorporate by reference the guidelines that are referred to in 4 CCR 904-3, Rule 3.02(A)(2).
+
+## Rule 11.02 WEB CONTENT ACCESSIBILITY GUIDELINES
+
+A. The Web Content Accessibility Guidelines, version 2.1 of June 5, 2018, from the World Wide Web Consortium, are hereby incorporated into 4 CCR 904-3, Rule 3.02(A)(2) by reference pursuant to C.R.S. § 24-4-103(12.5), and do not include any later amendments.
+
+B. Copies of the Web Content Accessibility Guidelines that are incorporated by reference into these rules may be obtained by sending a written request to the following address by U.S. mail:
+Colorado Department of Law
+Ralph L. Carr Judicial Center
+1300 Broadway, 9th Floor
+Denver, CO 80203
+
+C. The Web Content Accessibility Guidelines published by the World Wide Web Consortium incorporated by reference into these rules are available at no cost in an electronic form online at https://www.w3.org/TR/WCAG21/.
+
+D. The Colorado Department of Law also maintains a copy of the Web Content Accessibility Guidelines that are incorporated by reference into these rules that is available for public inspection at the Colorado Department of Law’s office during regular business hours.
