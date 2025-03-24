@@ -128,7 +128,7 @@ The provisions of sections 42-515 to 42-525, inclusive, apply to persons that co
 
 (c) Except as otherwise provided in sections 42-515 to 42-525, inclusive, a controller shall comply with a request by a consumer to exercise the consumer rights authorized pursuant to said sections as follows:
 
-\(1\) A controller shall respond to the consumer without undue delay, but not later than forty-five days after receipt of the request. The controller may extend the response period by forty-five additional days when reasonably necessary, considering the complexity and number of the consumer's requests, provided the controller informs the consumer of any such extension within the initial forty-five-day response period and of the reason for the extension.
+  - (1) A controller shall respond to the consumer without undue delay, but not later than forty-five days after receipt of the request. The controller may extend the response period by forty-five additional days when reasonably necessary, considering the complexity and number of the consumer's requests, provided the controller informs the consumer of any such extension within the initial forty-five-day response period and of the reason for the extension.
 
 \(2\) If a controller declines to take action regarding the consumer's request, the controller shall inform the consumer without undue delay, but not later than forty-five days after receipt of the request, of the justification for declining to take action and instructions for how to appeal the decision.
 
