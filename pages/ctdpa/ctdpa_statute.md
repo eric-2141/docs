@@ -260,3 +260,25 @@ A consumer may designate another person to serve as the consumer's authorized ag
 
 *History: P.A. 22-15 effective July 1, 2023; P.A. 23-56 amended Subsecs. (a) to (e) by adding references to consumer health data controllers and Sec. 42-526, amended Subsecs. (f) to (h) by adding references to consumer health data controllers, and made technical and conforming changes throughout, effective July 1, 2023; P.A. 23-204 changed effective date of P.A. 23-56, S. 5, from July 1, 2023, to October 1, 2023, effective June 12, 2023.*
 
+Sec. 42-525. Enforcement by Attorney General. Notice of violation. Cure period. Report. Penalty. 
+
+(a) The Attorney General shall have exclusive authority to enforce violations of sections 42-515 to 42-524, inclusive, and section 42-526.
+
+(b) 
+
+- (1) During the period beginning on July 1, 2023, and ending on December 31, 2024, the Attorney General shall, prior to initiating any action for a violation of any provision of sections 42-515 to 42-524, inclusive, issue a notice of violation to the controller if the Attorney General determines that a cure is possible. If the controller fails to cure such violation within sixty days of receipt of the notice of violation, the Attorney General may bring an action pursuant to this section.
+
+- (2) During the period beginning on October 1, 2023, and ending on December 31, 2024, the Attorney General shall, prior to initiating any action for a violation of any provision of sections 42-515 to 42-524, inclusive, and section 42-526, issue a notice of violation to the consumer health data controller if the Attorney General determines that a cure is possible. If the consumer health data controller fails to cure such violation within sixty days of receipt of the notice of violation, the Attorney General may bring an action pursuant to this section.
+
+- (3) Not later than February 1, 2024, the Attorney General shall submit a report, in accordance with section 11-4a, to the joint standing committee of the General Assembly having cognizance of matters relating to general law disclosing: (A) The number of notices of violation the Attorney General has issued; (B) the nature of each violation; (C) the number of violations that were cured during the sixty-day cure period; and (D) any other matter the Attorney General deems relevant for the purposes of such report.
+
+(c) Beginning on January 1, 2025, the Attorney General may, in determining whether to grant a controller, processor or consumer health data controller the opportunity to cure an alleged violation described in subsection (b) of this section, consider: (1) The number of violations; (2) the size and complexity of the controller, processor or consumer health data controller; (3) the nature and extent of the controller's, processor's or consumer health data controller's processing activities; (4) the substantial likelihood of injury to the public; (5) the safety of persons or property; (6) whether such alleged violation was likely caused by human or technical error; and (7) the sensitivity of the data.
+
+(d) Nothing in sections 42-515 to 42-524, inclusive, or section 42-526, shall be construed as providing the basis for, or be subject to, a private right of action for violations of said sections or any other law.
+
+(e) A violation of the requirements of sections 42-515 to 42-524, inclusive, or section 42-526, shall constitute an unfair trade practice for purposes of section 42-110b and shall be enforced solely by the Attorney General, provided the provisions of section 42-110g shall not apply to such violation.
+
+*(P.A. 22-15, S. 11; P.A. 23-204, S. 208.)*
+
+*History: P.A. 22-15 effective July 1, 2023; P.A. 23-204 amended Subsec. (a) by adding reference to Sec. 42-526, amended Subsec. (b) by designating existing provisions as Subdivs. (1) and (3), redesignating existing Subdivs. (1) to (4) as Subdiv. (3)(A) to (D) and adding new Subdiv. (2) re period beginning October 1, 2023, and ending December 31, 2024, amended Subsec. (c) by adding references to consumer health data controllers and Subdiv. (7) re sensitivity of data, amended Subsecs. (d) and (e) by adding references to Sec. 42-526, and made technical and conforming changes throughout.*
+
