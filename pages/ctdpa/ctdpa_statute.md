@@ -295,3 +295,8 @@ Sec. 42-526. Consumer health data privacy. Disclosure, access and geofencing. Ex
 *(P.A. 23-56, S. 2; 23-204, S. 207.)*
 
 *History: P.A. 23-56 effective July 1, 2023; P.A. 23-204 changed effective date of P.A. 23-56, S. 2, from July 1, 2023, to October 1, 2023, effective June 12, 2023.*
+
+## Sec. 42-527. 
+
+Reserved for future use.
+
