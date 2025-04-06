@@ -388,7 +388,7 @@ For the purposes of this section and sections 42-529a to 42-529e, inclusive:
 
 *History: P.A. 23-56 effective October 1, 2024.*
 
-Sec. 42-529a. Controllers' duties. Consumer consent. 
+## Sec. 42-529a. Controllers' duties. Consumer consent. 
 
 (a) Each controller that offers any online service, product or feature to consumers whom such controller has actual knowledge, or wilfully disregards, are minors shall use reasonable care to avoid any heightened risk of harm to minors caused by such online service, product or feature. In any enforcement action brought by the Attorney General pursuant to section 42-529e, there shall be a rebuttable presumption that a controller used reasonable care as required under this section if the controller complied with the provisions of section 42-529b concerning data protection assessments.
 
@@ -407,5 +407,23 @@ Sec. 42-529a. Controllers' duties. Consumer consent.
 - (2) The provisions of subparagraph (B) of subdivision (1) of this subsection shall not apply to services where the predominant or exclusive function is: (A) Electronic mail; or (B) direct messaging consisting of text, photos or videos that are sent between devices by electronic means, where messages are (i) shared between the sender and the recipient, (ii) only visible to the sender and the recipient, and (iii) not posted publicly.
 
 *(P.A. 23-56, S. 9.)*
+
+*History: P.A. 23-56 effective October 1, 2024.*
+
+## Sec. 42-529b. Controllers' data protections assessments. Review, record keeping, confidentiality and disclosure. Risk mitigation plan. 
+
+(a) Each controller that, on or after October 1, 2024, offers any online service, product or feature to consumers whom such controller has actual knowledge, or wilfully disregards, are minors shall conduct a data protection assessment for such online service, product or feature: (1) In a manner that is consistent with the requirements established in section 42-522; and (2) that addresses (A) the purpose of such online service, product or feature, (B) the categories of minors' personal data that such online service, product or feature processes, (C) the purposes for which such controller processes minors' personal data with respect to such online service, product or feature, and (D) any heightened risk of harm to minors that is a reasonably foreseeable result of offering such online service, product or feature to minors.
+
+(b) Each controller that conducts a data protection assessment pursuant to subsection (a) of this section shall: (1) Review such data protection assessment as necessary to account for any material change to the processing operations of the online service, product or feature that is the subject of such data protection assessment; and (2) maintain documentation concerning such data protection assessment for the longer of (A) the three-year period beginning on the date on which such processing operations cease, or (B) as long as such controller offers such online service, product or feature.
+
+(c) A single data protection assessment may address a comparable set of processing operations that include similar activities.
+
+(d) If a controller conducts a data protection assessment for the purpose of complying with another applicable law or regulation, the data protection assessment shall be deemed to satisfy the requirements established in this section if such data protection assessment is reasonably similar in scope and effect to the data protection assessment that would otherwise be conducted pursuant to this section.
+
+(e) If any controller conducts a data protection assessment pursuant to subsection (a) of this section and determines that the online service, product or feature that is the subject of such assessment poses a heightened risk of harm to minors, such controller shall establish and implement a plan to mitigate or eliminate such risk.
+
+(f) Data protection assessments shall be confidential and shall be exempt from disclosure under the Freedom of Information Act, as defined in section 1-200. To the extent any information contained in a data protection assessment disclosed to the Attorney General includes information subject to the attorney-client privilege or work product protection, such disclosure shall not constitute a waiver of such privilege or protection.
+
+*(P.A. 23-56, S. 10.)*
 
 *History: P.A. 23-56 effective October 1, 2024.*
