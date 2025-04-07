@@ -2,7 +2,7 @@
 title: CTDPA Statutory Text
 tags: 
 keywords: ctdpa, connecticut
-last_updated: April 1, 2025
+last_updated: April 7, 2025
 summary: "Below is the full text of the Connecticut Data Privacy Act. Conn. Gen. Stat. § 42-515 through 42-529e."
 sidebar: mydoc_sidebar
 permalink: ctdpa_statute.html
@@ -425,5 +425,19 @@ For the purposes of this section and sections 42-529a to 42-529e, inclusive:
 (f) Data protection assessments shall be confidential and shall be exempt from disclosure under the Freedom of Information Act, as defined in section 1-200. To the extent any information contained in a data protection assessment disclosed to the Attorney General includes information subject to the attorney-client privilege or work product protection, such disclosure shall not constitute a waiver of such privilege or protection.
 
 *(P.A. 23-56, S. 10.)*
+
+*History: P.A. 23-56 effective October 1, 2024.*
+
+## Sec. 42-529c. Processors' duties. Contracts between controllers and processors. 
+
+(a) A processor shall adhere to the instructions of a controller, and shall: (1) Assist the controller in meeting the controller's obligations under sections 42-529 to 42-529e, inclusive, taking into account (A) the nature of the processing, (B) the information available to the processor by appropriate technical and organizational measures, and (C) whether such assistance is reasonably practicable and necessary to assist the controller in meeting such obligations; and (2) provide any information that is necessary to enable the controller to conduct and document data protection assessments.
+
+(b) A contract between a controller and a processor shall satisfy the requirements established in subsection (b) of section 42-521.
+
+(c) Nothing in this section shall be construed to relieve a controller or processor from the liabilities imposed on the controller or processor by virtue of such controller's or processor's role in the processing relationship, as described in sections 42-529 to 42-529e, inclusive.
+
+(d) Determining whether a person is acting as a controller or processor with respect to a specific processing of data is a fact-based determination that depends upon the context in which personal data is to be processed. A person who is not limited in such person's processing of personal data pursuant to a controller's instructions, or who fails to adhere to such instructions, is a controller and not a processor with respect to a specific processing of data. A processor that continues to adhere to a controller's instructions with respect to a specific processing of personal data remains a processor. If a processor begins, alone or jointly with others, determining the purposes and means of the processing of personal data, the processor is a controller with respect to such processing and may be subject to an enforcement action under section 42-529e.
+
+*(P.A. 23-56, S. 11.)*
 
 *History: P.A. 23-56 effective October 1, 2024.*
