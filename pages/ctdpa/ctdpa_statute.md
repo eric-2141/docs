@@ -2,7 +2,7 @@
 title: CTDPA Statutory Text
 tags: 
 keywords: ctdpa, connecticut
-last_updated: April 8, 2025
+last_updated: April 9, 2025
 summary: "Below is the full text of the Connecticut Data Privacy Act. Conn. Gen. Stat. § 42-515 through 42-529e."
 sidebar: mydoc_sidebar
 permalink: ctdpa_statute.html
@@ -465,5 +465,27 @@ Sec. 42-529d. Exemptions.
 (h) If any controller or processor processes personal data pursuant to an exemption established in subsections (a) to (g), inclusive, of this section, such controller or processor bears the burden of demonstrating that such processing qualifies for such exemption and complies with the requirements established in subsection (g) of this section.
 
 *(P.A. 23-56, S. 12.)*
+
+*History: P.A. 23-56 effective October 1, 2024.*
+
+## Sec. 42-529e. Enforcement by Attorney General. Notice of violation. Cure period. Report. Penalty. 
+
+(a) Any violation of the provisions of sections 42-529 to 42-529d, inclusive, shall constitute an unfair trade practice under subsection (a) of section 42-110b and shall be enforced solely by the Attorney General. Nothing in this section or sections 42-529 to 42-529d, inclusive, shall be construed to create a private right of action or to provide grounds for an action under section 42-110g.
+
+(b) 
+
+- (1) During the period beginning October 1, 2024, and ending December 31, 2025, if the Attorney General, in the Attorney General's discretion, determines that a controller or processor has violated any provision of sections 42-529 to 42-529d, inclusive, but may cure such alleged violation, the Attorney General shall provide written notice to such controller or processor, in a form and manner prescribed by the Attorney General and before the Attorney General commences any action to enforce such provision, disclosing such alleged violation and such provision.
+
+- (2) 
+
+  - (A) Not later than thirty days after a controller or processor receives a notice under subdivision (1) of this subsection, the controller or processor may send a notice to the Attorney General, in a form and manner prescribed by the Attorney General, disclosing that such controller or processor has: (i) Determined that such controller or processor did not commit the alleged violation of sections 42-529 to 42-529d, inclusive; or (ii) cured such violation and taken measures that are sufficient to prevent further such violations.
+
+  - (B) If the Attorney General receives a notice described in subparagraph (A) of this subdivision and determines, in the Attorney General's discretion, that the controller or processor that sent such notice did not commit the alleged violation or has cured such violation and taken the measures described in subparagraph (A)(ii) of this subdivision, such controller or processor shall not be liable for any civil penalty under subsection (a) of this section.
+
+  - (C) Not later than February 1, 2026, the Attorney General shall submit a report, in accordance with section 11-4a, to the joint standing committee of the General Assembly having cognizance of matters relating to general law. Such report shall disclose: (i) The number of notices the Attorney General has issued pursuant to subdivision (1) of this subsection; (ii) the number of violations that were cured pursuant to subparagraphs (A) and (B) of this subdivision; and (iii) any other matter the Attorney General deems relevant for the purposes of such report.
+
+(c) Beginning on January 1, 2026, the Attorney General may, in the Attorney General's discretion, provide to a controller or processor an opportunity to cure any alleged violation of the provisions of sections 42-529 to 42-529d, inclusive, in the manner described in subdivisions (1) and (2) of subsection (b) of this section. In determining whether to grant the controller or processor an opportunity to cure such alleged violation, the Attorney General may consider: (1) The number of such violations that such controller or processor is alleged to have committed; (2) the size and complexity of such controller or processor; (3) the nature and extent of such controller's or processor's processing activities; (4) whether there exists a substantial likelihood that such alleged violation has caused or will cause public injury; (5) the safety of persons or property; (6) whether such alleged violation was likely caused by a human or technical error; and (7) the sensitivity of the data.
+
+*(P.A. 23-56, S. 13.)*
 
 *History: P.A. 23-56 effective October 1, 2024.*
