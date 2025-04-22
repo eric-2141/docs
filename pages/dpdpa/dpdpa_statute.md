@@ -8,3 +8,7 @@ sidebar: mydoc_sidebar
 permalink: dpdpa_statute.html
 folder: dpdpa
 ---
+
+## § 12D-101. Short title.
+
+This chapter shall be known and may be cited as the “Delaware Personal Data Privacy Act.”
