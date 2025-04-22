@@ -156,6 +156,30 @@ entries:
       url: /cpa_notes.html
       output: web, pdf
 
+  - title: Connecticut
+    output: web, pdf
+
+    folderitems:
+    - title: CTDPA Statute
+      url: /ctdpa_statute.html
+      output: web, pdf
+
+    - title: Legislative History
+      url: /ctdpa_history.html
+      output: web, pdf
+
+  - title: Delaware
+    output: web, pdf
+
+    folderitems:
+    - title: DPDPA Statute
+      url: /dpdpa_statute.html
+      output: web, pdf
+
+    - title: Legislative History
+      url: /dpdpa_history.html
+      output: web, pdf
+    
   - title: Navigation
     output: web, pdf
 
