@@ -237,3 +237,61 @@ c. Profiling in furtherance of solely automated decisions that produce legal or 
 (a) A consumer may designate an authorized agent to act on the consumer’s behalf to opt out of the processing of such consumer’s personal data for one or more of the purposes specified in paragraph (a)(5) of § 12D-104 of this chapter. The consumer may designate such authorized agent by way of, among other things, a platform, technology, or mechanism, including an Internet link or a browser setting, browser extension, or global device setting, indicating such consumer’s intent to opt out of such processing. For the purposes of such designation, the platform, technology, or mechanism may function as the agent for purposes of conveying the consumer’s decision to opt-out. 
 
 (b) A controller shall comply with an opt-out request received from an authorized agent if the controller is able to verify, with commercially reasonable effort, the identity of the consumer and the authorized agent’s authority to act on such consumer’s behalf. The Department of Justice may publish or reference on its website a list of agents who presumptively shall have such authority unless the controller has established a reasonable basis to conclude that the agent lacks such authority.
+
+## 12D-106. Duties of controllers.
+
+(a) A controller shall do all of the following:
+
+(1) Limit the collection of personal data to what is adequate, relevant, and reasonably necessary in relation to the purposes for which such data is processed, as disclosed to the consumer.
+
+(2) Except as otherwise permitted by this chapter, not process personal data for purposes that are neither reasonably necessary to, nor compatible with, the disclosed purposes for which such personal data is processed, as disclosed to the consumer, unless the controller obtains the consumer’s consent.
+
+(3) Establish, implement, and maintain reasonable administrative, technical, and physical data security practices to protect the confidentiality, integrity, and accessibility of personal data appropriate to the volume and nature of the personal data at issue.
+
+(4) Not process sensitive data concerning a consumer without obtaining the consumer’s consent, or, in the case of the processing of sensitive data concerning a known child, without first obtaining consent from the child’s parent or lawful guardian and otherwise complying with § 1204C of Chapter 12C of this title.
+
+(5) Not process personal data in violation of the laws of this State and federal laws that prohibit unlawful discrimination.
+
+(6) Provide an effective mechanism for a consumer to revoke the consumer’s consent under this section that is at least as easy as the mechanism by which the consumer provided the consumer’s consent and, upon revocation of such consent, cease to process the data as soon as practicable, but not later than 15 days after the receipt of such request.
+
+(7) Not process the personal data of a consumer for purposes of targeted advertising, or sell the consumer’s personal data without the consumer’s consent, under circumstances where a controller has actual knowledge or willfully disregards that the consumer is at least thirteen years of age but younger than 18 years of age. 
+
+(8) Not discriminate against a consumer for exercising any of the consumer rights contained in this chapter, including denying goods or services, charging different prices or rates for goods or services, or providing a different level of quality of goods or services to the consumer.
+
+(b) Nothing in subsection (a) of this section shall be construed to require a controller to provide a product or service that requires the personal data of a consumer which the controller does not collect or maintain, or prohibit a controller from offering a different price, rate, level, quality, or selection of goods or services to a consumer, including offering goods or services for no fee, if the offering is in connection with a consumer’s voluntary participation in a bona fide loyalty, rewards, premium features, discounts, or club card program.
+
+(c) A controller shall provide consumers with a reasonably accessible, clear, and meaningful privacy notice that includes all of the following:
+
+(1) The categories of personal data processed by the controller.
+
+(2) The purpose for processing personal data.
+
+(3) How consumers may exercise their consumer rights, including how a consumer may appeal a controller’s decision with regard to the consumer’s request.
+
+(4) The categories of personal data that the controller shares with third parties, if any.
+
+(5) The categories of third parties with which the controller shares personal data, if any.
+
+(6) An active electronic mail address or other online mechanism that the consumer may use to contact the controller.
+
+(d) If a controller sells personal data to third parties or processes personal data for targeted advertising, the controller shall clearly and conspicuously disclose such processing, as well as the manner in which a consumer may exercise the right to opt out of such processing.
+
+(e)(1) A controller shall establish, and shall describe in the privacy notice required by subsection (c) of this section, one or more secure and reliable means for consumers to submit a request to exercise their consumer rights pursuant to this chapter. Such means shall take into account the ways in which consumers normally interact with the controller, the need for secure and reliable communication of such requests, and the ability of the controller to verify the identity of the consumer making the request. A controller shall not require a consumer to create a new account in order to exercise consumer rights, but may require a consumer to use an existing account. Any such means shall include all of the following:
+
+a.1. Providing a clear and conspicuous link on the controller’s Internet web site to an Internet web page that enables a consumer, or an agent of the consumer, to opt out of the targeted advertising or the sale of the consumer’s personal data.
+
+2. Not later than [one year following the effective date of this Act], allowing a consumer to opt out of any processing of the consumer’s personal data for the purposes of targeted advertising, or any sale of such personal data, through an opt-out preference signal sent, with such consumer’s consent, by a platform, technology, or mechanism to the controller indicating such consumer’s intent to opt out of any such processing or sale. Such platform, technology, or mechanism shall do all of the following:
+
+A. Not unfairly disadvantage another controller.
+
+B. Not make use of a default setting, but, rather, require the consumer to make an affirmative, freely given, and unambiguous choice to opt out of any processing of such consumer’s personal data pursuant to this chapter.
+
+C. Be consumer-friendly and easy to use by the average consumer.
+
+D. Be as consistent as possible with any other similar platform, technology, or mechanism required by any federal or state law or regulation.
+
+E. Enable the controller to reasonably determine whether the consumer is a resident of the State and whether the consumer has made a legitimate request to opt out of any sale of such consumer’s personal data or targeted advertising.
+
+b. If a consumer’s decision to opt out of any processing of the consumer’s personal data for the purposes of targeted advertising, or any sale of such personal data, through an opt-out preference signal sent in accordance with the provisions of paragraph (1)a. of this subsection conflicts with the consumer’s existing controller-specific privacy setting or voluntary participation in a controller’s bona fide loyalty, rewards, premium features, discounts or club card program, the controller shall comply with such consumer’s opt-out preference signal but may notify such consumer of such conflict and provide to such consumer the choice to confirm such controller-specific privacy setting or participation in such program. 
+
+(2) If a controller responds to consumer opt‐out requests received pursuant to paragraph (1)a. of this subsection by informing the consumer of a charge for the use of any product or service, the controller shall present the terms of any financial incentive offered pursuant to paragraph (1)b. of this subsection for the retention, use, sale, or sharing of the consumer’s personal data.
