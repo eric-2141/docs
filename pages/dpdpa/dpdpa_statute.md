@@ -295,3 +295,29 @@ E. Enable the controller to reasonably determine whether the consumer is a resid
 b. If a consumer’s decision to opt out of any processing of the consumer’s personal data for the purposes of targeted advertising, or any sale of such personal data, through an opt-out preference signal sent in accordance with the provisions of paragraph (1)a. of this subsection conflicts with the consumer’s existing controller-specific privacy setting or voluntary participation in a controller’s bona fide loyalty, rewards, premium features, discounts or club card program, the controller shall comply with such consumer’s opt-out preference signal but may notify such consumer of such conflict and provide to such consumer the choice to confirm such controller-specific privacy setting or participation in such program. 
 
 (2) If a controller responds to consumer opt‐out requests received pursuant to paragraph (1)a. of this subsection by informing the consumer of a charge for the use of any product or service, the controller shall present the terms of any financial incentive offered pursuant to paragraph (1)b. of this subsection for the retention, use, sale, or sharing of the consumer’s personal data.
+
+## 12D-107. Duties of processors.
+
+(a) A processor shall adhere to the instructions of a controller and shall assist the controller in meeting the controller’s obligations under this chapter. Such assistance must include all of the following:
+
+(1) Taking into account the nature of processing and the information available to the processor, by appropriate technical and organizational measures, insofar as is reasonably practicable, to fulfill the controller’s obligation to respond to consumer rights requests.
+
+(2) Taking into account the nature of processing and the information available to the processor, by assisting the controller in meeting the controller’s obligations in relation to the security of processing the personal data and in relation to the notification of a breach of security, as defined in § 12B-101(1) of Chapter 12B of this title, of the system of the processor, in order to meet the controller’s obligations.
+
+(3) Providing necessary information to enable the controller to conduct and document data protection assessments. 
+
+(b) A contract between a controller and a processor must govern the processor’s data processing procedures with respect to processing performed on behalf of the controller. The contract must be binding and clearly set forth instructions for processing data, the nature and purpose of processing, the type of data subject to processing, the duration of processing and the rights and obligations of both parties. The contract must also require that the processor to do all of the following:
+
+(1) Ensure that each person processing personal data is subject to a duty of confidentiality with respect to the data.
+
+(2) At the controller’s direction, delete or return all personal data to the controller as requested at the end of the provision of services, unless retention of the personal data is required by law.
+
+(3) Upon the reasonable request of the controller, make available to the controller all information in its possession necessary to demonstrate the processor’s compliance with the obligations in this chapter.
+
+(4) After providing the controller an opportunity to object, engage any subcontractor pursuant to a written contract that requires the subcontractor to meet the obligations of the processor with respect to the personal data.
+
+(5) Allow, and cooperate with, reasonable assessments by the controller or the controller’s designated assessor, or the processor may arrange for a qualified and independent assessor to conduct an assessment of the processor’s policies and technical and organizational measures in support of the obligations under this chapter, using an appropriate and accepted control standard or framework and assessment procedure for such assessments. The processor shall provide a report of such assessment to the controller upon request.
+
+(c) Nothing in this section may be construed to relieve a controller or processor from the liabilities imposed on the controller or processor by virtue of such controller’s or processor’s role in the processing relationship, as described in this chapter.
+
+(d) Determining whether a person is acting as a controller or processor with respect to a specific processing of data is a fact-based determination that depends upon the context in which personal data is to be processed. A person who is not limited in such person’s processing of personal data pursuant to a controller’s instructions, or who fails to adhere to such instructions, is a controller and not a processor with respect to a specific processing of data. A processor that continues to adhere to a controller’s instructions with respect to a specific processing of personal data remains a processor. If a processor begins, alone or jointly with others, determining the purposes and means of the processing of personal data, the processor is a controller with respect to such processing and may be subject to an enforcement action under this chapter.
